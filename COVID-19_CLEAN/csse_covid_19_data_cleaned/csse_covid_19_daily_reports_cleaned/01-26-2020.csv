@@ -1,0 +1,48 @@
+"Date_Published","FIPS","Admin2","Province_State","Country_Region","Last_Update","Latitude","Longitude","Confirmed","Deaths","Recovered","Active","Combined_Key"
+"01-26-2020",NA,NA,"Hubei","Mainland China",2020-01-26 16:00:00,NA,NA,1058,52,42,NA,NA
+"01-26-2020",NA,NA,"Guangdong","Mainland China",2020-01-26 16:00:00,NA,NA,111,0,2,NA,NA
+"01-26-2020",NA,NA,"Zhejiang","Mainland China",2020-01-26 16:00:00,NA,NA,104,0,1,NA,NA
+"01-26-2020",NA,NA,"Henan","Mainland China",2020-01-26 16:00:00,NA,NA,83,1,0,NA,NA
+"01-26-2020",NA,NA,"Chongqing","Mainland China",2020-01-26 16:00:00,NA,NA,75,0,0,NA,NA
+"01-26-2020",NA,NA,"Hunan","Mainland China",2020-01-26 16:00:00,NA,NA,69,0,0,NA,NA
+"01-26-2020",NA,NA,"Beijing","Mainland China",2020-01-26 16:00:00,NA,NA,68,0,2,NA,NA
+"01-26-2020",NA,NA,"Anhui","Mainland China",2020-01-26 16:00:00,NA,NA,60,0,0,NA,NA
+"01-26-2020",NA,NA,"Shandong","Mainland China",2020-01-26 16:00:00,NA,NA,46,0,0,NA,NA
+"01-26-2020",NA,NA,"Sichuan","Mainland China",2020-01-26 16:00:00,NA,NA,44,0,0,NA,NA
+"01-26-2020",NA,NA,"Shanghai","Mainland China",2020-01-26 16:00:00,NA,NA,40,1,1,NA,NA
+"01-26-2020",NA,NA,"Guangxi","Mainland China",2020-01-26 16:00:00,NA,NA,36,0,0,NA,NA
+"01-26-2020",NA,NA,"Jiangxi","Mainland China",2020-01-26 16:00:00,NA,NA,36,0,0,NA,NA
+"01-26-2020",NA,NA,"Fujian","Mainland China",2020-01-26 16:00:00,NA,NA,35,0,0,NA,NA
+"01-26-2020",NA,NA,"Jiangsu","Mainland China",2020-01-26 16:00:00,NA,NA,33,0,1,NA,NA
+"01-26-2020",NA,NA,"Hainan","Mainland China",2020-01-26 16:00:00,NA,NA,22,0,0,NA,NA
+"01-26-2020",NA,NA,"Shaanxi","Mainland China",2020-01-26 16:00:00,NA,NA,22,0,0,NA,NA
+"01-26-2020",NA,NA,"Liaoning","Mainland China",2020-01-26 16:00:00,NA,NA,21,0,0,NA,NA
+"01-26-2020",NA,NA,"Yunnan","Mainland China",2020-01-26 16:00:00,NA,NA,16,0,0,NA,NA
+"01-26-2020",NA,NA,"Heilongjiang","Mainland China",2020-01-26 16:00:00,NA,NA,15,1,0,NA,NA
+"01-26-2020",NA,NA,"Tianjin","Mainland China",2020-01-26 16:00:00,NA,NA,14,0,0,NA,NA
+"01-26-2020",NA,NA,"Hebei","Mainland China",2020-01-26 16:00:00,NA,NA,13,1,0,NA,NA
+"01-26-2020",NA,NA,"Shanxi","Mainland China",2020-01-26 16:00:00,NA,NA,9,0,0,NA,NA
+"01-26-2020",NA,NA,"Hong Kong","Hong Kong",2020-01-26 16:00:00,NA,NA,8,0,0,NA,NA
+"01-26-2020",NA,NA,"Inner Mongolia","Mainland China",2020-01-26 16:00:00,NA,NA,7,0,0,NA,NA
+"01-26-2020",NA,NA,"Gansu","Mainland China",2020-01-26 16:00:00,NA,NA,7,0,0,NA,NA
+"01-26-2020",NA,NA,"Guizhou","Mainland China",2020-01-26 16:00:00,NA,NA,5,0,0,NA,NA
+"01-26-2020",NA,NA,"Macau","Macau",2020-01-26 16:00:00,NA,NA,5,0,0,NA,NA
+"01-26-2020",NA,NA,"Ningxia","Mainland China",2020-01-26 16:00:00,NA,NA,4,0,0,NA,NA
+"01-26-2020",NA,NA,"Jilin","Mainland China",2020-01-26 16:00:00,NA,NA,4,0,0,NA,NA
+"01-26-2020",NA,NA,"Taiwan","Taiwan",2020-01-26 16:00:00,NA,NA,4,0,0,NA,NA
+"01-26-2020",NA,NA,"Xinjiang","Mainland China",2020-01-26 16:00:00,NA,NA,4,0,0,NA,NA
+"01-26-2020",NA,NA,"Qinghai","Mainland China",2020-01-26 16:00:00,NA,NA,1,0,0,NA,NA
+"01-26-2020",NA,NA,"Washington","US",2020-01-26 16:00:00,NA,NA,1,0,0,NA,NA
+"01-26-2020",NA,NA,"Illinois","US",2020-01-26 16:00:00,NA,NA,1,0,0,NA,NA
+"01-26-2020",NA,NA,"California","US",2020-01-26 16:00:00,NA,NA,2,0,0,NA,NA
+"01-26-2020",NA,NA,"Arizona","US",2020-01-26 16:00:00,NA,NA,1,0,0,NA,NA
+"01-26-2020",NA,NA,NA,"Japan",2020-01-26 16:00:00,NA,NA,4,0,1,NA,NA
+"01-26-2020",NA,NA,NA,"Thailand",2020-01-26 16:00:00,NA,NA,8,0,2,NA,NA
+"01-26-2020",NA,NA,NA,"South Korea",2020-01-26 16:00:00,NA,NA,3,0,0,NA,NA
+"01-26-2020",NA,NA,NA,"Singapore",2020-01-26 16:00:00,NA,NA,4,0,0,NA,NA
+"01-26-2020",NA,NA,NA,"Vietnam",2020-01-26 16:00:00,NA,NA,2,0,0,NA,NA
+"01-26-2020",NA,NA,NA,"France",2020-01-26 16:00:00,NA,NA,3,0,0,NA,NA
+"01-26-2020",NA,NA,NA,"Australia",2020-01-26 16:00:00,NA,NA,4,0,0,NA,NA
+"01-26-2020",NA,NA,NA,"Nepal",2020-01-26 16:00:00,NA,NA,1,0,0,NA,NA
+"01-26-2020",NA,NA,NA,"Malaysia",2020-01-26 16:00:00,NA,NA,4,0,0,NA,NA
+"01-26-2020",NA,NA,"Ontario","Canada",2020-01-26 16:00:00,NA,NA,1,0,0,NA,NA
