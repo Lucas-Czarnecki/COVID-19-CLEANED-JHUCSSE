@@ -28,3 +28,26 @@ New variables will be added **IF and WHEN** JHU CSSE make changes. However, the 
 
 JHU CSSE is working on a new data structure, which may result in further changes to their time series tables. See JHU CSSE for [Upcoming changes in time series tables (3/22)](https://github.com/CSSEGISandData/COVID-19/issues/1250).
 
+### **United States: County-level Data**
+
+As of March 31st, 2020, JHU CSSE provides separate time series data on the United States. Their US-only data set features county-level information; including, the number of confirmed cases, deaths, and population statistics. 
+
+The following variables are available and are presented in this order:
+
+1. UID
+2.	iso2	
+3. iso3	
+4. code3
+5. FIPS	
+6. Admin2	
+7. Province_State	
+8. Country_Region	
+9. Latitude	
+10. Longitude	
+11. Combined_Key	
+12. Date	
+13. Population	
+14. Confirmed	
+15. Deaths
+
+New variables will be added **IF and WHEN** JHU CSSE make changes. However, the above variable names will not change. If JHU CSSE introduce new variables, these will be added *sequentially* to the variables above. 
