@@ -1,9 +1,3 @@
-# Update 04-12-2020
-
-JHU CSSE introduced another significant change to its data format on 04-12-2020. Cleaned daily reports will be suspended for a couple of days to ensure the format is permanent. You can expect some additional variables added soon as well as additional cleaning (e.g., country names, FIPS codes, etc.).
-
-Time series data will still be updated.
-
 # Cleaned COVID-19 Data from JHU CSSE (R-Friendly)
 
 This repository contains cleaned daily reports and time series data from [the 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository](https://github.com/CSSEGISandData/COVID-19#2019-novel-coronavirus-covid-19-2019-ncov-data-repository-by-johns-hopkins-csse) by Johns Hopkins University for Systems Science and Engineering (JHU CSSE). 
