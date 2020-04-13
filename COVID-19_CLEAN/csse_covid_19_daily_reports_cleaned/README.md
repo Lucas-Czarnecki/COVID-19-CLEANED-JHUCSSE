@@ -1,9 +1,3 @@
-# Update 04-12-2020
-
-JHU CSSE introduced another significant change to its data format on 04-12-2020. Cleaned daily reports will be suspended for a couple of days to ensure the format is permanent. You can expect some additional variables added soon as well as additional cleaning (e.g., country names, FIPS codes, etc.). 
-
-Time series data will still be updated. 
-
 # Cleaned Daily Reports (csse_covid_19_daily_reports)
 
 This folder contains cleaned daily reports from CSSE JHU. Unlike CSSE JHU's raw csv files, every file in this folder consists of the same variables. These variables adopt a consistent naming scheme and order that will not change (although new variables may be added sequentially). Cleaned daily reports will be added daily to this folder to reflect the latest additions and updates from JHU CSSE. 
