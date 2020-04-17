@@ -16,6 +16,8 @@ The cleaned data are organized within the following folders akin to how JHU CSSE
 2. Cleaned Time Series Data (csse_covid_19_time_series)
 3. Cleaned JHU CSSE Data (csse_covid_19_clean_data)
     * This is a new folder. It contains the above daily reports (concatenated) and time series data in a .Rdata format. 
+4. Cleaned Supporting Material (csse_cleaned_supporting_material)
+    * This is a new folder that contains a cleaned copy of JHU CSSE's Lookup Table (i.e., UID_ISO_FIPS_LookUp_Table.csv) for mapping geographical codes to regions.
 
 ---
 ## 1) Cleaned Daily Reports (csse_covid_19_daily_reports)
@@ -51,9 +53,9 @@ New variables will be added **IF and WHEN** JHU CSSE make changes. However, the 
 * Blank cells indicating an absence of COVID-19 `Confirmed`, `Deaths`, and `Recovered` cases are replace with zeros. (Preventing programs like R from treating these as missing values). 
 
 ---
-## 2) Time Series Summary (csse_covid_19_time_series)
+## 2) Tidy Time-Series Summary (csse_covid_19_time_series)
 
-This folder contains time series data in a tidy rather than wide format. Data includes `confirmed`, `deaths` and `recovered` cases of COVID-19. All data are from the JHU CSSE's time series csv files (which JHU CSSE creates from their daily case reports).
+This folder contains time-series data in a tidy rather than wide format. Data includes `confirmed`, `deaths` and `recovered` cases of COVID-19. All data are from the JHU CSSE's time series csv files (which JHU CSSE creates from their daily case reports).
 
 ### **Variable Names**
 
@@ -80,6 +82,22 @@ New variables will be added **IF and WHEN** JHU CSSE make changes. However, the 
 ## 3) Clean JHU CSSE Data (csse_covid_19_clean_data)
 
 This folder contains the latest data from JHU CSSE in .Rdata format. One file, i.e., **CSSE_DailyReports.Rdata**, concatenates their daily reports; `Date_Published` identifies the csv file behind each daily report. The second file, i.e., **CSSE_TimeSeries.Rdata**,  contains the latest time series data. Both files are presented in long rather than wide format. Data are also cleaned per the descriptions above.   
+
+## 4) Cleaned Supporting Material (csse_cleaned_supporting_material)
+
+This folder contains other miscellaneous files that JHU CSSE shares on GitHub. Currently it consists of a cleaned copy of JHU's Lookup Table (i.e., UID_ISO_FIPS_LookUp_Table.csv), which contains geographical codes and population statistics on various regions. 
+
+### **What is different?**
+
+* `FIPS` is encoded as a character variable rather than an integer. Relatedly, a known issue with FIPS codes is fixed such that state-level and county-level FIPS codes are appropriately padded with leading zeros. FIPS codes include an appropriate number of digits for states (e.g., Alabama's FIPS is 01 rather than 1) and counties (e.g., Alabama's Autauga is 01001 rather than 1001).
+* Some country names have been modified in `Country_Region` to ensure a more consistent naming scheme across data; specifically, 
+    * "US" becomes "United States".
+    * "Korea, South" becomes "South Korea".
+    * "Taiwan*" becomes "Taiwan".
+* Blank cells are treated as missing values. 
+
+> Warning: When opening the **Lookup_Table.csv** keep in mind that programs such as Microsoft Excel and LibreOffice Calc will, by default, truncate leading zeros. Keep this tidbit in mind when opening the file in these programs or consider using a text editor such as Notepad++. 
+
 
 ---
 ## Credits
