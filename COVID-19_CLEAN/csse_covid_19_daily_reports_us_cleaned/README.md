@@ -1,4 +1,4 @@
-# USA daily state reports (csse_covid_19_daily_reports_us_cleaned)
+# Cleaned USA daily state reports (csse_covid_19_daily_reports_us_cleaned)
 
 This folder contains daily reports from JHU CSSE's **csse_covid_19_daily_reports_us** folder. Daily reports contain US-only data, which are aggregated at the state level.  
 

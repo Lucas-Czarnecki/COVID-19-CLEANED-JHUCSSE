@@ -12,15 +12,16 @@ This repository contains cleaned daily reports and time series data from [the 20
 
 The cleaned data are organized within the following folders akin to how JHU CSSE organize their data. 
 
-1. Cleaned Daily Reports (csse_covid_19_daily_reports)
-2. Cleaned Time Series Data (csse_covid_19_time_series)
-3. Cleaned JHU CSSE Data (csse_covid_19_clean_data)
+1. Cleaned Daily Reports (csse_covid_19_daily_reports_cleaned)
+2. Cleaned Daily Reports US (csse_covid_19_daily_reports_us_cleaned)
+3. Tidy Time-Series Data (csse_covid_19_time_series_cleaned)
+4. Cleaned JHU CSSE Data (csse_covid_19_clean_data)
     * This is a new folder. It contains the above daily reports (concatenated) and time series data in a .Rdata format. 
-4. Cleaned Supporting Material (csse_cleaned_supporting_material)
+5. Cleaned Supporting Material (csse_cleaned_supporting_material)
     * This is a new folder that contains a cleaned copy of JHU CSSE's Lookup Table (i.e., UID_ISO_FIPS_LookUp_Table.csv) for mapping geographical codes to regions.
 
 ---
-## 1) Cleaned Daily Reports (csse_covid_19_daily_reports)
+## 1) Cleaned Daily Reports (csse_covid_19_daily_reports_cleaned)
 
 This folder contains cleaned daily reports from CSSE JHU. Unlike CSSE JHU's raw csv files, every file in this folder consists of the same variables. These variables adopt a consistent naming scheme and order that will not change (although new variables may be added sequentially). Cleaned daily reports will be added daily to this folder to reflect the latest additions and updates from JHU CSSE. 
 
@@ -53,7 +54,41 @@ New variables will be added **IF and WHEN** JHU CSSE make changes. However, the 
 * Blank cells indicating an absence of COVID-19 `Confirmed`, `Deaths`, and `Recovered` cases are replace with zeros. (Preventing programs like R from treating these as missing values). 
 
 ---
-## 2) Tidy Time-Series Summary (csse_covid_19_time_series)
+## 2) Cleaned USA daily state reports (csse_covid_19_daily_reports_us_cleaned)
+
+This folder contains daily reports from JHU CSSE's **csse_covid_19_daily_reports_us** folder. Daily reports contain **US-only data**, which are aggregated at the state level.  
+
+These are similar to daily reports discussed above, but include more variables. 
+
+The following columns are found in every csv file in this order:
+
+1. Date_Published
+2. UID
+3. iso2  
+4. iso3            
+5. code3     
+6. FIPS    
+7. Province_State
+8. Country_Region  
+9. Last_Update  
+10. Latitude   
+11. Longitude   
+12. Confirmed          
+13. Deaths     
+14. Recovered    
+15. Active           
+16. Incident_Rate
+17. People_Tested
+18. People_Hospitalized
+19. Mortality_Rate
+20. Testing_Rate
+21. Hospitalization_Rate
+22. Population    
+
+See the README in **csse_covid_19_daily_reports_us_cleaned** for more information. 
+
+---
+## 3) Tidy Time-Series Summary (csse_covid_19_time_series_cleaned)
 
 This folder contains time-series data in a tidy rather than wide format. Data includes `confirmed`, `deaths` and `recovered` cases of COVID-19. All data are from the JHU CSSE's time series csv files (which JHU CSSE creates from their daily case reports).
 
@@ -79,11 +114,11 @@ New variables will be added **IF and WHEN** JHU CSSE make changes. However, the 
 
 > Warning: The length of `Recovered` cases is less than `Confirmed` and `Deaths`. Missing values indicate dates where data on recoveries are unavailable. JHU CSSE also warns that there are no reliable data sources reporting recovered cases for many countries. Therefore, please excercise caution when interpreting data on the number of recoveries. 
 
-## 3) Clean JHU CSSE Data (csse_covid_19_clean_data)
+## 4) Clean JHU CSSE Data (csse_covid_19_clean_data)
 
 This folder contains the latest data from JHU CSSE in .Rdata format. One file, i.e., **CSSE_DailyReports.Rdata**, concatenates their daily reports; `Date_Published` identifies the csv file behind each daily report. The second file, i.e., **CSSE_TimeSeries.Rdata**,  contains the latest time series data. Both files are presented in long rather than wide format. Data are also cleaned per the descriptions above.   
 
-## 4) Cleaned Supporting Material (csse_cleaned_supporting_material)
+## 5) Cleaned Supporting Material (csse_cleaned_supporting_material)
 
 This folder contains other miscellaneous files that JHU CSSE shares on GitHub. Currently it consists of a cleaned copy of JHU's Lookup Table (i.e., UID_ISO_FIPS_LookUp_Table.csv), which contains geographical codes and population statistics on various regions. 
 
