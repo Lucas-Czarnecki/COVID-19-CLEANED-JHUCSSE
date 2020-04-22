@@ -1,76 +1,76 @@
 "Date_Published","FIPS","Admin2","Province_State","Country_Region","Last_Update","Latitude","Longitude","Confirmed","Deaths","Recovered","Active","Combined_Key"
-"02-15-2020",NA,NA,"Hubei","Mainland China",2020-02-15 23:13:05,NA,NA,56249,1596,5623,NA,NA
-"02-15-2020",NA,NA,"Guangdong","Mainland China",2020-02-15 14:03:04,NA,NA,1294,2,410,NA,NA
-"02-15-2020",NA,NA,"Henan","Mainland China",2020-02-15 12:13:08,NA,NA,1212,13,391,NA,NA
-"02-15-2020",NA,NA,"Zhejiang","Mainland China",2020-02-15 11:23:17,NA,NA,1162,0,428,NA,NA
-"02-15-2020",NA,NA,"Hunan","Mainland China",2020-02-15 13:03:04,NA,NA,1001,2,425,NA,NA
-"02-15-2020",NA,NA,"Anhui","Mainland China",2020-02-15 12:13:08,NA,NA,950,6,221,NA,NA
-"02-15-2020",NA,NA,"Jiangxi","Mainland China",2020-02-15 01:33:02,NA,NA,913,1,210,NA,NA
-"02-15-2020",NA,NA,"Jiangsu","Mainland China",2020-02-15 12:13:08,NA,NA,604,0,186,NA,NA
-"02-15-2020",NA,NA,"Chongqing","Mainland China",2020-02-15 23:23:07,NA,NA,544,5,184,NA,NA
-"02-15-2020",NA,NA,"Shandong","Mainland China",2020-02-15 11:23:17,NA,NA,532,2,156,NA,NA
-"02-15-2020",NA,NA,"Sichuan","Mainland China",2020-02-15 08:43:03,NA,NA,470,1,119,NA,NA
-"02-15-2020",NA,NA,"Heilongjiang","Mainland China",2020-02-15 11:43:01,NA,NA,425,11,68,NA,NA
-"02-15-2020",NA,NA,"Beijing","Mainland China",2020-02-15 09:53:01,NA,NA,375,4,98,NA,NA
-"02-15-2020",NA,NA,"Shanghai","Mainland China",2020-02-15 03:13:06,NA,NA,326,1,124,NA,NA
-"02-15-2020",NA,NA,"Hebei","Mainland China",2020-02-15 13:03:04,NA,NA,291,3,101,NA,NA
-"02-15-2020",NA,NA,"Fujian","Mainland China",2020-02-15 13:03:04,NA,NA,285,0,71,NA,NA
-"02-15-2020",NA,NA,"Diamond Princess cruise ship","Others",2020-02-15 17:03:04,NA,NA,285,0,0,NA,NA
-"02-15-2020",NA,NA,"Guangxi","Mainland China",2020-02-15 06:33:01,NA,NA,235,2,44,NA,NA
-"02-15-2020",NA,NA,"Shaanxi","Mainland China",2020-02-15 12:13:08,NA,NA,232,0,60,NA,NA
-"02-15-2020",NA,NA,"Yunnan","Mainland China",2020-02-15 06:33:01,NA,NA,168,0,42,NA,NA
-"02-15-2020",NA,NA,"Hainan","Mainland China",2020-02-15 11:23:17,NA,NA,162,4,39,NA,NA
-"02-15-2020",NA,NA,"Guizhou","Mainland China",2020-02-15 14:53:04,NA,NA,143,1,41,NA,NA
-"02-15-2020",NA,NA,"Shanxi","Mainland China",2020-02-15 23:13:05,NA,NA,128,0,46,NA,NA
-"02-15-2020",NA,NA,"Tianjin","Mainland China",2020-02-15 13:43:01,NA,NA,122,3,37,NA,NA
-"02-15-2020",NA,NA,"Liaoning","Mainland China",2020-02-15 09:53:01,NA,NA,119,1,31,NA,NA
-"02-15-2020",NA,NA,"Gansu","Mainland China",2020-02-15 12:13:08,NA,NA,90,2,49,NA,NA
-"02-15-2020",NA,NA,"Jilin","Mainland China",2020-02-15 12:13:08,NA,NA,88,1,26,NA,NA
-"02-15-2020",NA,NA,NA,"Singapore",2020-02-15 23:53:02,NA,NA,72,0,18,NA,NA
-"02-15-2020",NA,NA,"Ningxia","Mainland China",2020-02-15 08:43:03,NA,NA,70,0,33,NA,NA
-"02-15-2020",NA,NA,"Xinjiang","Mainland China",2020-02-15 09:53:01,NA,NA,70,1,10,NA,NA
-"02-15-2020",NA,NA,"Inner Mongolia","Mainland China",2020-02-15 14:03:04,NA,NA,68,0,7,NA,NA
-"02-15-2020",NA,NA,"Hong Kong","Hong Kong",2020-02-14 09:03:12,NA,NA,56,1,1,NA,NA
-"02-15-2020",NA,NA,NA,"Japan",2020-02-15 17:43:06,NA,NA,43,1,12,NA,NA
-"02-15-2020",NA,NA,NA,"Thailand",2020-02-13 17:53:03,NA,NA,33,0,12,NA,NA
-"02-15-2020",NA,NA,NA,"South Korea",2020-02-15 23:33:02,NA,NA,28,0,9,NA,NA
-"02-15-2020",NA,NA,NA,"Malaysia",2020-02-15 23:43:02,NA,NA,22,0,7,NA,NA
-"02-15-2020",NA,NA,"Qinghai","Mainland China",2020-02-15 08:43:03,NA,NA,18,0,13,NA,NA
-"02-15-2020",NA,NA,"Taiwan","Taiwan",2020-02-15 03:43:02,NA,NA,18,0,2,NA,NA
-"02-15-2020",NA,NA,NA,"Germany",2020-02-13 15:13:11,NA,NA,16,0,1,NA,NA
-"02-15-2020",NA,NA,NA,"Vietnam",2020-02-13 06:33:02,NA,NA,16,0,7,NA,NA
-"02-15-2020",NA,NA,NA,"France",2020-02-15 20:53:02,NA,NA,12,1,4,NA,NA
-"02-15-2020",NA,NA,"Macau","Macau",2020-02-13 14:13:06,NA,NA,10,0,3,NA,NA
-"02-15-2020",NA,NA,NA,"UK",2020-02-12 19:03:06,NA,NA,9,0,1,NA,NA
-"02-15-2020",NA,NA,NA,"United Arab Emirates",2020-02-15 06:03:03,NA,NA,8,0,3,NA,NA
-"02-15-2020",NA,NA,"Queensland","Australia",2020-02-09 19:33:02,NA,NA,5,0,0,NA,NA
-"02-15-2020",NA,NA,"New South Wales","Australia",2020-02-13 17:53:03,NA,NA,4,0,4,NA,NA
-"02-15-2020",NA,NA,"Victoria","Australia",2020-02-13 17:53:03,NA,NA,4,0,4,NA,NA
-"02-15-2020",NA,NA,"British Columbia","Canada",2020-02-07 05:43:03,NA,NA,4,0,0,NA,NA
-"02-15-2020",NA,NA,NA,"India",2020-02-13 18:53:02,NA,NA,3,0,0,NA,NA
-"02-15-2020",NA,NA,NA,"Italy",2020-02-07 17:53:02,NA,NA,3,0,0,NA,NA
-"02-15-2020",NA,NA,NA,"Philippines",2020-02-12 07:43:02,NA,NA,3,1,1,NA,NA
-"02-15-2020",NA,NA,"South Australia","Australia",2020-02-02 22:33:07,NA,NA,2,0,0,NA,NA
-"02-15-2020",NA,NA,"Toronto, ON","Canada",2020-02-04 00:13:06,NA,NA,2,0,0,NA,NA
-"02-15-2020",NA,NA,NA,"Russia",2020-02-12 14:43:03,NA,NA,2,0,2,NA,NA
-"02-15-2020",NA,NA,NA,"Spain",2020-02-15 17:23:04,NA,NA,2,0,2,NA,NA
-"02-15-2020",NA,NA,"Chicago, IL","US",2020-02-09 19:03:03,NA,NA,2,0,2,NA,NA
-"02-15-2020",NA,NA,"San Benito, CA","US",2020-02-03 03:53:02,NA,NA,2,0,0,NA,NA
-"02-15-2020",NA,NA,"San Diego County, CA","US",2020-02-13 03:13:08,NA,NA,2,0,0,NA,NA
-"02-15-2020",NA,NA,"Santa Clara, CA","US",2020-02-03 00:43:02,NA,NA,2,0,0,NA,NA
-"02-15-2020",NA,NA,NA,"Belgium",2020-02-04 15:43:02,NA,NA,1,0,0,NA,NA
-"02-15-2020",NA,NA,NA,"Cambodia",2020-02-12 07:43:02,NA,NA,1,0,1,NA,NA
-"02-15-2020",NA,NA,"London, ON","Canada",2020-02-12 18:53:03,NA,NA,1,0,1,NA,NA
-"02-15-2020",NA,NA,NA,"Egypt",2020-02-14 23:53:02,NA,NA,1,0,0,NA,NA
-"02-15-2020",NA,NA,NA,"Finland",2020-02-12 00:03:12,NA,NA,1,0,1,NA,NA
-"02-15-2020",NA,NA,"Tibet","Mainland China",2020-02-12 06:43:02,NA,NA,1,0,1,NA,NA
-"02-15-2020",NA,NA,NA,"Nepal",2020-02-12 14:43:03,NA,NA,1,0,1,NA,NA
-"02-15-2020",NA,NA,NA,"Sri Lanka",2020-02-08 03:43:03,NA,NA,1,0,1,NA,NA
-"02-15-2020",NA,NA,NA,"Sweden",2020-02-01 02:13:26,NA,NA,1,0,0,NA,NA
-"02-15-2020",NA,NA,"Boston, MA","US",2020-02-01 19:43:03,NA,NA,1,0,0,NA,NA
-"02-15-2020",NA,NA,"Los Angeles, CA","US",2020-02-01 19:53:03,NA,NA,1,0,0,NA,NA
-"02-15-2020",NA,NA,"Madison, WI","US",2020-02-05 21:53:02,NA,NA,1,0,0,NA,NA
-"02-15-2020",NA,NA,"Orange, CA","US",2020-02-01 19:53:03,NA,NA,1,0,0,NA,NA
-"02-15-2020",NA,NA,"San Antonio, TX","US",2020-02-13 18:53:02,NA,NA,1,0,0,NA,NA
-"02-15-2020",NA,NA,"Seattle, WA","US",2020-02-09 07:03:04,NA,NA,1,0,1,NA,NA
-"02-15-2020",NA,NA,"Tempe, AZ","US",2020-02-01 19:43:03,NA,NA,1,0,0,NA,NA
+"02-15-2020",NA,NA,"Hubei","China",2020-02-15 23:13:05,30.9756,112.2707,56249,1596,5623,49030,"Hubei, China"
+"02-15-2020",NA,NA,"Guangdong","China",2020-02-15 14:03:04,23.3417,113.4244,1294,2,410,882,"Guangdong, China"
+"02-15-2020",NA,NA,"Henan","China",2020-02-15 12:13:08,33.882,113.614,1212,13,391,808,"Henan, China"
+"02-15-2020",NA,NA,"Zhejiang","China",2020-02-15 11:23:17,29.1832,120.0934,1162,0,428,734,"Zhejiang, China"
+"02-15-2020",NA,NA,"Hunan","China",2020-02-15 13:03:04,27.6104,111.7088,1001,2,425,574,"Hunan, China"
+"02-15-2020",NA,NA,"Anhui","China",2020-02-15 12:13:08,31.8257,117.2264,950,6,221,723,"Anhui, China"
+"02-15-2020",NA,NA,"Jiangxi","China",2020-02-15 01:33:02,27.614,115.7221,913,1,210,702,"Jiangxi, China"
+"02-15-2020",NA,NA,"Jiangsu","China",2020-02-15 12:13:08,32.9711,119.455,604,0,186,418,"Jiangsu, China"
+"02-15-2020",NA,NA,"Chongqing","China",2020-02-15 23:23:07,30.0572,107.874,544,5,184,355,"Chongqing, China"
+"02-15-2020",NA,NA,"Shandong","China",2020-02-15 11:23:17,36.3427,118.1498,532,2,156,374,"Shandong, China"
+"02-15-2020",NA,NA,"Sichuan","China",2020-02-15 08:43:03,30.6171,102.7103,470,1,119,350,"Sichuan, China"
+"02-15-2020",NA,NA,"Heilongjiang","China",2020-02-15 11:43:01,47.862,127.7615,425,11,68,346,"Heilongjiang, China"
+"02-15-2020",NA,NA,"Beijing","China",2020-02-15 09:53:01,40.1824,116.4142,375,4,98,273,"Beijing, China"
+"02-15-2020",NA,NA,"Shanghai","China",2020-02-15 03:13:06,31.202,121.4491,326,1,124,201,"Shanghai, China"
+"02-15-2020",NA,NA,"Hebei","China",2020-02-15 13:03:04,39.549,116.1306,291,3,101,187,"Hebei, China"
+"02-15-2020",NA,NA,"Fujian","China",2020-02-15 13:03:04,26.0789,117.9874,285,0,71,214,"Fujian, China"
+"02-15-2020",NA,NA,"Diamond Princess cruise ship","Others",2020-02-15 17:03:04,NA,NA,285,0,0,285,"Diamond Princess cruise ship, Others"
+"02-15-2020",NA,NA,"Guangxi","China",2020-02-15 06:33:01,23.8298,108.7881,235,2,44,189,"Guangxi, China"
+"02-15-2020",NA,NA,"Shaanxi","China",2020-02-15 12:13:08,35.1917,108.8701,232,0,60,172,"Shaanxi, China"
+"02-15-2020",NA,NA,"Yunnan","China",2020-02-15 06:33:01,24.974,101.487,168,0,42,126,"Yunnan, China"
+"02-15-2020",NA,NA,"Hainan","China",2020-02-15 11:23:17,19.1959,109.7453,162,4,39,119,"Hainan, China"
+"02-15-2020",NA,NA,"Guizhou","China",2020-02-15 14:53:04,26.8154,106.8748,143,1,41,101,"Guizhou, China"
+"02-15-2020",NA,NA,"Shanxi","China",2020-02-15 23:13:05,37.5777,112.2922,128,0,46,82,"Shanxi, China"
+"02-15-2020",NA,NA,"Tianjin","China",2020-02-15 13:43:01,39.3054,117.323,122,3,37,82,"Tianjin, China"
+"02-15-2020",NA,NA,"Liaoning","China",2020-02-15 09:53:01,41.2956,122.6085,119,1,31,87,"Liaoning, China"
+"02-15-2020",NA,NA,"Gansu","China",2020-02-15 12:13:08,37.8099,101.0583,90,2,49,39,"Gansu, China"
+"02-15-2020",NA,NA,"Jilin","China",2020-02-15 12:13:08,43.6661,126.1923,88,1,26,61,"Jilin, China"
+"02-15-2020",NA,NA,NA,"Singapore",2020-02-15 23:53:02,1.2833,103.8333,72,0,18,54,"Singapore"
+"02-15-2020",NA,NA,"Ningxia","China",2020-02-15 08:43:03,37.2692,106.1655,70,0,33,37,"Ningxia, China"
+"02-15-2020",NA,NA,"Xinjiang","China",2020-02-15 09:53:01,41.1129,85.2401,70,1,10,59,"Xinjiang, China"
+"02-15-2020",NA,NA,"Inner Mongolia","China",2020-02-15 14:03:04,44.0935,113.9448,68,0,7,61,"Inner Mongolia, China"
+"02-15-2020",NA,NA,"Hong Kong","China",2020-02-14 09:03:12,22.3,114.2,56,1,1,54,"Hong Kong, China"
+"02-15-2020",NA,NA,NA,"Japan",2020-02-15 17:43:06,36.204824,138.252924,43,1,12,30,"Japan"
+"02-15-2020",NA,NA,NA,"Thailand",2020-02-13 17:53:03,15.870032,100.992541,33,0,12,21,"Thailand"
+"02-15-2020",NA,NA,NA,"South Korea",2020-02-15 23:33:02,35.907757,127.766922,28,0,9,19,"South Korea"
+"02-15-2020",NA,NA,NA,"Malaysia",2020-02-15 23:43:02,4.210484,101.975766,22,0,7,15,"Malaysia"
+"02-15-2020",NA,NA,"Qinghai","China",2020-02-15 08:43:03,35.7452,95.9956,18,0,13,5,"Qinghai, China"
+"02-15-2020",NA,NA,NA,"Taiwan",2020-02-15 03:43:02,23.7,121,18,0,2,16,"Taiwan"
+"02-15-2020",NA,NA,NA,"Germany",2020-02-13 15:13:11,51.165691,10.451526,16,0,1,15,"Germany"
+"02-15-2020",NA,NA,NA,"Vietnam",2020-02-13 06:33:02,14.058324,108.277199,16,0,7,9,"Vietnam"
+"02-15-2020",NA,NA,NA,"France",2020-02-15 20:53:02,46.2276,2.2137,12,1,4,7,"France"
+"02-15-2020",NA,NA,"Macau","China",2020-02-13 14:13:06,22.1667,113.55,10,0,3,7,"Macau, China"
+"02-15-2020",NA,NA,NA,"United Kingdom",2020-02-12 19:03:06,55.3781,-3.436,9,0,1,8,"United Kingdom"
+"02-15-2020",NA,NA,NA,"United Arab Emirates",2020-02-15 06:03:03,23.424076,53.847818,8,0,3,5,"United Arab Emirates"
+"02-15-2020",NA,NA,"Queensland","Australia",2020-02-09 19:33:02,-27.4698,153.0251,5,0,0,5,"Queensland, Australia"
+"02-15-2020",NA,NA,"New South Wales","Australia",2020-02-13 17:53:03,-33.8688,151.2093,4,0,4,0,"New South Wales, Australia"
+"02-15-2020",NA,NA,"Victoria","Australia",2020-02-13 17:53:03,-37.8136,144.9631,4,0,4,0,"Victoria, Australia"
+"02-15-2020",NA,NA,"British Columbia","Canada",2020-02-07 05:43:03,53.7267,-127.6476,4,0,0,4,"British Columbia, Canada"
+"02-15-2020",NA,NA,NA,"India",2020-02-13 18:53:02,20.593684,78.96288,3,0,0,3,"India"
+"02-15-2020",NA,NA,NA,"Italy",2020-02-07 17:53:02,41.87194,12.56738,3,0,0,3,"Italy"
+"02-15-2020",NA,NA,NA,"Philippines",2020-02-12 07:43:02,12.879721,121.774017,3,1,1,1,"Philippines"
+"02-15-2020",NA,NA,"South Australia","Australia",2020-02-02 22:33:07,-34.9285,138.6007,2,0,0,2,"South Australia, Australia"
+"02-15-2020",NA,"Toronto","Ontario","Canada",2020-02-04 00:13:06,NA,NA,2,0,0,2,"Toronto, Ontario, Canada"
+"02-15-2020",NA,NA,NA,"Russia",2020-02-12 14:43:03,61.52401,105.318756,2,0,2,0,"Russia"
+"02-15-2020",NA,NA,NA,"Spain",2020-02-15 17:23:04,40.463667,-3.74922,2,0,2,0,"Spain"
+"02-15-2020",NA,"Chicago","Illinois","United States",2020-02-09 19:03:03,NA,NA,2,0,2,0,"Chicago, Illinois, United States"
+"02-15-2020","06069","San Benito","California","United States",2020-02-03 03:53:02,36.60308176,-121.069975,2,0,0,2,"San Benito, California, United States"
+"02-15-2020",NA,"San Diego County","California","United States",2020-02-13 03:13:08,NA,NA,2,0,0,2,"San Diego County, California, United States"
+"02-15-2020","06085","Santa Clara","California","United States",2020-02-03 00:43:02,37.23104908,-121.6970462,2,0,0,2,"Santa Clara, California, United States"
+"02-15-2020",NA,NA,NA,"Belgium",2020-02-04 15:43:02,50.8333,4.469936,1,0,0,1,"Belgium"
+"02-15-2020",NA,NA,NA,"Cambodia",2020-02-12 07:43:02,11.55,104.9167,1,0,1,0,"Cambodia"
+"02-15-2020",NA,"London","Ontario","Canada",2020-02-12 18:53:03,NA,NA,1,0,1,0,"London, Ontario, Canada"
+"02-15-2020",NA,NA,NA,"Egypt",2020-02-14 23:53:02,26.820553,30.802498,1,0,0,1,"Egypt"
+"02-15-2020",NA,NA,NA,"Finland",2020-02-12 00:03:12,61.92411,25.748151,1,0,1,0,"Finland"
+"02-15-2020",NA,NA,"Tibet","China",2020-02-12 06:43:02,31.6927,88.0924,1,0,1,0,"Tibet, China"
+"02-15-2020",NA,NA,NA,"Nepal",2020-02-12 14:43:03,28.1667,84.25,1,0,1,0,"Nepal"
+"02-15-2020",NA,NA,NA,"Sri Lanka",2020-02-08 03:43:03,7.873054,80.771797,1,0,1,0,"Sri Lanka"
+"02-15-2020",NA,NA,NA,"Sweden",2020-02-01 02:13:26,60.128161,18.643501,1,0,0,1,"Sweden"
+"02-15-2020",NA,"Boston","Massachusetts","United States",2020-02-01 19:43:03,NA,NA,1,0,0,1,"Boston, Massachusetts, United States"
+"02-15-2020","06037","Los Angeles","California","United States",2020-02-01 19:53:03,34.30828379,-118.2282411,1,0,0,1,"Los Angeles, California, United States"
+"02-15-2020",NA,"Madison","Wisconsin","United States",2020-02-05 21:53:02,NA,NA,1,0,0,1,"Madison, Wisconsin, United States"
+"02-15-2020","06059","Orange","California","United States",2020-02-01 19:53:03,33.70147516,-117.7645998,1,0,0,1,"Orange, California, United States"
+"02-15-2020",NA,"San Antonio","Texas","United States",2020-02-13 18:53:02,NA,NA,1,0,0,1,"San Antonio, Texas, United States"
+"02-15-2020",NA,"Seattle","Washington","United States",2020-02-09 07:03:04,NA,NA,1,0,1,0,"Seattle, Washington, United States"
+"02-15-2020",NA,"Tempe","Arizona","United States",2020-02-01 19:43:03,NA,NA,1,0,0,1,"Tempe, Arizona, United States"

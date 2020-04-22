@@ -1,91 +1,91 @@
 "Date_Published","FIPS","Admin2","Province_State","Country_Region","Last_Update","Latitude","Longitude","Confirmed","Deaths","Recovered","Active","Combined_Key"
-"02-24-2020",NA,NA,"Hubei","Mainland China",2020-02-24 11:13:09,NA,NA,64287,2495,16748,NA,NA
-"02-24-2020",NA,NA,"Guangdong","Mainland China",2020-02-24 10:23:02,NA,NA,1345,6,786,NA,NA
-"02-24-2020",NA,NA,"Henan","Mainland China",2020-02-24 13:23:05,NA,NA,1271,19,943,NA,NA
-"02-24-2020",NA,NA,"Zhejiang","Mainland China",2020-02-24 09:43:02,NA,NA,1205,1,782,NA,NA
-"02-24-2020",NA,NA,"Hunan","Mainland China",2020-02-24 14:13:11,NA,NA,1016,4,731,NA,NA
-"02-24-2020",NA,NA,"Anhui","Mainland China",2020-02-24 09:43:02,NA,NA,989,6,663,NA,NA
-"02-24-2020",NA,NA,"Jiangxi","Mainland China",2020-02-24 01:23:09,NA,NA,934,1,645,NA,NA
-"02-24-2020",NA,NA,NA,"South Korea",2020-02-24 11:13:10,NA,NA,833,8,18,NA,NA
-"02-24-2020",NA,NA,"Shandong","Mainland China",2020-02-24 10:23:02,NA,NA,755,5,343,NA,NA
-"02-24-2020",NA,NA,"Diamond Princess cruise ship","Others",2020-02-23 22:33:03,NA,NA,691,3,0,NA,NA
-"02-24-2020",NA,NA,"Jiangsu","Mainland China",2020-02-24 14:53:02,NA,NA,631,0,452,NA,NA
-"02-24-2020",NA,NA,"Chongqing","Mainland China",2020-02-24 23:23:01,NA,NA,576,6,349,NA,NA
-"02-24-2020",NA,NA,"Sichuan","Mainland China",2020-02-24 14:13:11,NA,NA,527,3,276,NA,NA
-"02-24-2020",NA,NA,"Heilongjiang","Mainland China",2020-02-24 14:53:02,NA,NA,480,12,227,NA,NA
-"02-24-2020",NA,NA,"Beijing","Mainland China",2020-02-24 00:53:02,NA,NA,399,4,198,NA,NA
-"02-24-2020",NA,NA,"Shanghai","Mainland China",2020-02-24 07:03:06,NA,NA,335,3,261,NA,NA
-"02-24-2020",NA,NA,"Hebei","Mainland China",2020-02-24 14:13:11,NA,NA,311,6,234,NA,NA
-"02-24-2020",NA,NA,"Fujian","Mainland China",2020-02-24 10:23:02,NA,NA,293,1,183,NA,NA
-"02-24-2020",NA,NA,"Guangxi","Mainland China",2020-02-24 06:53:02,NA,NA,251,2,112,NA,NA
-"02-24-2020",NA,NA,"Shaanxi","Mainland China",2020-02-24 14:53:02,NA,NA,245,1,173,NA,NA
-"02-24-2020",NA,NA,NA,"Italy",2020-02-24 23:43:01,NA,NA,229,7,1,NA,NA
-"02-24-2020",NA,NA,"Yunnan","Mainland China",2020-02-24 23:13:02,NA,NA,174,2,124,NA,NA
-"02-24-2020",NA,NA,"Hainan","Mainland China",2020-02-24 14:53:02,NA,NA,168,5,116,NA,NA
-"02-24-2020",NA,NA,NA,"Japan",2020-02-24 14:23:03,NA,NA,159,1,22,NA,NA
-"02-24-2020",NA,NA,"Guizhou","Mainland China",2020-02-23 12:43:02,NA,NA,146,2,102,NA,NA
-"02-24-2020",NA,NA,"Tianjin","Mainland China",2020-02-24 15:03:05,NA,NA,135,3,87,NA,NA
-"02-24-2020",NA,NA,"Shanxi","Mainland China",2020-02-24 23:13:02,NA,NA,133,0,94,NA,NA
-"02-24-2020",NA,NA,"Liaoning","Mainland China",2020-02-24 06:53:02,NA,NA,121,1,80,NA,NA
-"02-24-2020",NA,NA,"Jilin","Mainland China",2020-02-24 09:43:02,NA,NA,93,1,60,NA,NA
-"02-24-2020",NA,NA,"Gansu","Mainland China",2020-02-24 15:13:07,NA,NA,91,2,80,NA,NA
-"02-24-2020",NA,NA,NA,"Singapore",2020-02-23 15:13:15,NA,NA,89,0,51,NA,NA
-"02-24-2020",NA,NA,"Hong Kong","Hong Kong",2020-02-24 11:23:06,NA,NA,79,2,19,NA,NA
-"02-24-2020",NA,NA,"Xinjiang","Mainland China",2020-02-24 15:03:05,NA,NA,76,2,30,NA,NA
-"02-24-2020",NA,NA,"Inner Mongolia","Mainland China",2020-02-24 15:03:05,NA,NA,75,0,34,NA,NA
-"02-24-2020",NA,NA,"Ningxia","Mainland China",2020-02-24 06:53:02,NA,NA,71,0,58,NA,NA
-"02-24-2020",NA,NA,NA,"Iran",2020-02-24 11:13:10,NA,NA,61,12,0,NA,NA
-"02-24-2020",NA,NA,"Unassigned Location (From Diamond Princess)","US",2020-02-24 23:33:02,NA,NA,36,0,0,NA,NA
-"02-24-2020",NA,NA,NA,"Thailand",2020-02-23 15:03:05,NA,NA,35,0,21,NA,NA
-"02-24-2020",NA,NA,"Taiwan","Taiwan",2020-02-24 10:13:28,NA,NA,30,1,5,NA,NA
-"02-24-2020",NA,NA,NA,"Malaysia",2020-02-24 11:53:02,NA,NA,22,0,18,NA,NA
-"02-24-2020",NA,NA,"Qinghai","Mainland China",2020-02-21 04:43:02,NA,NA,18,0,18,NA,NA
-"02-24-2020",NA,NA,NA,"Germany",2020-02-21 23:03:13,NA,NA,16,0,14,NA,NA
-"02-24-2020",NA,NA,NA,"Vietnam",2020-02-21 06:03:04,NA,NA,16,0,14,NA,NA
-"02-24-2020",NA,NA,NA,"UK",2020-02-24 08:33:02,NA,NA,13,0,8,NA,NA
-"02-24-2020",NA,NA,NA,"United Arab Emirates",2020-02-22 14:53:02,NA,NA,13,0,4,NA,NA
-"02-24-2020",NA,NA,NA,"France",2020-02-15 20:53:02,NA,NA,12,1,4,NA,NA
-"02-24-2020",NA,NA,"Macau","Macau",2020-02-20 02:13:19,NA,NA,10,0,6,NA,NA
-"02-24-2020",NA,NA,"From Diamond Princess","Australia",2020-02-22 17:03:05,NA,NA,7,0,0,NA,NA
-"02-24-2020",NA,NA,"British Columbia","Canada",2020-02-21 05:23:04,NA,NA,6,0,0,NA,NA
-"02-24-2020",NA,NA,"Queensland","Australia",2020-02-21 05:43:02,NA,NA,5,0,1,NA,NA
-"02-24-2020",NA,NA,"New South Wales","Australia",2020-02-13 17:53:03,NA,NA,4,0,4,NA,NA
-"02-24-2020",NA,NA,"Victoria","Australia",2020-02-13 17:53:03,NA,NA,4,0,4,NA,NA
-"02-24-2020",NA,NA,"Toronto, ON","Canada",2020-02-24 14:43:03,NA,NA,3,0,2,NA,NA
-"02-24-2020",NA,NA,NA,"India",2020-02-16 07:43:02,NA,NA,3,0,3,NA,NA
-"02-24-2020",NA,NA,NA,"Philippines",2020-02-12 07:43:02,NA,NA,3,1,1,NA,NA
-"02-24-2020",NA,NA,"South Australia","Australia",2020-02-17 08:13:09,NA,NA,2,0,2,NA,NA
-"02-24-2020",NA,NA,NA,"Oman",2020-02-24 23:43:01,NA,NA,2,0,0,NA,NA
-"02-24-2020",NA,NA,NA,"Russia",2020-02-12 14:43:03,NA,NA,2,0,2,NA,NA
-"02-24-2020",NA,NA,NA,"Spain",2020-02-15 17:23:04,NA,NA,2,0,2,NA,NA
-"02-24-2020",NA,NA,"Chicago, IL","US",2020-02-09 19:03:03,NA,NA,2,0,2,NA,NA
-"02-24-2020",NA,NA,"San Benito, CA","US",2020-02-03 03:53:02,NA,NA,2,0,0,NA,NA
-"02-24-2020",NA,NA,"San Diego County, CA","US",2020-02-21 05:43:02,NA,NA,2,0,1,NA,NA
-"02-24-2020",NA,NA,"Santa Clara, CA","US",2020-02-21 05:23:04,NA,NA,2,0,1,NA,NA
-"02-24-2020",NA,NA,NA,"Afghanistan",2020-02-24 23:33:02,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,NA,"Bahrain",2020-02-24 23:33:02,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,NA,"Belgium",2020-02-17 04:23:06,NA,NA,1,0,1,NA,NA
-"02-24-2020",NA,NA,NA,"Cambodia",2020-02-12 07:43:02,NA,NA,1,0,1,NA,NA
-"02-24-2020",NA,NA,"London, ON","Canada",2020-02-12 18:53:03,NA,NA,1,0,1,NA,NA
-"02-24-2020",NA,NA,NA,"Egypt",2020-02-21 18:53:02,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,NA,"Finland",2020-02-12 00:03:12,NA,NA,1,0,1,NA,NA
-"02-24-2020",NA,NA,NA,"Iraq",2020-02-24 23:33:02,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"From Diamond Princess","Israel",2020-02-22 20:53:02,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,NA,"Kuwait",2020-02-24 23:33:02,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,NA,"Lebanon",2020-02-22 20:53:02,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"Tibet","Mainland China",2020-02-12 06:43:02,NA,NA,1,0,1,NA,NA
-"02-24-2020",NA,NA,NA,"Nepal",2020-02-12 14:43:03,NA,NA,1,0,1,NA,NA
-"02-24-2020",NA,NA,NA,"Sri Lanka",2020-02-08 03:43:03,NA,NA,1,0,1,NA,NA
-"02-24-2020",NA,NA,NA,"Sweden",2020-02-01 02:13:26,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"Boston, MA","US",2020-02-01 19:43:03,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"Humboldt County, CA","US",2020-02-21 05:13:09,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"Los Angeles, CA","US",2020-02-01 19:53:03,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"Madison, WI","US",2020-02-05 21:53:02,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"Orange, CA","US",2020-02-01 19:53:03,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"Sacramento County, CA","US",2020-02-21 23:13:16,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"San Antonio, TX","US",2020-02-13 18:53:02,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"Seattle, WA","US",2020-02-09 07:03:04,NA,NA,1,0,1,NA,NA
-"02-24-2020",NA,NA,"Tempe, AZ","US",2020-02-01 19:43:03,NA,NA,1,0,0,NA,NA
-"02-24-2020",NA,NA,"Lackland, TX (From Diamond Princess)","US",2020-02-24 23:33:02,NA,NA,0,0,0,NA,NA
-"02-24-2020",NA,NA,"Omaha, NE (From Diamond Princess)","US",2020-02-24 23:33:02,NA,NA,0,0,0,NA,NA
-"02-24-2020",NA,NA,"Travis, CA (From Diamond Princess)","US",2020-02-24 23:33:02,NA,NA,0,0,0,NA,NA
+"02-24-2020",NA,NA,"Hubei","China",2020-02-24 11:13:09,30.9756,112.2707,64287,2495,16748,45044,"Hubei, China"
+"02-24-2020",NA,NA,"Guangdong","China",2020-02-24 10:23:02,23.3417,113.4244,1345,6,786,553,"Guangdong, China"
+"02-24-2020",NA,NA,"Henan","China",2020-02-24 13:23:05,33.882,113.614,1271,19,943,309,"Henan, China"
+"02-24-2020",NA,NA,"Zhejiang","China",2020-02-24 09:43:02,29.1832,120.0934,1205,1,782,422,"Zhejiang, China"
+"02-24-2020",NA,NA,"Hunan","China",2020-02-24 14:13:11,27.6104,111.7088,1016,4,731,281,"Hunan, China"
+"02-24-2020",NA,NA,"Anhui","China",2020-02-24 09:43:02,31.8257,117.2264,989,6,663,320,"Anhui, China"
+"02-24-2020",NA,NA,"Jiangxi","China",2020-02-24 01:23:09,27.614,115.7221,934,1,645,288,"Jiangxi, China"
+"02-24-2020",NA,NA,NA,"South Korea",2020-02-24 11:13:10,35.907757,127.766922,833,8,18,807,"South Korea"
+"02-24-2020",NA,NA,"Shandong","China",2020-02-24 10:23:02,36.3427,118.1498,755,5,343,407,"Shandong, China"
+"02-24-2020",NA,NA,"Diamond Princess cruise ship","Others",2020-02-23 22:33:03,NA,NA,691,3,0,688,"Diamond Princess cruise ship, Others"
+"02-24-2020",NA,NA,"Jiangsu","China",2020-02-24 14:53:02,32.9711,119.455,631,0,452,179,"Jiangsu, China"
+"02-24-2020",NA,NA,"Chongqing","China",2020-02-24 23:23:01,30.0572,107.874,576,6,349,221,"Chongqing, China"
+"02-24-2020",NA,NA,"Sichuan","China",2020-02-24 14:13:11,30.6171,102.7103,527,3,276,248,"Sichuan, China"
+"02-24-2020",NA,NA,"Heilongjiang","China",2020-02-24 14:53:02,47.862,127.7615,480,12,227,241,"Heilongjiang, China"
+"02-24-2020",NA,NA,"Beijing","China",2020-02-24 00:53:02,40.1824,116.4142,399,4,198,197,"Beijing, China"
+"02-24-2020",NA,NA,"Shanghai","China",2020-02-24 07:03:06,31.202,121.4491,335,3,261,71,"Shanghai, China"
+"02-24-2020",NA,NA,"Hebei","China",2020-02-24 14:13:11,39.549,116.1306,311,6,234,71,"Hebei, China"
+"02-24-2020",NA,NA,"Fujian","China",2020-02-24 10:23:02,26.0789,117.9874,293,1,183,109,"Fujian, China"
+"02-24-2020",NA,NA,"Guangxi","China",2020-02-24 06:53:02,23.8298,108.7881,251,2,112,137,"Guangxi, China"
+"02-24-2020",NA,NA,"Shaanxi","China",2020-02-24 14:53:02,35.1917,108.8701,245,1,173,71,"Shaanxi, China"
+"02-24-2020",NA,NA,NA,"Italy",2020-02-24 23:43:01,41.87194,12.56738,229,7,1,221,"Italy"
+"02-24-2020",NA,NA,"Yunnan","China",2020-02-24 23:13:02,24.974,101.487,174,2,124,48,"Yunnan, China"
+"02-24-2020",NA,NA,"Hainan","China",2020-02-24 14:53:02,19.1959,109.7453,168,5,116,47,"Hainan, China"
+"02-24-2020",NA,NA,NA,"Japan",2020-02-24 14:23:03,36.204824,138.252924,159,1,22,136,"Japan"
+"02-24-2020",NA,NA,"Guizhou","China",2020-02-23 12:43:02,26.8154,106.8748,146,2,102,42,"Guizhou, China"
+"02-24-2020",NA,NA,"Tianjin","China",2020-02-24 15:03:05,39.3054,117.323,135,3,87,45,"Tianjin, China"
+"02-24-2020",NA,NA,"Shanxi","China",2020-02-24 23:13:02,37.5777,112.2922,133,0,94,39,"Shanxi, China"
+"02-24-2020",NA,NA,"Liaoning","China",2020-02-24 06:53:02,41.2956,122.6085,121,1,80,40,"Liaoning, China"
+"02-24-2020",NA,NA,"Jilin","China",2020-02-24 09:43:02,43.6661,126.1923,93,1,60,32,"Jilin, China"
+"02-24-2020",NA,NA,"Gansu","China",2020-02-24 15:13:07,37.8099,101.0583,91,2,80,9,"Gansu, China"
+"02-24-2020",NA,NA,NA,"Singapore",2020-02-23 15:13:15,1.2833,103.8333,89,0,51,38,"Singapore"
+"02-24-2020",NA,NA,"Hong Kong","China",2020-02-24 11:23:06,22.3,114.2,79,2,19,58,"Hong Kong, China"
+"02-24-2020",NA,NA,"Xinjiang","China",2020-02-24 15:03:05,41.1129,85.2401,76,2,30,44,"Xinjiang, China"
+"02-24-2020",NA,NA,"Inner Mongolia","China",2020-02-24 15:03:05,44.0935,113.9448,75,0,34,41,"Inner Mongolia, China"
+"02-24-2020",NA,NA,"Ningxia","China",2020-02-24 06:53:02,37.2692,106.1655,71,0,58,13,"Ningxia, China"
+"02-24-2020",NA,NA,NA,"Iran",2020-02-24 11:13:10,32.427908,53.688046,61,12,0,49,"Iran"
+"02-24-2020",NA,NA,"Unassigned Location (From Diamond Princess)","United States",2020-02-24 23:33:02,NA,NA,36,0,0,36,"Unassigned Location (From Diamond Princess), United States"
+"02-24-2020",NA,NA,NA,"Thailand",2020-02-23 15:03:05,15.870032,100.992541,35,0,21,14,"Thailand"
+"02-24-2020",NA,NA,NA,"Taiwan",2020-02-24 10:13:28,23.7,121,30,1,5,24,"Taiwan"
+"02-24-2020",NA,NA,NA,"Malaysia",2020-02-24 11:53:02,4.210484,101.975766,22,0,18,4,"Malaysia"
+"02-24-2020",NA,NA,"Qinghai","China",2020-02-21 04:43:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
+"02-24-2020",NA,NA,NA,"Germany",2020-02-21 23:03:13,51.165691,10.451526,16,0,14,2,"Germany"
+"02-24-2020",NA,NA,NA,"Vietnam",2020-02-21 06:03:04,14.058324,108.277199,16,0,14,2,"Vietnam"
+"02-24-2020",NA,NA,NA,"United Kingdom",2020-02-24 08:33:02,55.3781,-3.436,13,0,8,5,"United Kingdom"
+"02-24-2020",NA,NA,NA,"United Arab Emirates",2020-02-22 14:53:02,23.424076,53.847818,13,0,4,9,"United Arab Emirates"
+"02-24-2020",NA,NA,NA,"France",2020-02-15 20:53:02,46.2276,2.2137,12,1,4,7,"France"
+"02-24-2020",NA,NA,"Macau","China",2020-02-20 02:13:19,22.1667,113.55,10,0,6,4,"Macau, China"
+"02-24-2020",NA,NA,"From Diamond Princess","Australia",2020-02-22 17:03:05,NA,NA,7,0,0,7,"From Diamond Princess, Australia"
+"02-24-2020",NA,NA,"British Columbia","Canada",2020-02-21 05:23:04,53.7267,-127.6476,6,0,0,6,"British Columbia, Canada"
+"02-24-2020",NA,NA,"Queensland","Australia",2020-02-21 05:43:02,-27.4698,153.0251,5,0,1,4,"Queensland, Australia"
+"02-24-2020",NA,NA,"New South Wales","Australia",2020-02-13 17:53:03,-33.8688,151.2093,4,0,4,0,"New South Wales, Australia"
+"02-24-2020",NA,NA,"Victoria","Australia",2020-02-13 17:53:03,-37.8136,144.9631,4,0,4,0,"Victoria, Australia"
+"02-24-2020",NA,"Toronto","Ontario","Canada",2020-02-24 14:43:03,NA,NA,3,0,2,1,"Toronto, Ontario, Canada"
+"02-24-2020",NA,NA,NA,"India",2020-02-16 07:43:02,20.593684,78.96288,3,0,3,0,"India"
+"02-24-2020",NA,NA,NA,"Philippines",2020-02-12 07:43:02,12.879721,121.774017,3,1,1,1,"Philippines"
+"02-24-2020",NA,NA,"South Australia","Australia",2020-02-17 08:13:09,-34.9285,138.6007,2,0,2,0,"South Australia, Australia"
+"02-24-2020",NA,NA,NA,"Oman",2020-02-24 23:43:01,21.512583,55.923255,2,0,0,2,"Oman"
+"02-24-2020",NA,NA,NA,"Russia",2020-02-12 14:43:03,61.52401,105.318756,2,0,2,0,"Russia"
+"02-24-2020",NA,NA,NA,"Spain",2020-02-15 17:23:04,40.463667,-3.74922,2,0,2,0,"Spain"
+"02-24-2020",NA,"Chicago","Illinois","United States",2020-02-09 19:03:03,NA,NA,2,0,2,0,"Chicago, Illinois, United States"
+"02-24-2020","06069","San Benito","California","United States",2020-02-03 03:53:02,36.60308176,-121.069975,2,0,0,2,"San Benito, California, United States"
+"02-24-2020",NA,"San Diego County","California","United States",2020-02-21 05:43:02,NA,NA,2,0,1,1,"San Diego County, California, United States"
+"02-24-2020","06085","Santa Clara","California","United States",2020-02-21 05:23:04,37.23104908,-121.6970462,2,0,1,1,"Santa Clara, California, United States"
+"02-24-2020",NA,NA,NA,"Afghanistan",2020-02-24 23:33:02,33.93911,67.709953,1,0,0,1,"Afghanistan"
+"02-24-2020",NA,NA,NA,"Bahrain",2020-02-24 23:33:02,26.0275,50.55,1,0,0,1,"Bahrain"
+"02-24-2020",NA,NA,NA,"Belgium",2020-02-17 04:23:06,50.8333,4.469936,1,0,1,0,"Belgium"
+"02-24-2020",NA,NA,NA,"Cambodia",2020-02-12 07:43:02,11.55,104.9167,1,0,1,0,"Cambodia"
+"02-24-2020",NA,"London","Ontario","Canada",2020-02-12 18:53:03,NA,NA,1,0,1,0,"London, Ontario, Canada"
+"02-24-2020",NA,NA,NA,"Egypt",2020-02-21 18:53:02,26.820553,30.802498,1,0,0,1,"Egypt"
+"02-24-2020",NA,NA,NA,"Finland",2020-02-12 00:03:12,61.92411,25.748151,1,0,1,0,"Finland"
+"02-24-2020",NA,NA,NA,"Iraq",2020-02-24 23:33:02,33.223191,43.679291,1,0,0,1,"Iraq"
+"02-24-2020",NA,NA,"From Diamond Princess","Israel",2020-02-22 20:53:02,NA,NA,1,0,0,1,"From Diamond Princess, Israel"
+"02-24-2020",NA,NA,NA,"Kuwait",2020-02-24 23:33:02,29.31166,47.481766,1,0,0,1,"Kuwait"
+"02-24-2020",NA,NA,NA,"Lebanon",2020-02-22 20:53:02,33.8547,35.8623,1,0,0,1,"Lebanon"
+"02-24-2020",NA,NA,"Tibet","China",2020-02-12 06:43:02,31.6927,88.0924,1,0,1,0,"Tibet, China"
+"02-24-2020",NA,NA,NA,"Nepal",2020-02-12 14:43:03,28.1667,84.25,1,0,1,0,"Nepal"
+"02-24-2020",NA,NA,NA,"Sri Lanka",2020-02-08 03:43:03,7.873054,80.771797,1,0,1,0,"Sri Lanka"
+"02-24-2020",NA,NA,NA,"Sweden",2020-02-01 02:13:26,60.128161,18.643501,1,0,0,1,"Sweden"
+"02-24-2020",NA,"Boston","Massachusetts","United States",2020-02-01 19:43:03,NA,NA,1,0,0,1,"Boston, Massachusetts, United States"
+"02-24-2020",NA,"Humboldt County","California","United States",2020-02-21 05:13:09,NA,NA,1,0,0,1,"Humboldt County, California, United States"
+"02-24-2020","06037","Los Angeles","California","United States",2020-02-01 19:53:03,34.30828379,-118.2282411,1,0,0,1,"Los Angeles, California, United States"
+"02-24-2020",NA,"Madison","Wisconsin","United States",2020-02-05 21:53:02,NA,NA,1,0,0,1,"Madison, Wisconsin, United States"
+"02-24-2020","06059","Orange","California","United States",2020-02-01 19:53:03,33.70147516,-117.7645998,1,0,0,1,"Orange, California, United States"
+"02-24-2020",NA,"Sacramento County","California","United States",2020-02-21 23:13:16,NA,NA,1,0,0,1,"Sacramento County, California, United States"
+"02-24-2020",NA,"San Antonio","Texas","United States",2020-02-13 18:53:02,NA,NA,1,0,0,1,"San Antonio, Texas, United States"
+"02-24-2020",NA,"Seattle","Washington","United States",2020-02-09 07:03:04,NA,NA,1,0,1,0,"Seattle, Washington, United States"
+"02-24-2020",NA,"Tempe","Arizona","United States",2020-02-01 19:43:03,NA,NA,1,0,0,1,"Tempe, Arizona, United States"
+"02-24-2020",NA,"Lackland","Texas (From Diamond Princess)","United States",2020-02-24 23:33:02,NA,NA,0,0,0,0,"Lackland, Texas (From Diamond Princess), United States"
+"02-24-2020",NA,"Omaha","Nebraska (From Diamond Princess)","United States",2020-02-24 23:33:02,NA,NA,0,0,0,0,"Omaha, Nebraska (From Diamond Princess), United States"
+"02-24-2020",NA,"Travis","California (From Diamond Princess)","United States",2020-02-24 23:33:02,NA,NA,0,0,0,0,"Travis, California (From Diamond Princess), United States"
