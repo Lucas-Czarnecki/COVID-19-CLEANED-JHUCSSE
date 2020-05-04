@@ -36,6 +36,7 @@
 170,"CO","COL",170,NA,NA,NA,"Colombia",4.5709,-74.2973,"Colombia",50882884
 178,"CG","COG",178,NA,NA,NA,"Congo (Brazzaville)",-4.2634,15.2832,"Congo (Brazzaville)",5518092
 180,"CD","COD",180,NA,NA,NA,"Congo (Kinshasa)",-4.322447,15.307045,"Congo (Kinshasa)",89561404
+174,"KM","COM",174,NA,NA,NA,"Comoros",-11.6455,43.3333,"Comoros",869595
 188,"CR","CRI",188,NA,NA,NA,"Costa Rica",9.7489,-83.7534,"Costa Rica",5094114
 384,"CI","CIV",384,NA,NA,NA,"Cote d'Ivoire",7.54,-5.5471,"Cote d'Ivoire",26378275
 191,"HR","HRV",191,NA,NA,NA,"Croatia",45.1,15.2,"Croatia",4105268
@@ -153,6 +154,25 @@
 710,"ZA","ZAF",710,NA,NA,NA,"South Africa",-30.5595,22.9375,"South Africa",59308690
 728,"SS","SSD",728,NA,NA,NA,"South Sudan",6.877,31.307,"South Sudan",11193729
 724,"ES","ESP",724,NA,NA,NA,"Spain",40.463667,-3.74922,"Spain",46754783
+72401,"ES","ESP",724,NA,NA,"Andalusia","Spain",37.5443,-4.7278,"Andalusia, Spain",8427405
+72402,"ES","ESP",724,NA,NA,"Aragon","Spain",41.5976,-0.9057,"Aragon, Spain",1320586
+72403,"ES","ESP",724,NA,NA,"Asturias","Spain",43.3614,-5.8593,"Asturias, Spain",1022205
+72404,"ES","ESP",724,NA,NA,"Baleares","Spain",39.710358,2.995148,"Baleares, Spain",1188220
+72405,"ES","ESP",724,NA,NA,"Canarias","Spain",28.2916,-16.6291,"Canarias, Spain",2206901
+72406,"ES","ESP",724,NA,NA,"Cantabria","Spain",43.1828,-3.9878,"Cantabria, Spain",581641
+72407,"ES","ESP",724,NA,NA,"Castilla - La Mancha","Spain",39.2796,-3.0977,"Castilla - La Mancha, Spain",2034877
+72408,"ES","ESP",724,NA,NA,"Castilla y Leon","Spain",41.8357,-4.3976,"Castilla y Leon, Spain",2407733
+72409,"ES","ESP",724,NA,NA,"Catalonia","Spain",41.5912,1.5209,"Catalonia, Spain",7566431
+72410,"ES","ESP",724,NA,NA,"Ceuta","Spain",35.8894,-5.3213,"Ceuta, Spain",84829
+72411,"ES","ESP",724,NA,NA,"C. Valenciana","Spain",39.484,-0.7533,"C. Valenciana, Spain",4974969
+72412,"ES","ESP",724,NA,NA,"Extremadura","Spain",39.4937,-6.0679,"Extremadura, Spain",1065424
+72413,"ES","ESP",724,NA,NA,"Galicia","Spain",42.5751,-8.1339,"Galicia, Spain",2700441
+72414,"ES","ESP",724,NA,NA,"Madrid","Spain",40.4168,-3.7038,"Madrid, Spain",6641649
+72415,"ES","ESP",724,NA,NA,"Melilla","Spain",35.2923,-2.9381,"Melilla, Spain",84689
+72416,"ES","ESP",724,NA,NA,"Murcia","Spain",37.9922,-1.1307,"Murcia, Spain",1487663
+72417,"ES","ESP",724,NA,NA,"Navarra","Spain",42.6954,-1.6761,"Navarra, Spain",649946
+72418,"ES","ESP",724,NA,NA,"Pais Vasco","Spain",42.9896,-2.6189,"Pais Vasco, Spain",2177880
+72419,"ES","ESP",724,NA,NA,"La Rioja","Spain",42.2871,2.5396,"La Rioja, Spain",313571
 144,"LK","LKA",144,NA,NA,NA,"Sri Lanka",7.873054,80.771797,"Sri Lanka",21413250
 729,"SD","SDN",729,NA,NA,NA,"Sudan",12.8628,30.2176,"Sudan",43849269
 740,"SR","SUR",740,NA,NA,NA,"Suriname",3.9193,-56.0278,"Suriname",586634
@@ -160,6 +180,7 @@
 756,"CH","CHE",756,NA,NA,NA,"Switzerland",46.8182,8.2275,"Switzerland",8654618
 760,"SY","SYR",760,NA,NA,NA,"Syria",34.802075,38.996815,"Syria",17500657
 158,"TW","TWN",158,NA,NA,NA,"Taiwan",23.7,121,"Taiwan",23816775
+762,"TJ","TJK",762,NA,NA,NA,"Tajikistan",38.861,71.2761,"Tajikistan",9537642
 834,"TZ","TZA",834,NA,NA,NA,"Tanzania",-6.369028,34.888822,"Tanzania",59734213
 764,"TH","THA",764,NA,NA,NA,"Thailand",15.870032,100.992541,"Thailand",69799978
 626,"TL","TLS",626,NA,NA,NA,"Timor-Leste",-8.874217,125.727539,"Timor-Leste",1318442
@@ -338,6 +359,13 @@
 84070012,"US","USA",840,NA,"Inmates","Federal Bureau of Prisons","United States",NA,NA,"Inmates, Federal Bureau of Prisons, United States",NA
 84070013,"US","USA",840,NA,"Staff","Federal Bureau of Prisons","United States",NA,NA,"Staff, Federal Bureau of Prisons, United States",NA
 84070014,"US","USA",840,NA,NA,"Federal Bureau of Prisons","United States",NA,NA,"Federal Bureau of Prisons, United States",NA
+84070015,"US","USA",840,NA,"Bear River","Utah","United States",41.52106798,-113.0832816,"Bear River, Utah, United States",186818
+84070016,"US","USA",840,NA,"Central Utah","Utah","United States",39.37231946,-111.5758676,"Central Utah, Utah, United States",81954
+84070017,"US","USA",840,NA,"Southeast Utah","Utah","United States",38.99617072,-110.7013958,"Southeast Utah, Utah, United States",40229
+84070018,"US","USA",840,NA,"Southwest Utah","Utah","United States",37.85447192,-111.4418764,"Southwest Utah, Utah, United States",252042
+84070019,"US","USA",840,NA,"TriCounty","Utah","United States",40.12491499,-109.5174415,"TriCounty, Utah, United States",56622
+84070020,"US","USA",840,NA,"Weber-Morgan","Utah","United States",41.27116049,-111.9145117,"Weber-Morgan, Utah, United States",272337
+84070021,"US","USA",840,NA,NA,"Veteran Hospitals","United States",NA,NA,"Veteran Hospitals, United States",NA
 84080001,"US","USA",840,"80001","Out of AL","Alabama","United States",NA,NA,"Out of AL, Alabama, United States",NA
 84080002,"US","USA",840,"80002","Out of AK","Alaska","United States",NA,NA,"Out of AK, Alaska, United States",NA
 84080004,"US","USA",840,"80004","Out of AZ","Arizona","United States",NA,NA,"Out of AZ, Arizona, United States",NA
