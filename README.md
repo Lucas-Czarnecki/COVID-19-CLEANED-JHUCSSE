@@ -133,7 +133,7 @@ New variables will be added **IF** JHU CSSE make changes. However, the above var
 
 This folder contains the latest data from JHU CSSE in .Rdata and csv formats. **CSSE_DailyReports**, concatenates JHU's daily reports into a single master file; `Date_Published` identifies the csv file behind each daily report. **CSSE_TimeSeries** contains the latest time series data. Both are presented in long rather than wide format. Data are also cleaned per the descriptions above.   
 
-**Addition features:**
+**Additional features:**
 
 * Geographic codes from JHU's Lookup Table are matched with geographical locations in **CSSE_DailyReports** according to `Combined_Key` to providing additional variables that are not included in JHU daily reports; for example, `UID`, `iso2`, `code3`, etc., where applicable.
 
