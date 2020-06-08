@@ -20,9 +20,12 @@ New variables will be added **IF and WHEN** JHU CSSE make changes. However, the 
 ### **What else is different?**
 
 * `Date` is encoded as date objects and adopts a standard YYYY-MM-DD format.
+
 * Data on `Confirmed`, `Deaths`, and `Recovered` cases are concatenated into a single csv file in a tidy format.  
 
-> Warning: The length of `Recovered` cases is less than `Confirmed` and `Deaths`. Missing values indicate dates where data on recoveries are unavailable. JHU CSSE also warns that there are no reliable data sources reporting recovered cases for many countries. Therefore, please excercise caution when interpreting data on the number of recoveries. 
+*  Data from JHU's **Lookup Table** are mapped to time series data to ensure consistency in `Latitude` and `Longitude` coordinates. 
+
+> Warning: The length of `Recovered` cases is less than `Confirmed` and `Deaths`. Missing values indicate dates where data on recoveries are unavailable. JHU CSSE also warns that there are no reliable data sources reporting recovered cases for many countries. Therefore, please exercise caution when interpreting data on the number of recoveries. 
 
 ## Updates from JHU CSSE 
 
@@ -50,4 +53,4 @@ The following variables are available and are presented in this order:
 14. Confirmed	
 15. Deaths
 
-New variables will be added **IF and WHEN** JHU CSSE make changes. However, the above variable names will not change. If JHU CSSE introduce new variables, these will be added *sequentially* to the variables above. 
+New variables will be added **IF** JHU CSSE make changes. However, the above variable names will not change. If JHU CSSE introduce new variables, these will be added *sequentially* to the variables above. 

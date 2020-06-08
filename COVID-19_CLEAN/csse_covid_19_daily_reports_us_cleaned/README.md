@@ -40,11 +40,16 @@ New variables will be added **IF and WHEN** JHU CSSE make changes. However, the 
 
 ## What else is different?
 
-* Blank cells indicating an absence of COVID-19 `Confirmed`, `Deaths`, and `Recovered` cases are replace with zeros. This decision is consistent with JHU, as they treat blank cells as zeros when calculating `Active` cases. (Replacing blank cells with zeros prevents programs like R from treating these as missing values). 
+* Blank cells indicating an absence of COVID-19 `Confirmed`, `Deaths`, and `Recovered` cases are replace with zeros. This decision is consistent with JHU, as they treat blank cells as zeros when calculating `Active` cases. (Replacing blank cells with zeros prevents programs like R from treating these as missing values).
+
 * All other blank cells are treated as missing variables. 
+
 * A sanity check ensures that there are no negative `Active` cases; negative  cases are returned as missing values.
+
 * In `Country_Region`, "US" is renamed "United States" to enforce a consistent naming scheme for this repository and to improve data exploration. 
+
 * Columns are reordered to provide consistency with other JHU data such as US time-series data.
+
 * `FIPS` codes are matched with a [cleaned version](https://github.com/Lucas-Czarnecki/COVID-19-CLEANED-JHUCSSE/tree/master/COVID-19_CLEAN/csse_cleaned_supporting_material) of JHU's Lookup table to address a [known issue](https://github.com/CSSEGISandData/COVID-19/issues/1791) regarding JHU truncating leading zeros. More sepcifically, `FIPS` is encoded as a character variable rather than an integer. FIPS codes are fixed such that state-level and county-level FIPS codes are appropriately padded with leading zeros. FIPS codes include an appropriate number of digits for states (e.g., Alabama's FIPS is 01 rather than 1) and counties (e.g., Alabama's Autauga is 01001 rather than 1001).
 
 > Warning: When opening these csvs, keep in mind that programs such as Microsoft Excel and LibreOffice Calc will, by default, truncate leading zeros. Keep this tidbit in mind when opening daily reports or consider using a text editor such as Notepad++. Using programs such as R also avoids this issue. 
@@ -53,24 +58,26 @@ New variables will be added **IF and WHEN** JHU CSSE make changes. However, the 
 Below are JHU's descriptions for some of the variables in these daily reports.
 
 **Field description:**
-* <b>Province_State</b> - The name of the State within the USA.
-* <b>Country_Region</b> - The name of the Country (US).
-* <b>Last_Update</b> - The most recent date the file was pushed.
-* <b>Latitude</b> - Latitude.
-* <b>Longitude</b> - Longitude.
-* <b>Confirmed</b> - Aggregated confirmed case count for the state.
-* <b>Deaths</b> - Aggregated Death case count for the state.
-* <b>Recovered</b> - Aggregated Recovered case count for the state.
-* <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active = Confirmed - Recovered - Deaths).
-* <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
-* <b>Incident_Rate</b> - confirmed cases per 100,000 persons.
-* <b>People_Tested</b> - Total number of people who have been tested.
-* <b>People_Hospitalized</b> - Total number of people hospitalized.
-* <b>Mortality_Rate</b> - Number recorded deaths / Number confirmed cases.
-* <b>UID</b> - Unique Identifier for each row entry. 
-* <b>iso3</b> - Officialy assigned country code identifiers.
-* <b>Testing_Rate</b> - Total number of people tested per 100,000 persons.
-* <b>Hospitalization_Rate</b> - Total number of people hospitalized / Number of confirmed cases.
+
+    Province_State - The name of the State within the USA.
+    Country_Region - The name of the Country (US).
+    Last_Update - The most recent date the file was pushed.
+    Lat - Latitude.
+    Long_ - Longitude.
+    Confirmed - Aggregated confirmed case count for the state.
+    Deaths - Aggregated Death case count for the state.
+    Recovered - Aggregated Recovered case count for the state.
+    Active - Aggregated confirmed cases that have not been resolved (Active = Confirmed - Recovered - Deaths).
+    FIPS - Federal Information Processing Standards code that uniquely identifies counties within the USA.
+    Incident_Rate - confirmed cases per 100,000 persons.
+    People_Tested - Total number of people who have been tested.
+    People_Hospitalized - Total number of people hospitalized.
+    Mortality_Rate - Number recorded deaths * 100/ Number confirmed cases.
+    UID - Unique Identifier for each row entry.
+    ISO3 - Officialy assigned country code identifiers.
+    Testing_Rate - Total number of people tested per 100,000 persons.
+    Hospitalization_Rate - Total number of people hospitalized * 100/ Number of confirmed cases.
+
 
 
 ---
