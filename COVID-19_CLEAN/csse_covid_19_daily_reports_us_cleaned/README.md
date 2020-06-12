@@ -50,6 +50,8 @@ New variables will be added **IF and WHEN** JHU CSSE make changes. However, the 
 
 * Columns are reordered to provide consistency with other JHU data such as US time-series data.
 
+* Non-US locations are detected and removed. Addressing a reoccuring issue (e.g., [#2694](https://github.com/CSSEGISandData/COVID-19/issues/2694)).
+
 * `FIPS` codes are matched with a [cleaned version](https://github.com/Lucas-Czarnecki/COVID-19-CLEANED-JHUCSSE/tree/master/COVID-19_CLEAN/csse_cleaned_supporting_material) of JHU's Lookup table to address a [known issue](https://github.com/CSSEGISandData/COVID-19/issues/1791) regarding JHU truncating leading zeros. More sepcifically, `FIPS` is encoded as a character variable rather than an integer. FIPS codes are fixed such that state-level and county-level FIPS codes are appropriately padded with leading zeros. FIPS codes include an appropriate number of digits for states (e.g., Alabama's FIPS is 01 rather than 1) and counties (e.g., Alabama's Autauga is 01001 rather than 1001).
 
 > Warning: When opening these csvs, keep in mind that programs such as Microsoft Excel and LibreOffice Calc will, by default, truncate leading zeros. Keep this tidbit in mind when opening daily reports or consider using a text editor such as Notepad++. Using programs such as R also avoids this issue. 
