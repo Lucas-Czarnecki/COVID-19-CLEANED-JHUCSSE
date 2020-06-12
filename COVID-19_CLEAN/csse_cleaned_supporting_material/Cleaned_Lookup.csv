@@ -191,7 +191,7 @@
 35605,"IN","IND",356,NA,NA,"Bihar","India",25.679658,85.60484,"Bihar, India",124799926
 35606,"IN","IND",356,NA,NA,"Chandigarh","India",30.733839,76.768278,"Chandigarh, India",1158473
 35607,"IN","IND",356,NA,NA,"Chhattisgarh","India",21.264705,82.035366,"Chhattisgarh, India",29436231
-35608,"IN","IND",356,NA,NA,"Dadar Nagar Haveli","India",20.194742,73.080901,"Dadar Nagar Haveli, India",615724
+35608,"IN","IND",356,NA,NA,"Dadra and Nagar Haveli and Daman and Diu","India",20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",615724
 35609,"IN","IND",356,NA,NA,"Delhi","India",28.646519,77.10898,"Delhi, India",18710922
 35610,"IN","IND",356,NA,NA,"Goa","India",15.359682,74.057396,"Goa, India",1586250
 35611,"IN","IND",356,NA,NA,"Gujarat","India",22.694884,71.590923,"Gujarat, India",63872399
@@ -613,10 +613,10 @@
 80428,"UA","UKR",804,NA,NA,"Unknown","Ukraine",NA,NA,"Unknown, Ukraine",NA
 784,"AE","ARE",784,NA,NA,NA,"United Arab Emirates",23.424076,53.847818,"United Arab Emirates",9890400
 826,"GB","GBR",826,NA,NA,NA,"United Kingdom",55.3781,-3.436,"United Kingdom",67886004
-82601,"GB","GBR",826,NA,NA,"England","United Kingdom",52.3555,1.1743,"England, United Kingdom",55977200
-82602,"GB","GBR",826,NA,NA,"Northern Ireland","United Kingdom",54.7877,6.4923,"Northern Ireland, United Kingdom",1881600
-82603,"GB","GBR",826,NA,NA,"Scotland","United Kingdom",56.4907,4.2026,"Scotland, United Kingdom",5463300
-82604,"GB","GBR",826,NA,NA,"Wales","United Kingdom",52.1307,3.7837,"Wales, United Kingdom",3138600
+82601,"GB","GBR",826,NA,NA,"England","United Kingdom",52.3555,-1.1743,"England, United Kingdom",55977200
+82602,"GB","GBR",826,NA,NA,"Northern Ireland","United Kingdom",54.7877,-6.4923,"Northern Ireland, United Kingdom",1881600
+82603,"GB","GBR",826,NA,NA,"Scotland","United Kingdom",56.4907,-4.2026,"Scotland, United Kingdom",5463300
+82604,"GB","GBR",826,NA,NA,"Wales","United Kingdom",52.1307,-3.7837,"Wales, United Kingdom",3138600
 82605,"GB","GBR",826,NA,NA,"Unknown","United Kingdom",NA,NA,"Unknown, United Kingdom",NA
 60,"BM","BMU",60,NA,NA,"Bermuda","United Kingdom",32.3078,-64.7505,"Bermuda, United Kingdom",62273
 92,"VG","VGB",92,NA,NA,"British Virgin Islands","United Kingdom",18.4207,-64.64,"British Virgin Islands, United Kingdom",30237
