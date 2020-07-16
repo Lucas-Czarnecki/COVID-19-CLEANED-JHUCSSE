@@ -1,4 +1,5 @@
 # Cleaned COVID-19 Data from JHU CSSE (R-Friendly)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lucas-Czarnecki/COVID-19-CLEANED-JHUCSSE/blob/master/notebooks/COVID_19_CLEANED_JHUCSSE.ipynb)
 
 This repository contains cleaned daily reports and time series data from [the 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository](https://github.com/CSSEGISandData/COVID-19#2019-novel-coronavirus-covid-19-2019-ncov-data-repository-by-johns-hopkins-csse) by Johns Hopkins University for Systems Science and Engineering (JHU CSSE). 
 
