@@ -150,8 +150,8 @@ for (Date_Published in names(daily_dfs_cleaned)) {
 
 # Check for Updates based on JHU's Lookup Table. Applies to every daily report in the repository. 
 
-# The below line of code is for convenience if working on select sections of this script, but is commented out for daily cleaning. It will remove all unnecessary objects from the environment.
-# rm(list=setdiff(ls(), c("Lookup_Table", "clean_admin_names", "clean_country_names", "clean_prov_names", "dirty_admin_names", "dirty_country_names", "dirty_prov_names", "us_state_abb", "us_state_names", "clean_jhu_names", "custom_read_csv")))
+# Remove all unnecessary objects from the environment.
+rm(list=setdiff(ls(), c("Lookup_Table", "clean_admin_names", "clean_country_names", "clean_prov_names", "dirty_admin_names", "dirty_country_names", "dirty_prov_names", "us_state_abb", "us_state_names", "clean_jhu_names", "custom_read_csv")))
 
 # Produce a character vector of file names from cleaned daily reports in this repository (in csse_covid_19_daily_reports_cleaned), then read files into R as a large list. 
 files <- list.files(path="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_daily_reports_cleaned", pattern="*.csv", full.names = TRUE)
@@ -206,8 +206,8 @@ write.csv(CSSE_DailyReports_Master, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVI
 
 # This sections details how to clean U.S. daily reports from JHU. Cleaned U.S. daily reports are found in the `csse_covid_19_daily_reports_us_cleaned` folder. The data are aggregated at the state-level by JHU.
 
-# The below line of code is for convenience if working on select sections of this script, but is commented out for daily cleaning. It will remove all unnecessary objects from the environment.
-# rm(list=setdiff(ls(), c("Lookup_Table", "clean_admin_names", "clean_country_names", "clean_prov_names", "dirty_admin_names", "dirty_country_names", "dirty_prov_names", "us_state_abb", "us_state_names", "clean_jhu_names", "custom_read_csv")))
+# Remove all unnecessary objects from the environment.
+rm(list=setdiff(ls(), c("Lookup_Table", "clean_admin_names", "clean_country_names", "clean_prov_names", "dirty_admin_names", "dirty_country_names", "dirty_prov_names", "us_state_abb", "us_state_names", "clean_jhu_names", "custom_read_csv")))
 
 # `list.files` creates a character vector of file names. Make sure to specify the file path to the folder containing raw U.S. daily reports from JHU.
 files <- list.files(path="~/GitHub/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us", pattern="*.csv", full.names = TRUE) 
@@ -284,8 +284,8 @@ write.csv(US_Daily, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_
 
 # This sections cleans and converts JHU's global time series data from wide to long format. 
 
-# The below line of code is for convenience if working on select sections of this script, but is commented out for daily cleaning. It will remove all unnecessary objects from the environment.
-# rm(list=setdiff(ls(), c("Lookup_Table", "clean_admin_names", "clean_country_names", "clean_prov_names", "dirty_admin_names", "dirty_country_names", "dirty_prov_names", "us_state_abb", "us_state_names", "clean_jhu_names", "custom_read_csv")))
+# Remove all unnecessary objects from the environment.
+rm(list=setdiff(ls(), c("Lookup_Table", "clean_admin_names", "clean_country_names", "clean_prov_names", "dirty_admin_names", "dirty_country_names", "dirty_prov_names", "us_state_abb", "us_state_names", "clean_jhu_names", "custom_read_csv")))
 
 # Read raw data from JHU. Data are contained in csv files in wide format.
 Confirmed_wide <- read_csv("~/GitHub/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")
@@ -349,8 +349,8 @@ write.csv(CSSE_TimeSeries, file= "~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLE
 
 # This sections cleans and converts JHU's U.S. time series data from wide to long format.
 
-# The below line of code is for convenience if working on select sections of this script, but is commented out for daily cleaning. It will remove all unnecessary objects from the environment.
-# rm(list=setdiff(ls(), c("Lookup_Table", "clean_admin_names", "clean_country_names", "clean_prov_names", "dirty_admin_names", "dirty_country_names", "dirty_prov_names", "us_state_abb", "us_state_names", "clean_jhu_names", "custom_read_csv")))
+# Remove all unnecessary objects from the environment.
+rm(list=setdiff(ls(), c("Lookup_Table", "clean_admin_names", "clean_country_names", "clean_prov_names", "dirty_admin_names", "dirty_country_names", "dirty_prov_names", "us_state_abb", "us_state_names", "clean_jhu_names", "custom_read_csv")))
 
 # Read raw U.S. data from JHU. Data are contained in csv files in wide format. 
 US_Confirmed_wide <- read_csv("~/GitHub/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv")
@@ -409,6 +409,3 @@ CSSE_US_TimeSeries$Deaths <- ifelse(CSSE_US_TimeSeries$Deaths >= 0, CSSE_US_Time
 # Save data.
 save(CSSE_US_TimeSeries, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_US_TimeSeries.Rdata")
 write.csv(CSSE_US_TimeSeries, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_time_series_cleaned/time_series_covid19_tidy_US.csv", row.names = FALSE)
-
-# Create a new R session. Data can be found in your working directory's subfolders. Folders are named according to JHU's scheme.
-.rs.restartR()
