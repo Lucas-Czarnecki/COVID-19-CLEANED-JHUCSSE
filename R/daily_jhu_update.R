@@ -406,9 +406,21 @@ CSSE_US_TimeSeries <- subset(CSSE_US_TimeSeries, select=c("UID", "iso2", "iso3",
 CSSE_US_TimeSeries$Confirmed <- ifelse(CSSE_US_TimeSeries$Confirmed >= 0, CSSE_US_TimeSeries$Confirmed, NA)
 CSSE_US_TimeSeries$Deaths <- ifelse(CSSE_US_TimeSeries$Deaths >= 0, CSSE_US_TimeSeries$Deaths, NA)
 
-# Save data.
+# Split U.S data
+# Note: By default, GitHub does not allow users to upload files larger than 100MB. As of August 5th the U.S. time series data has, therefore, become too large to push. For this reason the U.S. data is split to ensure ongoing updates. (Git LFS is an alternative approach that I am still considering).
+
+# Save Rdata file.
 save(CSSE_US_TimeSeries, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_US_TimeSeries.Rdata")
+
+# Split data on August 1st, 2020.
+CSSE_US_TimeSeries2 <- CSSE_US_TimeSeries %>% 
+      subset(Date >= "2020-08-01")
+CSSE_US_TimeSeries <- CSSE_US_TimeSeries %>% 
+  subset(Date < "2020-08-01")
+
+# Save as multiple csv files.
 write.csv(CSSE_US_TimeSeries, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_time_series_cleaned/time_series_covid19_tidy_US.csv", row.names = FALSE)
+write.csv(CSSE_US_TimeSeries2, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_time_series_cleaned/time_series_covid19_tidy_US2.csv", row.names = FALSE)
 
 # Remove all objects and restart the R session. All data at this point will be saved to subfolders in the root directory. The data are organized according to JHU's scheme.
 rm(list=ls())
