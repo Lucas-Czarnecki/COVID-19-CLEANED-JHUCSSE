@@ -4,7 +4,8 @@ This folder contains global and U.S. time series data in long rather than wide f
 
 > Note: U.S. time series data are split starting on August 1st, 2020. The data are split to ensure future updates as GitHub does not allow users to upload files larger than 100MB (unless using Git LFS). 
 >
-> See [United States: County-level Data](#united-states:-county-level-data) below for more information.
+
+See [United States: County-level Data](#united-states:-county-level-data) below for more information.
 
 ## Global Time Series 
 
@@ -66,7 +67,7 @@ New variables will be added **IF** JHU CSSE make changes. However, the above var
 
 ### Split CSV Files
 
-Becasue GitHub does not allow users to upload files larger than 100MB without the third party add-on Git LFS, I have decided to split the U.S. time series data starting on August 1st, 2020. Doing so will ensure that these csvs will continue to be updated into the future. (The decision to split rather than use Git LFS was made because users would need to install the latter on their end to pull data). 
+Because GitHub does not allow users to upload files larger than 100MB without the third party add-on Git LFS, I have decided to split the U.S. time series data starting on August 1st, 2020. Doing so will ensure that these csvs will continue to be updated into the future. (The decision to split rather than use Git LFS was made because users would need to install the latter on their end to pull data). 
 
 You have two options if you want to work with the complete U.S. time series data:
 
