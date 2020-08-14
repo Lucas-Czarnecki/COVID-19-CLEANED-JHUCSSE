@@ -203,6 +203,7 @@
 "Alberta","Canada",53.9333,-116.5765,2020-08-10,11687,213,NA
 "Alberta","Canada",53.9333,-116.5765,2020-08-11,11772,216,NA
 "Alberta","Canada",53.9333,-116.5765,2020-08-12,11893,217,NA
+"Alberta","Canada",53.9333,-116.5765,2020-08-13,11969,220,NA
 "Anguilla","United Kingdom",18.2206,-63.0686,2020-01-22,0,0,0
 "Anguilla","United Kingdom",18.2206,-63.0686,2020-01-23,0,0,0
 "Anguilla","United Kingdom",18.2206,-63.0686,2020-01-24,0,0,0
@@ -407,6 +408,7 @@
 "Anguilla","United Kingdom",18.2206,-63.0686,2020-08-10,3,0,3
 "Anguilla","United Kingdom",18.2206,-63.0686,2020-08-11,3,0,3
 "Anguilla","United Kingdom",18.2206,-63.0686,2020-08-12,3,0,3
+"Anguilla","United Kingdom",18.2206,-63.0686,2020-08-13,3,0,3
 "Anhui","China",31.8257,117.2264,2020-01-22,1,0,0
 "Anhui","China",31.8257,117.2264,2020-01-23,9,0,0
 "Anhui","China",31.8257,117.2264,2020-01-24,15,0,0
@@ -611,6 +613,7 @@
 "Anhui","China",31.8257,117.2264,2020-08-10,991,6,985
 "Anhui","China",31.8257,117.2264,2020-08-11,991,6,985
 "Anhui","China",31.8257,117.2264,2020-08-12,991,6,985
+"Anhui","China",31.8257,117.2264,2020-08-13,991,6,985
 "Aruba","Netherlands",12.5211,-69.9683,2020-01-22,0,0,0
 "Aruba","Netherlands",12.5211,-69.9683,2020-01-23,0,0,0
 "Aruba","Netherlands",12.5211,-69.9683,2020-01-24,0,0,0
@@ -815,6 +818,7 @@
 "Aruba","Netherlands",12.5211,-69.9683,2020-08-10,630,3,114
 "Aruba","Netherlands",12.5211,-69.9683,2020-08-11,717,3,114
 "Aruba","Netherlands",12.5211,-69.9683,2020-08-12,798,3,114
+"Aruba","Netherlands",12.5211,-69.9683,2020-08-13,894,4,114
 "Australian Capital Territory","Australia",-35.4735,149.0124,2020-01-22,0,0,0
 "Australian Capital Territory","Australia",-35.4735,149.0124,2020-01-23,0,0,0
 "Australian Capital Territory","Australia",-35.4735,149.0124,2020-01-24,0,0,0
@@ -1019,6 +1023,7 @@
 "Australian Capital Territory","Australia",-35.4735,149.0124,2020-08-10,113,3,110
 "Australian Capital Territory","Australia",-35.4735,149.0124,2020-08-11,113,3,110
 "Australian Capital Territory","Australia",-35.4735,149.0124,2020-08-12,113,3,110
+"Australian Capital Territory","Australia",-35.4735,149.0124,2020-08-13,113,3,110
 "Beijing","China",40.1824,116.4142,2020-01-22,14,0,0
 "Beijing","China",40.1824,116.4142,2020-01-23,22,0,0
 "Beijing","China",40.1824,116.4142,2020-01-24,36,0,1
@@ -1223,6 +1228,7 @@
 "Beijing","China",40.1824,116.4142,2020-08-10,935,9,920
 "Beijing","China",40.1824,116.4142,2020-08-11,935,9,920
 "Beijing","China",40.1824,116.4142,2020-08-12,935,9,920
+"Beijing","China",40.1824,116.4142,2020-08-13,935,9,922
 "Bermuda","United Kingdom",32.3078,-64.7505,2020-01-22,0,0,0
 "Bermuda","United Kingdom",32.3078,-64.7505,2020-01-23,0,0,0
 "Bermuda","United Kingdom",32.3078,-64.7505,2020-01-24,0,0,0
@@ -1427,6 +1433,7 @@
 "Bermuda","United Kingdom",32.3078,-64.7505,2020-08-10,158,9,144
 "Bermuda","United Kingdom",32.3078,-64.7505,2020-08-11,159,9,144
 "Bermuda","United Kingdom",32.3078,-64.7505,2020-08-12,159,9,145
+"Bermuda","United Kingdom",32.3078,-64.7505,2020-08-13,159,9,145
 "Bonaire, Sint Eustatius and Saba","Netherlands",12.1784,-68.2385,2020-01-22,0,0,0
 "Bonaire, Sint Eustatius and Saba","Netherlands",12.1784,-68.2385,2020-01-23,0,0,0
 "Bonaire, Sint Eustatius and Saba","Netherlands",12.1784,-68.2385,2020-01-24,0,0,0
@@ -1631,6 +1638,7 @@
 "Bonaire, Sint Eustatius and Saba","Netherlands",12.1784,-68.2385,2020-08-10,13,0,7
 "Bonaire, Sint Eustatius and Saba","Netherlands",12.1784,-68.2385,2020-08-11,13,0,7
 "Bonaire, Sint Eustatius and Saba","Netherlands",12.1784,-68.2385,2020-08-12,13,0,7
+"Bonaire, Sint Eustatius and Saba","Netherlands",12.1784,-68.2385,2020-08-13,13,0,7
 "British Columbia","Canada",53.7267,-127.6476,2020-01-22,0,0,NA
 "British Columbia","Canada",53.7267,-127.6476,2020-01-23,0,0,NA
 "British Columbia","Canada",53.7267,-127.6476,2020-01-24,0,0,NA
@@ -1835,6 +1843,7 @@
 "British Columbia","Canada",53.7267,-127.6476,2020-08-10,4065,195,NA
 "British Columbia","Canada",53.7267,-127.6476,2020-08-11,4111,195,NA
 "British Columbia","Canada",53.7267,-127.6476,2020-08-12,4111,195,NA
+"British Columbia","Canada",53.7267,-127.6476,2020-08-13,4274,196,NA
 "British Virgin Islands","United Kingdom",18.4207,-64.64,2020-01-22,0,0,0
 "British Virgin Islands","United Kingdom",18.4207,-64.64,2020-01-23,0,0,0
 "British Virgin Islands","United Kingdom",18.4207,-64.64,2020-01-24,0,0,0
@@ -2039,6 +2048,7 @@
 "British Virgin Islands","United Kingdom",18.4207,-64.64,2020-08-10,9,1,7
 "British Virgin Islands","United Kingdom",18.4207,-64.64,2020-08-11,9,1,7
 "British Virgin Islands","United Kingdom",18.4207,-64.64,2020-08-12,9,1,7
+"British Virgin Islands","United Kingdom",18.4207,-64.64,2020-08-13,9,1,7
 "Cayman Islands","United Kingdom",19.3133,-81.2546,2020-01-22,0,0,0
 "Cayman Islands","United Kingdom",19.3133,-81.2546,2020-01-23,0,0,0
 "Cayman Islands","United Kingdom",19.3133,-81.2546,2020-01-24,0,0,0
@@ -2243,6 +2253,7 @@
 "Cayman Islands","United Kingdom",19.3133,-81.2546,2020-08-10,203,1,202
 "Cayman Islands","United Kingdom",19.3133,-81.2546,2020-08-11,203,1,202
 "Cayman Islands","United Kingdom",19.3133,-81.2546,2020-08-12,203,1,202
+"Cayman Islands","United Kingdom",19.3133,-81.2546,2020-08-13,203,1,202
 "Channel Islands","United Kingdom",49.3723,-2.3644,2020-01-22,0,0,0
 "Channel Islands","United Kingdom",49.3723,-2.3644,2020-01-23,0,0,0
 "Channel Islands","United Kingdom",49.3723,-2.3644,2020-01-24,0,0,0
@@ -2447,6 +2458,7 @@
 "Channel Islands","United Kingdom",49.3723,-2.3644,2020-08-10,599,47,545
 "Channel Islands","United Kingdom",49.3723,-2.3644,2020-08-11,599,47,545
 "Channel Islands","United Kingdom",49.3723,-2.3644,2020-08-12,603,47,545
+"Channel Islands","United Kingdom",49.3723,-2.3644,2020-08-13,603,47,545
 "Chongqing","China",30.0572,107.874,2020-01-22,6,0,0
 "Chongqing","China",30.0572,107.874,2020-01-23,9,0,0
 "Chongqing","China",30.0572,107.874,2020-01-24,27,0,0
@@ -2651,6 +2663,7 @@
 "Chongqing","China",30.0572,107.874,2020-08-10,583,6,577
 "Chongqing","China",30.0572,107.874,2020-08-11,583,6,577
 "Chongqing","China",30.0572,107.874,2020-08-12,583,6,577
+"Chongqing","China",30.0572,107.874,2020-08-13,583,6,577
 "Curacao","Netherlands",12.1696,-68.99,2020-01-22,0,0,0
 "Curacao","Netherlands",12.1696,-68.99,2020-01-23,0,0,0
 "Curacao","Netherlands",12.1696,-68.99,2020-01-24,0,0,0
@@ -2855,6 +2868,7 @@
 "Curacao","Netherlands",12.1696,-68.99,2020-08-10,32,1,30
 "Curacao","Netherlands",12.1696,-68.99,2020-08-11,32,1,30
 "Curacao","Netherlands",12.1696,-68.99,2020-08-12,32,1,30
+"Curacao","Netherlands",12.1696,-68.99,2020-08-13,32,1,30
 "Diamond Princess","Canada",NA,NA,2020-01-22,0,0,NA
 "Diamond Princess","Canada",NA,NA,2020-01-23,0,0,NA
 "Diamond Princess","Canada",NA,NA,2020-01-24,0,0,NA
@@ -3059,6 +3073,7 @@
 "Diamond Princess","Canada",NA,NA,2020-08-10,0,1,NA
 "Diamond Princess","Canada",NA,NA,2020-08-11,0,1,NA
 "Diamond Princess","Canada",NA,NA,2020-08-12,0,1,NA
+"Diamond Princess","Canada",NA,NA,2020-08-13,0,1,NA
 "Falkland Islands (Malvinas)","United Kingdom",-51.7963,-59.5236,2020-01-22,0,0,0
 "Falkland Islands (Malvinas)","United Kingdom",-51.7963,-59.5236,2020-01-23,0,0,0
 "Falkland Islands (Malvinas)","United Kingdom",-51.7963,-59.5236,2020-01-24,0,0,0
@@ -3263,6 +3278,7 @@
 "Falkland Islands (Malvinas)","United Kingdom",-51.7963,-59.5236,2020-08-10,13,0,13
 "Falkland Islands (Malvinas)","United Kingdom",-51.7963,-59.5236,2020-08-11,13,0,13
 "Falkland Islands (Malvinas)","United Kingdom",-51.7963,-59.5236,2020-08-12,13,0,13
+"Falkland Islands (Malvinas)","United Kingdom",-51.7963,-59.5236,2020-08-13,13,0,13
 "Faroe Islands","Denmark",61.8926,-6.9118,2020-01-22,0,0,0
 "Faroe Islands","Denmark",61.8926,-6.9118,2020-01-23,0,0,0
 "Faroe Islands","Denmark",61.8926,-6.9118,2020-01-24,0,0,0
@@ -3467,6 +3483,7 @@
 "Faroe Islands","Denmark",61.8926,-6.9118,2020-08-10,306,0,215
 "Faroe Islands","Denmark",61.8926,-6.9118,2020-08-11,318,0,225
 "Faroe Islands","Denmark",61.8926,-6.9118,2020-08-12,339,0,225
+"Faroe Islands","Denmark",61.8926,-6.9118,2020-08-13,362,0,225
 "French Guiana","France",4,-53,2020-01-22,0,0,0
 "French Guiana","France",4,-53,2020-01-23,0,0,0
 "French Guiana","France",4,-53,2020-01-24,0,0,0
@@ -3671,210 +3688,212 @@
 "French Guiana","France",4,-53,2020-08-10,8324,49,7549
 "French Guiana","France",4,-53,2020-08-11,8360,49,7632
 "French Guiana","France",4,-53,2020-08-12,8423,50,7713
-"French Polynesia","France",-17.6797,149.4068,2020-01-22,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-01-23,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-01-24,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-01-25,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-01-26,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-01-27,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-01-28,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-01-29,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-01-30,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-01-31,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-01,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-02,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-03,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-04,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-05,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-06,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-07,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-08,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-09,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-10,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-11,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-12,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-13,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-14,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-15,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-16,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-17,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-18,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-19,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-20,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-21,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-22,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-23,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-24,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-25,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-26,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-27,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-28,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-02-29,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-01,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-02,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-03,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-04,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-05,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-06,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-07,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-08,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-09,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-10,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-11,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-12,0,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-13,3,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-14,3,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-15,3,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-16,3,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-17,3,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-18,3,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-19,6,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-20,11,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-21,15,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-22,18,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-23,18,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-24,25,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-25,25,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-26,30,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-27,30,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-28,30,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-29,30,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-30,36,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-03-31,36,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-01,37,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-02,37,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-03,39,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-04,40,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-05,41,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-06,42,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-07,47,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-08,51,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-09,51,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-10,51,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-11,51,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-12,53,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-13,55,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-14,55,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-15,55,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-16,55,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-17,55,0,0
-"French Polynesia","France",-17.6797,149.4068,2020-04-18,55,0,2
-"French Polynesia","France",-17.6797,149.4068,2020-04-19,55,0,2
-"French Polynesia","France",-17.6797,149.4068,2020-04-20,56,0,19
-"French Polynesia","France",-17.6797,149.4068,2020-04-21,56,0,19
-"French Polynesia","France",-17.6797,149.4068,2020-04-22,57,0,35
-"French Polynesia","France",-17.6797,149.4068,2020-04-23,57,0,36
-"French Polynesia","France",-17.6797,149.4068,2020-04-24,57,0,41
-"French Polynesia","France",-17.6797,149.4068,2020-04-25,57,0,41
-"French Polynesia","France",-17.6797,149.4068,2020-04-26,57,0,41
-"French Polynesia","France",-17.6797,149.4068,2020-04-27,57,0,43
-"French Polynesia","France",-17.6797,149.4068,2020-04-28,58,0,49
-"French Polynesia","France",-17.6797,149.4068,2020-04-29,58,0,50
-"French Polynesia","France",-17.6797,149.4068,2020-04-30,58,0,50
-"French Polynesia","France",-17.6797,149.4068,2020-05-01,58,0,51
-"French Polynesia","France",-17.6797,149.4068,2020-05-02,58,0,51
-"French Polynesia","France",-17.6797,149.4068,2020-05-03,58,0,51
-"French Polynesia","France",-17.6797,149.4068,2020-05-04,58,0,53
-"French Polynesia","France",-17.6797,149.4068,2020-05-05,60,0,54
-"French Polynesia","France",-17.6797,149.4068,2020-05-06,60,0,54
-"French Polynesia","France",-17.6797,149.4068,2020-05-07,60,0,56
-"French Polynesia","France",-17.6797,149.4068,2020-05-08,60,0,56
-"French Polynesia","France",-17.6797,149.4068,2020-05-09,60,0,56
-"French Polynesia","France",-17.6797,149.4068,2020-05-10,60,0,56
-"French Polynesia","France",-17.6797,149.4068,2020-05-11,60,0,56
-"French Polynesia","France",-17.6797,149.4068,2020-05-12,60,0,58
-"French Polynesia","France",-17.6797,149.4068,2020-05-13,60,0,58
-"French Polynesia","France",-17.6797,149.4068,2020-05-14,60,0,59
-"French Polynesia","France",-17.6797,149.4068,2020-05-15,60,0,59
-"French Polynesia","France",-17.6797,149.4068,2020-05-16,60,0,59
-"French Polynesia","France",-17.6797,149.4068,2020-05-17,60,0,59
-"French Polynesia","France",-17.6797,149.4068,2020-05-18,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-19,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-20,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-21,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-22,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-23,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-24,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-25,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-26,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-27,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-28,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-29,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-30,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-05-31,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-01,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-02,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-03,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-04,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-05,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-06,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-07,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-08,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-09,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-10,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-11,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-12,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-13,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-14,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-15,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-16,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-17,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-18,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-19,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-20,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-21,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-22,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-23,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-24,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-25,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-26,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-27,60,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-28,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-29,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-06-30,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-01,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-02,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-03,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-04,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-05,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-06,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-07,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-08,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-09,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-10,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-11,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-12,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-13,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-14,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-15,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-16,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-17,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-18,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-19,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-20,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-21,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-22,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-23,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-24,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-25,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-26,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-27,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-28,62,0,60
-"French Polynesia","France",-17.6797,149.4068,2020-07-29,62,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-07-30,62,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-07-31,62,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-01,62,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-02,62,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-03,62,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-04,64,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-05,64,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-06,64,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-07,69,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-08,69,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-09,69,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-10,112,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-11,112,0,62
-"French Polynesia","France",-17.6797,149.4068,2020-08-12,139,0,64
+"French Guiana","France",4,-53,2020-08-13,8471,51,7784
+"French Polynesia","France",-17.6797,-149.4068,2020-01-22,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-01-23,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-01-24,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-01-25,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-01-26,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-01-27,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-01-28,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-01-29,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-01-30,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-01-31,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-01,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-02,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-03,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-04,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-05,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-06,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-07,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-08,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-09,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-10,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-11,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-12,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-13,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-14,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-15,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-16,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-17,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-18,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-19,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-20,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-21,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-22,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-23,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-24,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-25,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-26,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-27,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-28,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-02-29,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-01,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-02,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-03,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-04,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-05,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-06,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-07,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-08,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-09,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-10,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-11,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-12,0,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-13,3,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-14,3,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-15,3,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-16,3,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-17,3,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-18,3,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-19,6,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-20,11,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-21,15,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-22,18,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-23,18,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-24,25,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-25,25,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-26,30,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-27,30,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-28,30,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-29,30,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-30,36,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-03-31,36,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-01,37,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-02,37,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-03,39,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-04,40,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-05,41,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-06,42,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-07,47,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-08,51,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-09,51,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-10,51,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-11,51,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-12,53,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-13,55,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-14,55,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-15,55,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-16,55,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-17,55,0,0
+"French Polynesia","France",-17.6797,-149.4068,2020-04-18,55,0,2
+"French Polynesia","France",-17.6797,-149.4068,2020-04-19,55,0,2
+"French Polynesia","France",-17.6797,-149.4068,2020-04-20,56,0,19
+"French Polynesia","France",-17.6797,-149.4068,2020-04-21,56,0,19
+"French Polynesia","France",-17.6797,-149.4068,2020-04-22,57,0,35
+"French Polynesia","France",-17.6797,-149.4068,2020-04-23,57,0,36
+"French Polynesia","France",-17.6797,-149.4068,2020-04-24,57,0,41
+"French Polynesia","France",-17.6797,-149.4068,2020-04-25,57,0,41
+"French Polynesia","France",-17.6797,-149.4068,2020-04-26,57,0,41
+"French Polynesia","France",-17.6797,-149.4068,2020-04-27,57,0,43
+"French Polynesia","France",-17.6797,-149.4068,2020-04-28,58,0,49
+"French Polynesia","France",-17.6797,-149.4068,2020-04-29,58,0,50
+"French Polynesia","France",-17.6797,-149.4068,2020-04-30,58,0,50
+"French Polynesia","France",-17.6797,-149.4068,2020-05-01,58,0,51
+"French Polynesia","France",-17.6797,-149.4068,2020-05-02,58,0,51
+"French Polynesia","France",-17.6797,-149.4068,2020-05-03,58,0,51
+"French Polynesia","France",-17.6797,-149.4068,2020-05-04,58,0,53
+"French Polynesia","France",-17.6797,-149.4068,2020-05-05,60,0,54
+"French Polynesia","France",-17.6797,-149.4068,2020-05-06,60,0,54
+"French Polynesia","France",-17.6797,-149.4068,2020-05-07,60,0,56
+"French Polynesia","France",-17.6797,-149.4068,2020-05-08,60,0,56
+"French Polynesia","France",-17.6797,-149.4068,2020-05-09,60,0,56
+"French Polynesia","France",-17.6797,-149.4068,2020-05-10,60,0,56
+"French Polynesia","France",-17.6797,-149.4068,2020-05-11,60,0,56
+"French Polynesia","France",-17.6797,-149.4068,2020-05-12,60,0,58
+"French Polynesia","France",-17.6797,-149.4068,2020-05-13,60,0,58
+"French Polynesia","France",-17.6797,-149.4068,2020-05-14,60,0,59
+"French Polynesia","France",-17.6797,-149.4068,2020-05-15,60,0,59
+"French Polynesia","France",-17.6797,-149.4068,2020-05-16,60,0,59
+"French Polynesia","France",-17.6797,-149.4068,2020-05-17,60,0,59
+"French Polynesia","France",-17.6797,-149.4068,2020-05-18,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-19,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-20,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-21,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-22,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-23,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-24,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-25,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-26,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-27,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-28,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-29,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-30,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-05-31,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-01,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-02,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-03,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-04,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-05,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-06,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-07,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-08,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-09,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-10,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-11,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-12,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-13,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-14,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-15,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-16,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-17,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-18,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-19,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-20,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-21,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-22,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-23,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-24,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-25,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-26,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-27,60,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-28,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-29,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-06-30,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-01,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-02,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-03,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-04,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-05,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-06,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-07,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-08,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-09,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-10,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-11,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-12,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-13,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-14,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-15,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-16,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-17,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-18,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-19,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-20,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-21,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-22,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-23,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-24,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-25,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-26,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-27,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-28,62,0,60
+"French Polynesia","France",-17.6797,-149.4068,2020-07-29,62,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-07-30,62,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-07-31,62,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-01,62,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-02,62,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-03,62,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-04,64,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-05,64,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-06,64,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-07,69,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-08,69,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-09,69,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-10,112,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-11,112,0,62
+"French Polynesia","France",-17.6797,-149.4068,2020-08-12,139,0,64
+"French Polynesia","France",-17.6797,-149.4068,2020-08-13,139,0,64
 "Fujian","China",26.0789,117.9874,2020-01-22,1,0,0
 "Fujian","China",26.0789,117.9874,2020-01-23,5,0,0
 "Fujian","China",26.0789,117.9874,2020-01-24,10,0,0
@@ -4079,6 +4098,7 @@
 "Fujian","China",26.0789,117.9874,2020-08-10,367,1,363
 "Fujian","China",26.0789,117.9874,2020-08-11,368,1,363
 "Fujian","China",26.0789,117.9874,2020-08-12,368,1,364
+"Fujian","China",26.0789,117.9874,2020-08-13,368,1,365
 "Gansu","China",35.7518,104.2861,2020-01-22,0,0,0
 "Gansu","China",35.7518,104.2861,2020-01-23,2,0,0
 "Gansu","China",35.7518,104.2861,2020-01-24,2,0,0
@@ -4283,6 +4303,7 @@
 "Gansu","China",35.7518,104.2861,2020-08-10,169,2,165
 "Gansu","China",35.7518,104.2861,2020-08-11,169,2,165
 "Gansu","China",35.7518,104.2861,2020-08-12,169,2,165
+"Gansu","China",35.7518,104.2861,2020-08-13,169,2,165
 "Gibraltar","United Kingdom",36.1408,-5.3536,2020-01-22,0,0,0
 "Gibraltar","United Kingdom",36.1408,-5.3536,2020-01-23,0,0,0
 "Gibraltar","United Kingdom",36.1408,-5.3536,2020-01-24,0,0,0
@@ -4487,6 +4508,7 @@
 "Gibraltar","United Kingdom",36.1408,-5.3536,2020-08-10,201,0,186
 "Gibraltar","United Kingdom",36.1408,-5.3536,2020-08-11,202,0,187
 "Gibraltar","United Kingdom",36.1408,-5.3536,2020-08-12,203,0,187
+"Gibraltar","United Kingdom",36.1408,-5.3536,2020-08-13,205,0,188
 "Grand Princess","Canada",NA,NA,2020-01-22,0,0,NA
 "Grand Princess","Canada",NA,NA,2020-01-23,0,0,NA
 "Grand Princess","Canada",NA,NA,2020-01-24,0,0,NA
@@ -4691,6 +4713,7 @@
 "Grand Princess","Canada",NA,NA,2020-08-10,13,0,NA
 "Grand Princess","Canada",NA,NA,2020-08-11,13,0,NA
 "Grand Princess","Canada",NA,NA,2020-08-12,13,0,NA
+"Grand Princess","Canada",NA,NA,2020-08-13,13,0,NA
 "Greenland","Denmark",71.7069,-42.6043,2020-01-22,0,0,0
 "Greenland","Denmark",71.7069,-42.6043,2020-01-23,0,0,0
 "Greenland","Denmark",71.7069,-42.6043,2020-01-24,0,0,0
@@ -4895,6 +4918,7 @@
 "Greenland","Denmark",71.7069,-42.6043,2020-08-10,14,0,14
 "Greenland","Denmark",71.7069,-42.6043,2020-08-11,14,0,14
 "Greenland","Denmark",71.7069,-42.6043,2020-08-12,14,0,14
+"Greenland","Denmark",71.7069,-42.6043,2020-08-13,14,0,14
 "Guadeloupe","France",16.265,-61.551,2020-01-22,0,0,0
 "Guadeloupe","France",16.265,-61.551,2020-01-23,0,0,0
 "Guadeloupe","France",16.265,-61.551,2020-01-24,0,0,0
@@ -5099,6 +5123,7 @@
 "Guadeloupe","France",16.265,-61.551,2020-08-10,317,14,186
 "Guadeloupe","France",16.265,-61.551,2020-08-11,317,14,186
 "Guadeloupe","France",16.265,-61.551,2020-08-12,367,14,289
+"Guadeloupe","France",16.265,-61.551,2020-08-13,367,14,289
 "Guangdong","China",23.3417,113.4244,2020-01-22,26,0,0
 "Guangdong","China",23.3417,113.4244,2020-01-23,32,0,2
 "Guangdong","China",23.3417,113.4244,2020-01-24,53,0,2
@@ -5303,6 +5328,7 @@
 "Guangdong","China",23.3417,113.4244,2020-08-10,1699,8,1672
 "Guangdong","China",23.3417,113.4244,2020-08-11,1699,8,1676
 "Guangdong","China",23.3417,113.4244,2020-08-12,1707,8,1678
+"Guangdong","China",23.3417,113.4244,2020-08-13,1707,8,1681
 "Guangxi","China",23.8298,108.7881,2020-01-22,2,0,0
 "Guangxi","China",23.8298,108.7881,2020-01-23,5,0,0
 "Guangxi","China",23.8298,108.7881,2020-01-24,23,0,0
@@ -5507,6 +5533,7 @@
 "Guangxi","China",23.8298,108.7881,2020-08-10,255,2,253
 "Guangxi","China",23.8298,108.7881,2020-08-11,255,2,253
 "Guangxi","China",23.8298,108.7881,2020-08-12,255,2,253
+"Guangxi","China",23.8298,108.7881,2020-08-13,255,2,253
 "Guizhou","China",26.8154,106.8748,2020-01-22,1,0,0
 "Guizhou","China",26.8154,106.8748,2020-01-23,3,0,0
 "Guizhou","China",26.8154,106.8748,2020-01-24,3,0,0
@@ -5711,6 +5738,7 @@
 "Guizhou","China",26.8154,106.8748,2020-08-10,147,2,145
 "Guizhou","China",26.8154,106.8748,2020-08-11,147,2,145
 "Guizhou","China",26.8154,106.8748,2020-08-12,147,2,145
+"Guizhou","China",26.8154,106.8748,2020-08-13,147,2,145
 "Hainan","China",19.1959,109.7453,2020-01-22,4,0,0
 "Hainan","China",19.1959,109.7453,2020-01-23,5,0,0
 "Hainan","China",19.1959,109.7453,2020-01-24,8,0,0
@@ -5915,6 +5943,7 @@
 "Hainan","China",19.1959,109.7453,2020-08-10,171,6,165
 "Hainan","China",19.1959,109.7453,2020-08-11,171,6,165
 "Hainan","China",19.1959,109.7453,2020-08-12,171,6,165
+"Hainan","China",19.1959,109.7453,2020-08-13,171,6,165
 "Hebei","China",37.8957,114.9042,2020-01-22,1,0,NA
 "Hebei","China",37.8957,114.9042,2020-01-23,1,1,NA
 "Hebei","China",37.8957,114.9042,2020-01-24,2,1,NA
@@ -6119,6 +6148,7 @@
 "Hebei","China",37.8957,114.9042,2020-08-10,350,6,NA
 "Hebei","China",37.8957,114.9042,2020-08-11,350,6,NA
 "Hebei","China",37.8957,114.9042,2020-08-12,351,6,NA
+"Hebei","China",37.8957,114.9042,2020-08-13,351,6,NA
 "Heilongjiang","China",47.862,127.7615,2020-01-22,0,0,0
 "Heilongjiang","China",47.862,127.7615,2020-01-23,2,0,0
 "Heilongjiang","China",47.862,127.7615,2020-01-24,4,1,0
@@ -6323,6 +6353,7 @@
 "Heilongjiang","China",47.862,127.7615,2020-08-10,948,13,934
 "Heilongjiang","China",47.862,127.7615,2020-08-11,948,13,934
 "Heilongjiang","China",47.862,127.7615,2020-08-12,948,13,934
+"Heilongjiang","China",47.862,127.7615,2020-08-13,948,13,934
 "Henan","China",33.882,113.614,2020-01-22,5,0,NA
 "Henan","China",33.882,113.614,2020-01-23,5,0,NA
 "Henan","China",33.882,113.614,2020-01-24,9,0,NA
@@ -6527,6 +6558,7 @@
 "Henan","China",33.882,113.614,2020-08-10,1276,22,NA
 "Henan","China",33.882,113.614,2020-08-11,1276,22,NA
 "Henan","China",33.882,113.614,2020-08-12,1276,22,NA
+"Henan","China",33.882,113.614,2020-08-13,1276,22,NA
 "Hong Kong","China",22.3,114.2,2020-01-22,0,0,0
 "Hong Kong","China",22.3,114.2,2020-01-23,2,0,0
 "Hong Kong","China",22.3,114.2,2020-01-24,2,0,0
@@ -6731,6 +6763,7 @@
 "Hong Kong","China",22.3,114.2,2020-08-10,4148,55,2917
 "Hong Kong","China",22.3,114.2,2020-08-11,4181,59,3052
 "Hong Kong","China",22.3,114.2,2020-08-12,4243,63,3189
+"Hong Kong","China",22.3,114.2,2020-08-13,4312,66,3295
 "Hubei","China",30.9756,112.2707,2020-01-22,444,17,28
 "Hubei","China",30.9756,112.2707,2020-01-23,444,17,28
 "Hubei","China",30.9756,112.2707,2020-01-24,549,24,31
@@ -6935,6 +6968,7 @@
 "Hubei","China",30.9756,112.2707,2020-08-10,68139,4512,63623
 "Hubei","China",30.9756,112.2707,2020-08-11,68139,4512,63623
 "Hubei","China",30.9756,112.2707,2020-08-12,68139,4512,63623
+"Hubei","China",30.9756,112.2707,2020-08-13,68139,4512,63623
 "Hunan","China",27.6104,111.7088,2020-01-22,4,0,0
 "Hunan","China",27.6104,111.7088,2020-01-23,9,0,0
 "Hunan","China",27.6104,111.7088,2020-01-24,24,0,0
@@ -7139,6 +7173,7 @@
 "Hunan","China",27.6104,111.7088,2020-08-10,1019,4,1015
 "Hunan","China",27.6104,111.7088,2020-08-11,1019,4,1015
 "Hunan","China",27.6104,111.7088,2020-08-12,1019,4,1015
+"Hunan","China",27.6104,111.7088,2020-08-13,1019,4,1015
 "Inner Mongolia","China",44.0935,113.9448,2020-01-22,0,0,0
 "Inner Mongolia","China",44.0935,113.9448,2020-01-23,0,0,0
 "Inner Mongolia","China",44.0935,113.9448,2020-01-24,1,0,0
@@ -7343,6 +7378,7 @@
 "Inner Mongolia","China",44.0935,113.9448,2020-08-10,258,1,253
 "Inner Mongolia","China",44.0935,113.9448,2020-08-11,259,1,254
 "Inner Mongolia","China",44.0935,113.9448,2020-08-12,259,1,254
+"Inner Mongolia","China",44.0935,113.9448,2020-08-13,259,1,255
 "Isle of Man","United Kingdom",54.2361,-4.5481,2020-01-22,0,0,0
 "Isle of Man","United Kingdom",54.2361,-4.5481,2020-01-23,0,0,0
 "Isle of Man","United Kingdom",54.2361,-4.5481,2020-01-24,0,0,0
@@ -7547,6 +7583,7 @@
 "Isle of Man","United Kingdom",54.2361,-4.5481,2020-08-10,336,24,312
 "Isle of Man","United Kingdom",54.2361,-4.5481,2020-08-11,336,24,312
 "Isle of Man","United Kingdom",54.2361,-4.5481,2020-08-12,336,24,312
+"Isle of Man","United Kingdom",54.2361,-4.5481,2020-08-13,336,24,312
 "Jiangsu","China",32.9711,119.455,2020-01-22,1,0,0
 "Jiangsu","China",32.9711,119.455,2020-01-23,5,0,0
 "Jiangsu","China",32.9711,119.455,2020-01-24,9,0,0
@@ -7751,6 +7788,7 @@
 "Jiangsu","China",32.9711,119.455,2020-08-10,659,0,655
 "Jiangsu","China",32.9711,119.455,2020-08-11,659,0,656
 "Jiangsu","China",32.9711,119.455,2020-08-12,659,0,656
+"Jiangsu","China",32.9711,119.455,2020-08-13,659,0,655
 "Jiangxi","China",27.614,115.7221,2020-01-22,2,0,0
 "Jiangxi","China",27.614,115.7221,2020-01-23,7,0,0
 "Jiangxi","China",27.614,115.7221,2020-01-24,18,0,0
@@ -7955,6 +7993,7 @@
 "Jiangxi","China",27.614,115.7221,2020-08-10,932,1,931
 "Jiangxi","China",27.614,115.7221,2020-08-11,932,1,931
 "Jiangxi","China",27.614,115.7221,2020-08-12,932,1,931
+"Jiangxi","China",27.614,115.7221,2020-08-13,932,1,931
 "Jilin","China",43.6661,126.1923,2020-01-22,0,0,0
 "Jilin","China",43.6661,126.1923,2020-01-23,1,0,0
 "Jilin","China",43.6661,126.1923,2020-01-24,3,0,0
@@ -8159,6 +8198,7 @@
 "Jilin","China",43.6661,126.1923,2020-08-10,157,2,154
 "Jilin","China",43.6661,126.1923,2020-08-11,157,2,154
 "Jilin","China",43.6661,126.1923,2020-08-12,157,2,154
+"Jilin","China",43.6661,126.1923,2020-08-13,157,2,154
 "Liaoning","China",41.2956,122.6085,2020-01-22,2,0,0
 "Liaoning","China",41.2956,122.6085,2020-01-23,3,0,0
 "Liaoning","China",41.2956,122.6085,2020-01-24,4,0,0
@@ -8363,6 +8403,7 @@
 "Liaoning","China",41.2956,122.6085,2020-08-10,261,2,186
 "Liaoning","China",41.2956,122.6085,2020-08-11,261,2,191
 "Liaoning","China",41.2956,122.6085,2020-08-12,261,2,202
+"Liaoning","China",41.2956,122.6085,2020-08-13,261,2,207
 "Macau","China",22.1667,113.55,2020-01-22,1,0,0
 "Macau","China",22.1667,113.55,2020-01-23,2,0,0
 "Macau","China",22.1667,113.55,2020-01-24,2,0,0
@@ -8567,6 +8608,7 @@
 "Macau","China",22.1667,113.55,2020-08-10,46,0,46
 "Macau","China",22.1667,113.55,2020-08-11,46,0,46
 "Macau","China",22.1667,113.55,2020-08-12,46,0,46
+"Macau","China",22.1667,113.55,2020-08-13,46,0,46
 "Manitoba","Canada",53.7609,-98.8139,2020-01-22,0,0,NA
 "Manitoba","Canada",53.7609,-98.8139,2020-01-23,0,0,NA
 "Manitoba","Canada",53.7609,-98.8139,2020-01-24,0,0,NA
@@ -8771,6 +8813,7 @@
 "Manitoba","Canada",53.7609,-98.8139,2020-08-10,558,8,NA
 "Manitoba","Canada",53.7609,-98.8139,2020-08-11,562,8,NA
 "Manitoba","Canada",53.7609,-98.8139,2020-08-12,578,8,NA
+"Manitoba","Canada",53.7609,-98.8139,2020-08-13,603,8,NA
 "Martinique","France",14.6415,-61.0242,2020-01-22,0,0,0
 "Martinique","France",14.6415,-61.0242,2020-01-23,0,0,0
 "Martinique","France",14.6415,-61.0242,2020-01-24,0,0,0
@@ -8975,6 +9018,7 @@
 "Martinique","France",14.6415,-61.0242,2020-08-10,336,16,98
 "Martinique","France",14.6415,-61.0242,2020-08-11,336,16,98
 "Martinique","France",14.6415,-61.0242,2020-08-12,336,16,98
+"Martinique","France",14.6415,-61.0242,2020-08-13,336,16,98
 "Mayotte","France",-12.8275,45.166244,2020-01-22,0,0,0
 "Mayotte","France",-12.8275,45.166244,2020-01-23,0,0,0
 "Mayotte","France",-12.8275,45.166244,2020-01-24,0,0,0
@@ -9179,6 +9223,7 @@
 "Mayotte","France",-12.8275,45.166244,2020-08-10,3068,39,2835
 "Mayotte","France",-12.8275,45.166244,2020-08-11,3091,39,2835
 "Mayotte","France",-12.8275,45.166244,2020-08-12,3091,39,2835
+"Mayotte","France",-12.8275,45.166244,2020-08-13,3119,39,2940
 "Montserrat","United Kingdom",16.742498,-62.187366,2020-01-22,0,0,0
 "Montserrat","United Kingdom",16.742498,-62.187366,2020-01-23,0,0,0
 "Montserrat","United Kingdom",16.742498,-62.187366,2020-01-24,0,0,0
@@ -9383,6 +9428,7 @@
 "Montserrat","United Kingdom",16.742498,-62.187366,2020-08-10,13,1,12
 "Montserrat","United Kingdom",16.742498,-62.187366,2020-08-11,13,1,12
 "Montserrat","United Kingdom",16.742498,-62.187366,2020-08-12,13,1,12
+"Montserrat","United Kingdom",16.742498,-62.187366,2020-08-13,13,1,12
 "New Brunswick","Canada",46.5653,-66.4619,2020-01-22,0,0,NA
 "New Brunswick","Canada",46.5653,-66.4619,2020-01-23,0,0,NA
 "New Brunswick","Canada",46.5653,-66.4619,2020-01-24,0,0,NA
@@ -9587,6 +9633,7 @@
 "New Brunswick","Canada",46.5653,-66.4619,2020-08-10,176,2,NA
 "New Brunswick","Canada",46.5653,-66.4619,2020-08-11,177,2,NA
 "New Brunswick","Canada",46.5653,-66.4619,2020-08-12,178,2,NA
+"New Brunswick","Canada",46.5653,-66.4619,2020-08-13,180,2,NA
 "New Caledonia","France",-20.904305,165.618042,2020-01-22,0,0,0
 "New Caledonia","France",-20.904305,165.618042,2020-01-23,0,0,0
 "New Caledonia","France",-20.904305,165.618042,2020-01-24,0,0,0
@@ -9791,6 +9838,7 @@
 "New Caledonia","France",-20.904305,165.618042,2020-08-10,23,0,22
 "New Caledonia","France",-20.904305,165.618042,2020-08-11,23,0,22
 "New Caledonia","France",-20.904305,165.618042,2020-08-12,23,0,22
+"New Caledonia","France",-20.904305,165.618042,2020-08-13,23,0,22
 "New South Wales","Australia",-33.8688,151.2093,2020-01-22,0,0,0
 "New South Wales","Australia",-33.8688,151.2093,2020-01-23,0,0,0
 "New South Wales","Australia",-33.8688,151.2093,2020-01-24,0,0,0
@@ -9995,6 +10043,7 @@
 "New South Wales","Australia",-33.8688,151.2093,2020-08-10,3897,50,2994
 "New South Wales","Australia",-33.8688,151.2093,2020-08-11,3915,50,2994
 "New South Wales","Australia",-33.8688,151.2093,2020-08-12,3927,51,2994
+"New South Wales","Australia",-33.8688,151.2093,2020-08-13,3936,51,2994
 "Newfoundland and Labrador","Canada",53.1355,-57.6604,2020-01-22,0,0,NA
 "Newfoundland and Labrador","Canada",53.1355,-57.6604,2020-01-23,0,0,NA
 "Newfoundland and Labrador","Canada",53.1355,-57.6604,2020-01-24,0,0,NA
@@ -10199,6 +10248,7 @@
 "Newfoundland and Labrador","Canada",53.1355,-57.6604,2020-08-10,268,3,NA
 "Newfoundland and Labrador","Canada",53.1355,-57.6604,2020-08-11,268,3,NA
 "Newfoundland and Labrador","Canada",53.1355,-57.6604,2020-08-12,268,3,NA
+"Newfoundland and Labrador","Canada",53.1355,-57.6604,2020-08-13,268,3,NA
 "Ningxia","China",37.2692,106.1655,2020-01-22,1,0,0
 "Ningxia","China",37.2692,106.1655,2020-01-23,1,0,0
 "Ningxia","China",37.2692,106.1655,2020-01-24,2,0,0
@@ -10403,6 +10453,7 @@
 "Ningxia","China",37.2692,106.1655,2020-08-10,75,0,75
 "Ningxia","China",37.2692,106.1655,2020-08-11,75,0,75
 "Ningxia","China",37.2692,106.1655,2020-08-12,75,0,75
+"Ningxia","China",37.2692,106.1655,2020-08-13,75,0,75
 "Northern Territory","Australia",-12.4634,130.8456,2020-01-22,0,0,0
 "Northern Territory","Australia",-12.4634,130.8456,2020-01-23,0,0,0
 "Northern Territory","Australia",-12.4634,130.8456,2020-01-24,0,0,0
@@ -10607,6 +10658,7 @@
 "Northern Territory","Australia",-12.4634,130.8456,2020-08-10,33,0,30
 "Northern Territory","Australia",-12.4634,130.8456,2020-08-11,33,0,31
 "Northern Territory","Australia",-12.4634,130.8456,2020-08-12,33,0,31
+"Northern Territory","Australia",-12.4634,130.8456,2020-08-13,33,0,31
 "Northwest Territories","Canada",64.8255,-124.8457,2020-01-22,0,0,NA
 "Northwest Territories","Canada",64.8255,-124.8457,2020-01-23,0,0,NA
 "Northwest Territories","Canada",64.8255,-124.8457,2020-01-24,0,0,NA
@@ -10811,6 +10863,7 @@
 "Northwest Territories","Canada",64.8255,-124.8457,2020-08-10,5,0,NA
 "Northwest Territories","Canada",64.8255,-124.8457,2020-08-11,5,0,NA
 "Northwest Territories","Canada",64.8255,-124.8457,2020-08-12,5,0,NA
+"Northwest Territories","Canada",64.8255,-124.8457,2020-08-13,5,0,NA
 "Nova Scotia","Canada",44.682,-63.7443,2020-01-22,0,0,NA
 "Nova Scotia","Canada",44.682,-63.7443,2020-01-23,0,0,NA
 "Nova Scotia","Canada",44.682,-63.7443,2020-01-24,0,0,NA
@@ -11015,6 +11068,7 @@
 "Nova Scotia","Canada",44.682,-63.7443,2020-08-10,1071,64,NA
 "Nova Scotia","Canada",44.682,-63.7443,2020-08-11,1071,64,NA
 "Nova Scotia","Canada",44.682,-63.7443,2020-08-12,1071,64,NA
+"Nova Scotia","Canada",44.682,-63.7443,2020-08-13,1071,64,NA
 "Ontario","Canada",51.2538,-85.3232,2020-01-22,0,0,NA
 "Ontario","Canada",51.2538,-85.3232,2020-01-23,0,0,NA
 "Ontario","Canada",51.2538,-85.3232,2020-01-24,0,0,NA
@@ -11219,6 +11273,7 @@
 "Ontario","Canada",51.2538,-85.3232,2020-08-10,42082,2832,NA
 "Ontario","Canada",51.2538,-85.3232,2020-08-11,42162,2832,NA
 "Ontario","Canada",51.2538,-85.3232,2020-08-12,42233,2833,NA
+"Ontario","Canada",51.2538,-85.3232,2020-08-13,42313,2834,NA
 "Prince Edward Island","Canada",46.5107,-63.4168,2020-01-22,0,0,NA
 "Prince Edward Island","Canada",46.5107,-63.4168,2020-01-23,0,0,NA
 "Prince Edward Island","Canada",46.5107,-63.4168,2020-01-24,0,0,NA
@@ -11423,6 +11478,7 @@
 "Prince Edward Island","Canada",46.5107,-63.4168,2020-08-10,36,0,NA
 "Prince Edward Island","Canada",46.5107,-63.4168,2020-08-11,36,0,NA
 "Prince Edward Island","Canada",46.5107,-63.4168,2020-08-12,41,0,NA
+"Prince Edward Island","Canada",46.5107,-63.4168,2020-08-13,41,0,NA
 "Qinghai","China",35.7452,95.9956,2020-01-22,0,0,0
 "Qinghai","China",35.7452,95.9956,2020-01-23,0,0,0
 "Qinghai","China",35.7452,95.9956,2020-01-24,0,0,0
@@ -11627,6 +11683,7 @@
 "Qinghai","China",35.7452,95.9956,2020-08-10,18,0,18
 "Qinghai","China",35.7452,95.9956,2020-08-11,18,0,18
 "Qinghai","China",35.7452,95.9956,2020-08-12,18,0,18
+"Qinghai","China",35.7452,95.9956,2020-08-13,18,0,18
 "Quebec","Canada",52.9399,-73.5491,2020-01-22,0,0,NA
 "Quebec","Canada",52.9399,-73.5491,2020-01-23,0,0,NA
 "Quebec","Canada",52.9399,-73.5491,2020-01-24,0,0,NA
@@ -11831,6 +11888,7 @@
 "Quebec","Canada",52.9399,-73.5491,2020-08-10,60627,5696,NA
 "Quebec","Canada",52.9399,-73.5491,2020-08-11,60718,5697,NA
 "Quebec","Canada",52.9399,-73.5491,2020-08-12,60813,5709,NA
+"Quebec","Canada",52.9399,-73.5491,2020-08-13,60917,5715,NA
 "Queensland","Australia",-27.4698,153.0251,2020-01-22,0,0,0
 "Queensland","Australia",-27.4698,153.0251,2020-01-23,0,0,0
 "Queensland","Australia",-27.4698,153.0251,2020-01-24,0,0,0
@@ -12035,6 +12093,7 @@
 "Queensland","Australia",-27.4698,153.0251,2020-08-10,1089,6,1075
 "Queensland","Australia",-27.4698,153.0251,2020-08-11,1089,6,1076
 "Queensland","Australia",-27.4698,153.0251,2020-08-12,1089,6,1076
+"Queensland","Australia",-27.4698,153.0251,2020-08-13,1091,6,1076
 "Reunion","France",-21.1151,55.5364,2020-01-22,0,0,0
 "Reunion","France",-21.1151,55.5364,2020-01-23,0,0,0
 "Reunion","France",-21.1151,55.5364,2020-01-24,0,0,0
@@ -12239,6 +12298,7 @@
 "Reunion","France",-21.1151,55.5364,2020-08-10,690,5,631
 "Reunion","France",-21.1151,55.5364,2020-08-11,702,5,631
 "Reunion","France",-21.1151,55.5364,2020-08-12,734,5,631
+"Reunion","France",-21.1151,55.5364,2020-08-13,754,5,631
 "Saint Barthelemy","France",17.9,-62.8333,2020-01-22,0,0,0
 "Saint Barthelemy","France",17.9,-62.8333,2020-01-23,0,0,0
 "Saint Barthelemy","France",17.9,-62.8333,2020-01-24,0,0,0
@@ -12443,6 +12503,7 @@
 "Saint Barthelemy","France",17.9,-62.8333,2020-08-10,13,0,6
 "Saint Barthelemy","France",17.9,-62.8333,2020-08-11,13,0,6
 "Saint Barthelemy","France",17.9,-62.8333,2020-08-12,13,0,6
+"Saint Barthelemy","France",17.9,-62.8333,2020-08-13,13,0,8
 "Saint Pierre and Miquelon","France",46.8852,-56.3159,2020-01-22,0,0,0
 "Saint Pierre and Miquelon","France",46.8852,-56.3159,2020-01-23,0,0,0
 "Saint Pierre and Miquelon","France",46.8852,-56.3159,2020-01-24,0,0,0
@@ -12647,6 +12708,7 @@
 "Saint Pierre and Miquelon","France",46.8852,-56.3159,2020-08-10,4,0,1
 "Saint Pierre and Miquelon","France",46.8852,-56.3159,2020-08-11,4,0,1
 "Saint Pierre and Miquelon","France",46.8852,-56.3159,2020-08-12,4,0,1
+"Saint Pierre and Miquelon","France",46.8852,-56.3159,2020-08-13,4,0,1
 "Saskatchewan","Canada",52.9399,-106.4509,2020-01-22,0,0,NA
 "Saskatchewan","Canada",52.9399,-106.4509,2020-01-23,0,0,NA
 "Saskatchewan","Canada",52.9399,-106.4509,2020-01-24,0,0,NA
@@ -12851,6 +12913,7 @@
 "Saskatchewan","Canada",52.9399,-106.4509,2020-08-10,1450,20,NA
 "Saskatchewan","Canada",52.9399,-106.4509,2020-08-11,1479,20,NA
 "Saskatchewan","Canada",52.9399,-106.4509,2020-08-12,1484,20,NA
+"Saskatchewan","Canada",52.9399,-106.4509,2020-08-13,1511,20,NA
 "Shaanxi","China",35.1917,108.8701,2020-01-22,0,0,0
 "Shaanxi","China",35.1917,108.8701,2020-01-23,3,0,0
 "Shaanxi","China",35.1917,108.8701,2020-01-24,5,0,0
@@ -13055,6 +13118,7 @@
 "Shaanxi","China",35.1917,108.8701,2020-08-10,340,3,322
 "Shaanxi","China",35.1917,108.8701,2020-08-11,341,3,323
 "Shaanxi","China",35.1917,108.8701,2020-08-12,341,3,324
+"Shaanxi","China",35.1917,108.8701,2020-08-13,346,3,324
 "Shandong","China",36.3427,118.1498,2020-01-22,2,0,0
 "Shandong","China",36.3427,118.1498,2020-01-23,6,0,0
 "Shandong","China",36.3427,118.1498,2020-01-24,15,0,0
@@ -13259,6 +13323,7 @@
 "Shandong","China",36.3427,118.1498,2020-08-10,816,7,788
 "Shandong","China",36.3427,118.1498,2020-08-11,817,7,788
 "Shandong","China",36.3427,118.1498,2020-08-12,821,7,789
+"Shandong","China",36.3427,118.1498,2020-08-13,821,7,789
 "Shanghai","China",31.202,121.4491,2020-01-22,9,0,0
 "Shanghai","China",31.202,121.4491,2020-01-23,16,0,0
 "Shanghai","China",31.202,121.4491,2020-01-24,20,0,1
@@ -13463,6 +13528,7 @@
 "Shanghai","China",31.202,121.4491,2020-08-10,794,7,734
 "Shanghai","China",31.202,121.4491,2020-08-11,798,7,737
 "Shanghai","China",31.202,121.4491,2020-08-12,800,7,737
+"Shanghai","China",31.202,121.4491,2020-08-13,816,7,739
 "Shanxi","China",37.5777,112.2922,2020-01-22,1,0,0
 "Shanxi","China",37.5777,112.2922,2020-01-23,1,0,0
 "Shanxi","China",37.5777,112.2922,2020-01-24,1,0,0
@@ -13667,6 +13733,7 @@
 "Shanxi","China",37.5777,112.2922,2020-08-10,201,0,201
 "Shanxi","China",37.5777,112.2922,2020-08-11,201,0,201
 "Shanxi","China",37.5777,112.2922,2020-08-12,201,0,201
+"Shanxi","China",37.5777,112.2922,2020-08-13,201,0,201
 "Sichuan","China",30.6171,102.7103,2020-01-22,5,0,0
 "Sichuan","China",30.6171,102.7103,2020-01-23,8,0,0
 "Sichuan","China",30.6171,102.7103,2020-01-24,15,0,0
@@ -13871,6 +13938,7 @@
 "Sichuan","China",30.6171,102.7103,2020-08-10,615,3,599
 "Sichuan","China",30.6171,102.7103,2020-08-11,616,3,600
 "Sichuan","China",30.6171,102.7103,2020-08-12,618,3,602
+"Sichuan","China",30.6171,102.7103,2020-08-13,619,3,605
 "Sint Maarten","Netherlands",18.0425,-63.0548,2020-01-22,0,0,0
 "Sint Maarten","Netherlands",18.0425,-63.0548,2020-01-23,0,0,0
 "Sint Maarten","Netherlands",18.0425,-63.0548,2020-01-24,0,0,0
@@ -14075,6 +14143,7 @@
 "Sint Maarten","Netherlands",18.0425,-63.0548,2020-08-10,189,17,86
 "Sint Maarten","Netherlands",18.0425,-63.0548,2020-08-11,205,17,93
 "Sint Maarten","Netherlands",18.0425,-63.0548,2020-08-12,248,17,102
+"Sint Maarten","Netherlands",18.0425,-63.0548,2020-08-13,263,17,102
 "South Australia","Australia",-34.9285,138.6007,2020-01-22,0,0,0
 "South Australia","Australia",-34.9285,138.6007,2020-01-23,0,0,0
 "South Australia","Australia",-34.9285,138.6007,2020-01-24,0,0,0
@@ -14279,6 +14348,7 @@
 "South Australia","Australia",-34.9285,138.6007,2020-08-10,459,4,447
 "South Australia","Australia",-34.9285,138.6007,2020-08-11,459,4,447
 "South Australia","Australia",-34.9285,138.6007,2020-08-12,459,4,449
+"South Australia","Australia",-34.9285,138.6007,2020-08-13,460,4,449
 "St Martin","France",18.0708,-63.0501,2020-01-22,0,0,0
 "St Martin","France",18.0708,-63.0501,2020-01-23,0,0,0
 "St Martin","France",18.0708,-63.0501,2020-01-24,0,0,0
@@ -14483,6 +14553,7 @@
 "St Martin","France",18.0708,-63.0501,2020-08-10,78,3,44
 "St Martin","France",18.0708,-63.0501,2020-08-11,84,4,44
 "St Martin","France",18.0708,-63.0501,2020-08-12,84,4,44
+"St Martin","France",18.0708,-63.0501,2020-08-13,92,4,45
 "Tasmania","Australia",-42.8821,147.3272,2020-01-22,0,0,0
 "Tasmania","Australia",-42.8821,147.3272,2020-01-23,0,0,0
 "Tasmania","Australia",-42.8821,147.3272,2020-01-24,0,0,0
@@ -14687,6 +14758,7 @@
 "Tasmania","Australia",-42.8821,147.3272,2020-08-10,229,13,216
 "Tasmania","Australia",-42.8821,147.3272,2020-08-11,230,13,216
 "Tasmania","Australia",-42.8821,147.3272,2020-08-12,230,13,216
+"Tasmania","Australia",-42.8821,147.3272,2020-08-13,230,13,216
 "Tianjin","China",39.3054,117.323,2020-01-22,4,0,0
 "Tianjin","China",39.3054,117.323,2020-01-23,4,0,0
 "Tianjin","China",39.3054,117.323,2020-01-24,8,0,0
@@ -14891,6 +14963,7 @@
 "Tianjin","China",39.3054,117.323,2020-08-10,205,3,201
 "Tianjin","China",39.3054,117.323,2020-08-11,205,3,202
 "Tianjin","China",39.3054,117.323,2020-08-12,205,3,202
+"Tianjin","China",39.3054,117.323,2020-08-13,205,3,202
 "Tibet","China",31.6927,88.0924,2020-01-22,0,0,0
 "Tibet","China",31.6927,88.0924,2020-01-23,0,0,0
 "Tibet","China",31.6927,88.0924,2020-01-24,0,0,0
@@ -15095,6 +15168,7 @@
 "Tibet","China",31.6927,88.0924,2020-08-10,1,0,1
 "Tibet","China",31.6927,88.0924,2020-08-11,1,0,1
 "Tibet","China",31.6927,88.0924,2020-08-12,1,0,1
+"Tibet","China",31.6927,88.0924,2020-08-13,1,0,1
 "Turks and Caicos Islands","United Kingdom",21.694,-71.7979,2020-01-22,0,0,0
 "Turks and Caicos Islands","United Kingdom",21.694,-71.7979,2020-01-23,0,0,0
 "Turks and Caicos Islands","United Kingdom",21.694,-71.7979,2020-01-24,0,0,0
@@ -15299,6 +15373,7 @@
 "Turks and Caicos Islands","United Kingdom",21.694,-71.7979,2020-08-10,216,2,39
 "Turks and Caicos Islands","United Kingdom",21.694,-71.7979,2020-08-11,216,2,39
 "Turks and Caicos Islands","United Kingdom",21.694,-71.7979,2020-08-12,241,2,46
+"Turks and Caicos Islands","United Kingdom",21.694,-71.7979,2020-08-13,258,2,52
 "Victoria","Australia",-37.8136,144.9631,2020-01-22,0,0,0
 "Victoria","Australia",-37.8136,144.9631,2020-01-23,0,0,0
 "Victoria","Australia",-37.8136,144.9631,2020-01-24,0,0,0
@@ -15503,6 +15578,7 @@
 "Victoria","Australia",-37.8136,144.9631,2020-08-10,15251,246,6642
 "Victoria","Australia",-37.8136,144.9631,2020-08-11,15646,267,6889
 "Victoria","Australia",-37.8136,144.9631,2020-08-12,15863,275,7271
+"Victoria","Australia",-37.8136,144.9631,2020-08-13,16234,289,7493
 "Western Australia","Australia",-31.9505,115.8605,2020-01-22,0,0,0
 "Western Australia","Australia",-31.9505,115.8605,2020-01-23,0,0,0
 "Western Australia","Australia",-31.9505,115.8605,2020-01-24,0,0,0
@@ -15707,6 +15783,7 @@
 "Western Australia","Australia",-31.9505,115.8605,2020-08-10,642,9,630
 "Western Australia","Australia",-31.9505,115.8605,2020-08-11,642,9,632
 "Western Australia","Australia",-31.9505,115.8605,2020-08-12,644,9,632
+"Western Australia","Australia",-31.9505,115.8605,2020-08-13,645,9,632
 "Xinjiang","China",41.1129,85.2401,2020-01-22,0,0,0
 "Xinjiang","China",41.1129,85.2401,2020-01-23,2,0,0
 "Xinjiang","China",41.1129,85.2401,2020-01-24,2,0,0
@@ -15911,6 +15988,7 @@
 "Xinjiang","China",41.1129,85.2401,2020-08-10,866,3,296
 "Xinjiang","China",41.1129,85.2401,2020-08-11,875,3,337
 "Xinjiang","China",41.1129,85.2401,2020-08-12,883,3,375
+"Xinjiang","China",41.1129,85.2401,2020-08-13,891,3,424
 "Yukon","Canada",64.2823,-135,2020-01-22,0,0,NA
 "Yukon","Canada",64.2823,-135,2020-01-23,0,0,NA
 "Yukon","Canada",64.2823,-135,2020-01-24,0,0,NA
@@ -16115,6 +16193,7 @@
 "Yukon","Canada",64.2823,-135,2020-08-10,15,0,NA
 "Yukon","Canada",64.2823,-135,2020-08-11,15,0,NA
 "Yukon","Canada",64.2823,-135,2020-08-12,15,0,NA
+"Yukon","Canada",64.2823,-135,2020-08-13,15,0,NA
 "Yunnan","China",24.974,101.487,2020-01-22,1,0,0
 "Yunnan","China",24.974,101.487,2020-01-23,2,0,0
 "Yunnan","China",24.974,101.487,2020-01-24,5,0,0
@@ -16319,6 +16398,7 @@
 "Yunnan","China",24.974,101.487,2020-08-10,191,2,188
 "Yunnan","China",24.974,101.487,2020-08-11,191,2,188
 "Yunnan","China",24.974,101.487,2020-08-12,191,2,188
+"Yunnan","China",24.974,101.487,2020-08-13,191,2,188
 "Zhejiang","China",29.1832,120.0934,2020-01-22,10,0,0
 "Zhejiang","China",29.1832,120.0934,2020-01-23,27,0,0
 "Zhejiang","China",29.1832,120.0934,2020-01-24,43,0,1
@@ -16523,6 +16603,7 @@
 "Zhejiang","China",29.1832,120.0934,2020-08-10,1274,1,1268
 "Zhejiang","China",29.1832,120.0934,2020-08-11,1275,1,1268
 "Zhejiang","China",29.1832,120.0934,2020-08-12,1275,1,1268
+"Zhejiang","China",29.1832,120.0934,2020-08-13,1275,1,1268
 NA,"Afghanistan",33.93911,67.709953,2020-01-22,0,0,0
 NA,"Afghanistan",33.93911,67.709953,2020-01-23,0,0,0
 NA,"Afghanistan",33.93911,67.709953,2020-01-24,0,0,0
@@ -16727,6 +16808,7 @@ NA,"Afghanistan",33.93911,67.709953,2020-08-09,37054,1312,25960
 NA,"Afghanistan",33.93911,67.709953,2020-08-10,37162,1328,26228
 NA,"Afghanistan",33.93911,67.709953,2020-08-11,37269,1344,26415
 NA,"Afghanistan",33.93911,67.709953,2020-08-12,37345,1354,26694
+NA,"Afghanistan",33.93911,67.709953,2020-08-13,37424,1363,26714
 NA,"Albania",41.1533,20.1683,2020-01-22,0,0,0
 NA,"Albania",41.1533,20.1683,2020-01-23,0,0,0
 NA,"Albania",41.1533,20.1683,2020-01-24,0,0,0
@@ -16931,6 +17013,7 @@ NA,"Albania",41.1533,20.1683,2020-08-09,6411,199,3342
 NA,"Albania",41.1533,20.1683,2020-08-10,6536,200,3379
 NA,"Albania",41.1533,20.1683,2020-08-11,6676,205,3480
 NA,"Albania",41.1533,20.1683,2020-08-12,6817,208,3552
+NA,"Albania",41.1533,20.1683,2020-08-13,6971,213,3616
 NA,"Algeria",28.0339,1.6596,2020-01-22,0,0,0
 NA,"Algeria",28.0339,1.6596,2020-01-23,0,0,0
 NA,"Algeria",28.0339,1.6596,2020-01-24,0,0,0
@@ -17135,6 +17218,7 @@ NA,"Algeria",28.0339,1.6596,2020-08-09,35160,1302,24506
 NA,"Algeria",28.0339,1.6596,2020-08-10,35712,1312,24920
 NA,"Algeria",28.0339,1.6596,2020-08-11,36204,1322,25263
 NA,"Algeria",28.0339,1.6596,2020-08-12,36699,1333,25627
+NA,"Algeria",28.0339,1.6596,2020-08-13,37187,1341,26004
 NA,"Andorra",42.5063,1.5218,2020-01-22,0,0,0
 NA,"Andorra",42.5063,1.5218,2020-01-23,0,0,0
 NA,"Andorra",42.5063,1.5218,2020-01-24,0,0,0
@@ -17339,6 +17423,7 @@ NA,"Andorra",42.5063,1.5218,2020-08-09,955,52,839
 NA,"Andorra",42.5063,1.5218,2020-08-10,963,52,839
 NA,"Andorra",42.5063,1.5218,2020-08-11,963,52,839
 NA,"Andorra",42.5063,1.5218,2020-08-12,977,53,855
+NA,"Andorra",42.5063,1.5218,2020-08-13,981,53,858
 NA,"Angola",-11.2027,17.8739,2020-01-22,0,0,0
 NA,"Angola",-11.2027,17.8739,2020-01-23,0,0,0
 NA,"Angola",-11.2027,17.8739,2020-01-24,0,0,0
@@ -17543,6 +17628,7 @@ NA,"Angola",-11.2027,17.8739,2020-08-09,1672,75,567
 NA,"Angola",-11.2027,17.8739,2020-08-10,1679,78,569
 NA,"Angola",-11.2027,17.8739,2020-08-11,1735,80,575
 NA,"Angola",-11.2027,17.8739,2020-08-12,1762,80,577
+NA,"Angola",-11.2027,17.8739,2020-08-13,1815,80,577
 NA,"Antigua and Barbuda",17.0608,-61.7964,2020-01-22,0,0,0
 NA,"Antigua and Barbuda",17.0608,-61.7964,2020-01-23,0,0,0
 NA,"Antigua and Barbuda",17.0608,-61.7964,2020-01-24,0,0,0
@@ -17747,6 +17833,7 @@ NA,"Antigua and Barbuda",17.0608,-61.7964,2020-08-09,92,3,76
 NA,"Antigua and Barbuda",17.0608,-61.7964,2020-08-10,92,3,76
 NA,"Antigua and Barbuda",17.0608,-61.7964,2020-08-11,92,3,76
 NA,"Antigua and Barbuda",17.0608,-61.7964,2020-08-12,92,3,76
+NA,"Antigua and Barbuda",17.0608,-61.7964,2020-08-13,92,3,76
 NA,"Argentina",-38.4161,-63.6167,2020-01-22,0,0,0
 NA,"Argentina",-38.4161,-63.6167,2020-01-23,0,0,0
 NA,"Argentina",-38.4161,-63.6167,2020-01-24,0,0,0
@@ -17951,6 +18038,7 @@ NA,"Argentina",-38.4161,-63.6167,2020-08-09,246499,4606,108242
 NA,"Argentina",-38.4161,-63.6167,2020-08-10,253868,4764,108242
 NA,"Argentina",-38.4161,-63.6167,2020-08-11,260911,5004,181389
 NA,"Argentina",-38.4161,-63.6167,2020-08-12,268574,5213,187283
+NA,"Argentina",-38.4161,-63.6167,2020-08-13,276072,5362,192434
 NA,"Armenia",40.0691,45.0382,2020-01-22,0,0,0
 NA,"Armenia",40.0691,45.0382,2020-01-23,0,0,0
 NA,"Armenia",40.0691,45.0382,2020-01-24,0,0,0
@@ -18155,6 +18243,7 @@ NA,"Armenia",40.0691,45.0382,2020-08-09,40410,791,32520
 NA,"Armenia",40.0691,45.0382,2020-08-10,40433,796,32616
 NA,"Armenia",40.0691,45.0382,2020-08-11,40593,803,33157
 NA,"Armenia",40.0691,45.0382,2020-08-12,40794,806,33492
+NA,"Armenia",40.0691,45.0382,2020-08-13,41023,809,33897
 NA,"Austria",47.5162,14.5501,2020-01-22,0,0,0
 NA,"Austria",47.5162,14.5501,2020-01-23,0,0,0
 NA,"Austria",47.5162,14.5501,2020-01-24,0,0,0
@@ -18359,6 +18448,7 @@ NA,"Austria",47.5162,14.5501,2020-08-09,22033,721,19923
 NA,"Austria",47.5162,14.5501,2020-08-10,22106,723,20010
 NA,"Austria",47.5162,14.5501,2020-08-11,22245,723,20123
 NA,"Austria",47.5162,14.5501,2020-08-12,22439,724,20268
+NA,"Austria",47.5162,14.5501,2020-08-13,22594,725,20346
 NA,"Azerbaijan",40.1431,47.5769,2020-01-22,0,0,0
 NA,"Azerbaijan",40.1431,47.5769,2020-01-23,0,0,0
 NA,"Azerbaijan",40.1431,47.5769,2020-01-24,0,0,0
@@ -18563,6 +18653,7 @@ NA,"Azerbaijan",40.1431,47.5769,2020-08-09,33568,490,30364
 NA,"Azerbaijan",40.1431,47.5769,2020-08-10,33647,492,30642
 NA,"Azerbaijan",40.1431,47.5769,2020-08-11,33731,495,30856
 NA,"Azerbaijan",40.1431,47.5769,2020-08-12,33824,497,31058
+NA,"Azerbaijan",40.1431,47.5769,2020-08-13,33915,500,31269
 NA,"Bahamas",25.025885,-78.035889,2020-01-22,0,0,0
 NA,"Bahamas",25.025885,-78.035889,2020-01-23,0,0,0
 NA,"Bahamas",25.025885,-78.035889,2020-01-24,0,0,0
@@ -18767,6 +18858,7 @@ NA,"Bahamas",25.025885,-78.035889,2020-08-09,898,15,104
 NA,"Bahamas",25.025885,-78.035889,2020-08-10,945,15,113
 NA,"Bahamas",25.025885,-78.035889,2020-08-11,989,15,116
 NA,"Bahamas",25.025885,-78.035889,2020-08-12,1036,15,122
+NA,"Bahamas",25.025885,-78.035889,2020-08-13,1089,15,138
 NA,"Bahrain",26.0275,50.55,2020-01-22,0,0,0
 NA,"Bahrain",26.0275,50.55,2020-01-23,0,0,0
 NA,"Bahrain",26.0275,50.55,2020-01-24,0,0,0
@@ -18971,6 +19063,7 @@ NA,"Bahrain",26.0275,50.55,2020-08-09,44011,162,40967
 NA,"Bahrain",26.0275,50.55,2020-08-10,44397,163,41209
 NA,"Bahrain",26.0275,50.55,2020-08-11,44804,165,41504
 NA,"Bahrain",26.0275,50.55,2020-08-12,45264,166,41836
+NA,"Bahrain",26.0275,50.55,2020-08-13,45726,167,42180
 NA,"Bangladesh",23.685,90.3563,2020-01-22,0,0,0
 NA,"Bangladesh",23.685,90.3563,2020-01-23,0,0,0
 NA,"Bangladesh",23.685,90.3563,2020-01-24,0,0,0
@@ -19175,6 +19268,7 @@ NA,"Bangladesh",23.685,90.3563,2020-08-09,257600,3399,148370
 NA,"Bangladesh",23.685,90.3563,2020-08-10,260507,3438,150437
 NA,"Bangladesh",23.685,90.3563,2020-08-11,263503,3471,151972
 NA,"Bangladesh",23.685,90.3563,2020-08-12,266498,3513,153089
+NA,"Bangladesh",23.685,90.3563,2020-08-13,269115,3557,154871
 NA,"Barbados",13.1939,-59.5432,2020-01-22,0,0,0
 NA,"Barbados",13.1939,-59.5432,2020-01-23,0,0,0
 NA,"Barbados",13.1939,-59.5432,2020-01-24,0,0,0
@@ -19379,6 +19473,7 @@ NA,"Barbados",13.1939,-59.5432,2020-08-09,142,7,112
 NA,"Barbados",13.1939,-59.5432,2020-08-10,142,7,112
 NA,"Barbados",13.1939,-59.5432,2020-08-11,143,7,112
 NA,"Barbados",13.1939,-59.5432,2020-08-12,144,7,115
+NA,"Barbados",13.1939,-59.5432,2020-08-13,144,7,118
 NA,"Belarus",53.7098,27.9534,2020-01-22,0,0,0
 NA,"Belarus",53.7098,27.9534,2020-01-23,0,0,0
 NA,"Belarus",53.7098,27.9534,2020-01-24,0,0,0
@@ -19583,6 +19678,7 @@ NA,"Belarus",53.7098,27.9534,2020-08-09,68850,587,64935
 NA,"Belarus",53.7098,27.9534,2020-08-10,68947,589,64991
 NA,"Belarus",53.7098,27.9534,2020-08-11,69005,592,65219
 NA,"Belarus",53.7098,27.9534,2020-08-12,69102,595,65893
+NA,"Belarus",53.7098,27.9534,2020-08-13,69203,599,66178
 NA,"Belgium",50.8333,4.469936,2020-01-22,0,0,0
 NA,"Belgium",50.8333,4.469936,2020-01-23,0,0,0
 NA,"Belgium",50.8333,4.469936,2020-01-24,0,0,0
@@ -19787,6 +19883,7 @@ NA,"Belgium",50.8333,4.469936,2020-08-09,74152,9872,17780
 NA,"Belgium",50.8333,4.469936,2020-08-10,74620,9879,17792
 NA,"Belgium",50.8333,4.469936,2020-08-11,75008,9885,17841
 NA,"Belgium",50.8333,4.469936,2020-08-12,75647,9900,17883
+NA,"Belgium",50.8333,4.469936,2020-08-13,76191,9916,17913
 NA,"Belize",17.1899,-88.4976,2020-01-22,0,0,0
 NA,"Belize",17.1899,-88.4976,2020-01-23,0,0,0
 NA,"Belize",17.1899,-88.4976,2020-01-24,0,0,0
@@ -19991,6 +20088,7 @@ NA,"Belize",17.1899,-88.4976,2020-08-09,153,2,32
 NA,"Belize",17.1899,-88.4976,2020-08-10,177,2,32
 NA,"Belize",17.1899,-88.4976,2020-08-11,177,2,32
 NA,"Belize",17.1899,-88.4976,2020-08-12,210,2,32
+NA,"Belize",17.1899,-88.4976,2020-08-13,296,2,32
 NA,"Benin",9.3077,2.3158,2020-01-22,0,0,0
 NA,"Benin",9.3077,2.3158,2020-01-23,0,0,0
 NA,"Benin",9.3077,2.3158,2020-01-24,0,0,0
@@ -20195,6 +20293,7 @@ NA,"Benin",9.3077,2.3158,2020-08-09,1936,38,1600
 NA,"Benin",9.3077,2.3158,2020-08-10,1936,38,1600
 NA,"Benin",9.3077,2.3158,2020-08-11,2001,38,1681
 NA,"Benin",9.3077,2.3158,2020-08-12,2014,38,1681
+NA,"Benin",9.3077,2.3158,2020-08-13,2014,38,1681
 NA,"Bhutan",27.5142,90.4336,2020-01-22,0,0,0
 NA,"Bhutan",27.5142,90.4336,2020-01-23,0,0,0
 NA,"Bhutan",27.5142,90.4336,2020-01-24,0,0,0
@@ -20399,6 +20498,7 @@ NA,"Bhutan",27.5142,90.4336,2020-08-09,110,0,96
 NA,"Bhutan",27.5142,90.4336,2020-08-10,110,0,96
 NA,"Bhutan",27.5142,90.4336,2020-08-11,113,0,97
 NA,"Bhutan",27.5142,90.4336,2020-08-12,113,0,97
+NA,"Bhutan",27.5142,90.4336,2020-08-13,128,0,100
 NA,"Bolivia",-16.2902,-63.5887,2020-01-22,0,0,0
 NA,"Bolivia",-16.2902,-63.5887,2020-01-23,0,0,0
 NA,"Bolivia",-16.2902,-63.5887,2020-01-24,0,0,0
@@ -20603,6 +20703,7 @@ NA,"Bolivia",-16.2902,-63.5887,2020-08-09,89999,3640,29808
 NA,"Bolivia",-16.2902,-63.5887,2020-08-10,91635,3712,30823
 NA,"Bolivia",-16.2902,-63.5887,2020-08-11,93328,3761,31753
 NA,"Bolivia",-16.2902,-63.5887,2020-08-12,95071,3827,32830
+NA,"Bolivia",-16.2902,-63.5887,2020-08-13,96459,3884,33720
 NA,"Bosnia and Herzegovina",43.9159,17.6791,2020-01-22,0,0,0
 NA,"Bosnia and Herzegovina",43.9159,17.6791,2020-01-23,0,0,0
 NA,"Bosnia and Herzegovina",43.9159,17.6791,2020-01-24,0,0,0
@@ -20807,6 +20908,7 @@ NA,"Bosnia and Herzegovina",43.9159,17.6791,2020-08-09,13687,394,7373
 NA,"Bosnia and Herzegovina",43.9159,17.6791,2020-08-10,14498,425,8159
 NA,"Bosnia and Herzegovina",43.9159,17.6791,2020-08-11,14708,447,8411
 NA,"Bosnia and Herzegovina",43.9159,17.6791,2020-08-12,14961,453,8827
+NA,"Bosnia and Herzegovina",43.9159,17.6791,2020-08-13,15184,458,9156
 NA,"Botswana",-22.3285,24.6849,2020-01-22,0,0,0
 NA,"Botswana",-22.3285,24.6849,2020-01-23,0,0,0
 NA,"Botswana",-22.3285,24.6849,2020-01-24,0,0,0
@@ -21011,6 +21113,7 @@ NA,"Botswana",-22.3285,24.6849,2020-08-09,804,2,63
 NA,"Botswana",-22.3285,24.6849,2020-08-10,1066,2,80
 NA,"Botswana",-22.3285,24.6849,2020-08-11,1066,2,80
 NA,"Botswana",-22.3285,24.6849,2020-08-12,1066,2,80
+NA,"Botswana",-22.3285,24.6849,2020-08-13,1214,3,120
 NA,"Brazil",-14.235,-51.9253,2020-01-22,0,0,0
 NA,"Brazil",-14.235,-51.9253,2020-01-23,0,0,0
 NA,"Brazil",-14.235,-51.9253,2020-01-24,0,0,0
@@ -21215,6 +21318,7 @@ NA,"Brazil",-14.235,-51.9253,2020-08-09,3035422,101049,2356983
 NA,"Brazil",-14.235,-51.9253,2020-08-10,3057470,101752,2390830
 NA,"Brazil",-14.235,-51.9253,2020-08-11,3109630,103026,2449338
 NA,"Brazil",-14.235,-51.9253,2020-08-12,3164785,104201,2506228
+NA,"Brazil",-14.235,-51.9253,2020-08-13,3224876,105463,2521100
 NA,"Brunei",4.5353,114.7277,2020-01-22,0,0,0
 NA,"Brunei",4.5353,114.7277,2020-01-23,0,0,0
 NA,"Brunei",4.5353,114.7277,2020-01-24,0,0,0
@@ -21419,6 +21523,7 @@ NA,"Brunei",4.5353,114.7277,2020-08-09,142,3,138
 NA,"Brunei",4.5353,114.7277,2020-08-10,142,3,138
 NA,"Brunei",4.5353,114.7277,2020-08-11,142,3,138
 NA,"Brunei",4.5353,114.7277,2020-08-12,142,3,138
+NA,"Brunei",4.5353,114.7277,2020-08-13,142,3,138
 NA,"Bulgaria",42.7339,25.4858,2020-01-22,0,0,0
 NA,"Bulgaria",42.7339,25.4858,2020-01-23,0,0,0
 NA,"Bulgaria",42.7339,25.4858,2020-01-24,0,0,0
@@ -21623,6 +21728,7 @@ NA,"Bulgaria",42.7339,25.4858,2020-08-09,13396,447,7772
 NA,"Bulgaria",42.7339,25.4858,2020-08-10,13512,459,7980
 NA,"Bulgaria",42.7339,25.4858,2020-08-11,13722,471,8154
 NA,"Bulgaria",42.7339,25.4858,2020-08-12,13893,482,8479
+NA,"Bulgaria",42.7339,25.4858,2020-08-13,13893,482,8479
 NA,"Burkina Faso",12.2383,-1.5616,2020-01-22,0,0,0
 NA,"Burkina Faso",12.2383,-1.5616,2020-01-23,0,0,0
 NA,"Burkina Faso",12.2383,-1.5616,2020-01-24,0,0,0
@@ -21827,6 +21933,7 @@ NA,"Burkina Faso",12.2383,-1.5616,2020-08-09,1175,54,974
 NA,"Burkina Faso",12.2383,-1.5616,2020-08-10,1204,54,984
 NA,"Burkina Faso",12.2383,-1.5616,2020-08-11,1211,54,990
 NA,"Burkina Faso",12.2383,-1.5616,2020-08-12,1213,54,995
+NA,"Burkina Faso",12.2383,-1.5616,2020-08-13,1228,54,997
 NA,"Burma",21.9162,95.956,2020-01-22,0,0,0
 NA,"Burma",21.9162,95.956,2020-01-23,0,0,0
 NA,"Burma",21.9162,95.956,2020-01-24,0,0,0
@@ -22031,6 +22138,7 @@ NA,"Burma",21.9162,95.956,2020-08-09,360,6,312
 NA,"Burma",21.9162,95.956,2020-08-10,360,6,312
 NA,"Burma",21.9162,95.956,2020-08-11,360,6,313
 NA,"Burma",21.9162,95.956,2020-08-12,361,6,318
+NA,"Burma",21.9162,95.956,2020-08-13,369,6,321
 NA,"Burundi",-3.3731,29.9189,2020-01-22,0,0,0
 NA,"Burundi",-3.3731,29.9189,2020-01-23,0,0,0
 NA,"Burundi",-3.3731,29.9189,2020-01-24,0,0,0
@@ -22235,6 +22343,7 @@ NA,"Burundi",-3.3731,29.9189,2020-08-09,408,1,315
 NA,"Burundi",-3.3731,29.9189,2020-08-10,408,1,315
 NA,"Burundi",-3.3731,29.9189,2020-08-11,408,1,315
 NA,"Burundi",-3.3731,29.9189,2020-08-12,409,1,315
+NA,"Burundi",-3.3731,29.9189,2020-08-13,410,1,315
 NA,"Cabo Verde",16.5388,-23.0418,2020-01-22,0,0,0
 NA,"Cabo Verde",16.5388,-23.0418,2020-01-23,0,0,0
 NA,"Cabo Verde",16.5388,-23.0418,2020-01-24,0,0,0
@@ -22439,6 +22548,7 @@ NA,"Cabo Verde",16.5388,-23.0418,2020-08-09,2858,32,2086
 NA,"Cabo Verde",16.5388,-23.0418,2020-08-10,2883,32,2128
 NA,"Cabo Verde",16.5388,-23.0418,2020-08-11,2920,33,2148
 NA,"Cabo Verde",16.5388,-23.0418,2020-08-12,3000,33,2172
+NA,"Cabo Verde",16.5388,-23.0418,2020-08-13,3073,33,2232
 NA,"Cambodia",11.55,104.9167,2020-01-22,0,0,0
 NA,"Cambodia",11.55,104.9167,2020-01-23,0,0,0
 NA,"Cambodia",11.55,104.9167,2020-01-24,0,0,0
@@ -22643,6 +22753,7 @@ NA,"Cambodia",11.55,104.9167,2020-08-09,251,0,219
 NA,"Cambodia",11.55,104.9167,2020-08-10,251,0,219
 NA,"Cambodia",11.55,104.9167,2020-08-11,268,0,220
 NA,"Cambodia",11.55,104.9167,2020-08-12,272,0,223
+NA,"Cambodia",11.55,104.9167,2020-08-13,273,0,225
 NA,"Cameroon",3.848,11.5021,2020-01-22,0,0,0
 NA,"Cameroon",3.848,11.5021,2020-01-23,0,0,0
 NA,"Cameroon",3.848,11.5021,2020-01-24,0,0,0
@@ -22847,6 +22958,7 @@ NA,"Cameroon",3.848,11.5021,2020-08-09,18042,395,15320
 NA,"Cameroon",3.848,11.5021,2020-08-10,18042,395,15320
 NA,"Cameroon",3.848,11.5021,2020-08-11,18213,398,15320
 NA,"Cameroon",3.848,11.5021,2020-08-12,18263,401,15320
+NA,"Cameroon",3.848,11.5021,2020-08-13,18308,401,15320
 NA,"Central African Republic",6.6111,20.9394,2020-01-22,0,0,0
 NA,"Central African Republic",6.6111,20.9394,2020-01-23,0,0,0
 NA,"Central African Republic",6.6111,20.9394,2020-01-24,0,0,0
@@ -23051,6 +23163,7 @@ NA,"Central African Republic",6.6111,20.9394,2020-08-09,4641,60,1721
 NA,"Central African Republic",6.6111,20.9394,2020-08-10,4641,60,1721
 NA,"Central African Republic",6.6111,20.9394,2020-08-11,4645,61,1723
 NA,"Central African Republic",6.6111,20.9394,2020-08-12,4652,61,1728
+NA,"Central African Republic",6.6111,20.9394,2020-08-13,4652,61,1728
 NA,"Chad",15.4542,18.7322,2020-01-22,0,0,0
 NA,"Chad",15.4542,18.7322,2020-01-23,0,0,0
 NA,"Chad",15.4542,18.7322,2020-01-24,0,0,0
@@ -23255,6 +23368,7 @@ NA,"Chad",15.4542,18.7322,2020-08-09,944,76,839
 NA,"Chad",15.4542,18.7322,2020-08-10,945,76,843
 NA,"Chad",15.4542,18.7322,2020-08-11,946,76,859
 NA,"Chad",15.4542,18.7322,2020-08-12,949,76,859
+NA,"Chad",15.4542,18.7322,2020-08-13,949,76,860
 NA,"Chile",-35.6751,-71.543,2020-01-22,0,0,0
 NA,"Chile",-35.6751,-71.543,2020-01-23,0,0,0
 NA,"Chile",-35.6751,-71.543,2020-01-24,0,0,0
@@ -23459,6 +23573,7 @@ NA,"Chile",-35.6751,-71.543,2020-08-09,373056,10077,345826
 NA,"Chile",-35.6751,-71.543,2020-08-10,375044,10139,347342
 NA,"Chile",-35.6751,-71.543,2020-08-11,376616,10178,349541
 NA,"Chile",-35.6751,-71.543,2020-08-12,378168,10205,351419
+NA,"Chile",-35.6751,-71.543,2020-08-13,380034,10299,353131
 NA,"Colombia",4.5709,-74.2973,2020-01-22,0,0,0
 NA,"Colombia",4.5709,-74.2973,2020-01-23,0,0,0
 NA,"Colombia",4.5709,-74.2973,2020-01-24,0,0,0
@@ -23663,6 +23778,7 @@ NA,"Colombia",4.5709,-74.2973,2020-08-09,387481,12842,212688
 NA,"Colombia",4.5709,-74.2973,2020-08-10,397623,13154,221484
 NA,"Colombia",4.5709,-74.2973,2020-08-11,410453,13475,230427
 NA,"Colombia",4.5709,-74.2973,2020-08-12,422519,13837,239785
+NA,"Colombia",4.5709,-74.2973,2020-08-13,433805,14145,250494
 NA,"Comoros",-11.6455,43.3333,2020-01-22,0,0,0
 NA,"Comoros",-11.6455,43.3333,2020-01-23,0,0,0
 NA,"Comoros",-11.6455,43.3333,2020-01-24,0,0,0
@@ -23867,6 +23983,7 @@ NA,"Comoros",-11.6455,43.3333,2020-08-09,399,7,369
 NA,"Comoros",-11.6455,43.3333,2020-08-10,399,7,369
 NA,"Comoros",-11.6455,43.3333,2020-08-11,399,7,379
 NA,"Comoros",-11.6455,43.3333,2020-08-12,399,7,379
+NA,"Comoros",-11.6455,43.3333,2020-08-13,399,7,379
 NA,"Congo (Brazzaville)",-0.228,15.8277,2020-01-22,0,0,0
 NA,"Congo (Brazzaville)",-0.228,15.8277,2020-01-23,0,0,0
 NA,"Congo (Brazzaville)",-0.228,15.8277,2020-01-24,0,0,0
@@ -24071,6 +24188,7 @@ NA,"Congo (Brazzaville)",-0.228,15.8277,2020-08-09,3664,58,1589
 NA,"Congo (Brazzaville)",-0.228,15.8277,2020-08-10,3664,58,1589
 NA,"Congo (Brazzaville)",-0.228,15.8277,2020-08-11,3745,60,1625
 NA,"Congo (Brazzaville)",-0.228,15.8277,2020-08-12,3745,60,1625
+NA,"Congo (Brazzaville)",-0.228,15.8277,2020-08-13,3745,60,1625
 NA,"Congo (Kinshasa)",-4.0383,21.7587,2020-01-22,0,0,0
 NA,"Congo (Kinshasa)",-4.0383,21.7587,2020-01-23,0,0,0
 NA,"Congo (Kinshasa)",-4.0383,21.7587,2020-01-24,0,0,0
@@ -24275,6 +24393,7 @@ NA,"Congo (Kinshasa)",-4.0383,21.7587,2020-08-09,9454,224,8324
 NA,"Congo (Kinshasa)",-4.0383,21.7587,2020-08-10,9489,224,8363
 NA,"Congo (Kinshasa)",-4.0383,21.7587,2020-08-11,9499,225,8375
 NA,"Congo (Kinshasa)",-4.0383,21.7587,2020-08-12,9538,225,8421
+NA,"Congo (Kinshasa)",-4.0383,21.7587,2020-08-13,9589,234,8480
 NA,"Costa Rica",9.7489,-83.7534,2020-01-22,0,0,0
 NA,"Costa Rica",9.7489,-83.7534,2020-01-23,0,0,0
 NA,"Costa Rica",9.7489,-83.7534,2020-01-24,0,0,0
@@ -24479,6 +24598,7 @@ NA,"Costa Rica",9.7489,-83.7534,2020-08-09,23286,235,7730
 NA,"Costa Rica",9.7489,-83.7534,2020-08-10,23872,244,7823
 NA,"Costa Rica",9.7489,-83.7534,2020-08-11,24508,255,7971
 NA,"Costa Rica",9.7489,-83.7534,2020-08-12,25057,263,8189
+NA,"Costa Rica",9.7489,-83.7534,2020-08-13,26129,272,8412
 NA,"Cote d'Ivoire",7.54,-5.5471,2020-01-22,0,0,0
 NA,"Cote d'Ivoire",7.54,-5.5471,2020-01-23,0,0,0
 NA,"Cote d'Ivoire",7.54,-5.5471,2020-01-24,0,0,0
@@ -24683,6 +24803,7 @@ NA,"Cote d'Ivoire",7.54,-5.5471,2020-08-09,16715,105,12926
 NA,"Cote d'Ivoire",7.54,-5.5471,2020-08-10,16798,105,13052
 NA,"Cote d'Ivoire",7.54,-5.5471,2020-08-11,16847,105,13321
 NA,"Cote d'Ivoire",7.54,-5.5471,2020-08-12,16847,105,13321
+NA,"Cote d'Ivoire",7.54,-5.5471,2020-08-13,16889,107,13522
 NA,"Croatia",45.1,15.2,2020-01-22,0,0,0
 NA,"Croatia",45.1,15.2,2020-01-23,0,0,0
 NA,"Croatia",45.1,15.2,2020-01-24,0,0,0
@@ -24887,6 +25008,7 @@ NA,"Croatia",45.1,15.2,2020-08-09,5604,157,4861
 NA,"Croatia",45.1,15.2,2020-08-10,5649,158,4906
 NA,"Croatia",45.1,15.2,2020-08-11,5740,160,4962
 NA,"Croatia",45.1,15.2,2020-08-12,5870,160,5024
+NA,"Croatia",45.1,15.2,2020-08-13,6050,161,5078
 NA,"Cuba",21.521757,-77.781167,2020-01-22,0,0,0
 NA,"Cuba",21.521757,-77.781167,2020-01-23,0,0,0
 NA,"Cuba",21.521757,-77.781167,2020-01-24,0,0,0
@@ -25091,6 +25213,7 @@ NA,"Cuba",21.521757,-77.781167,2020-08-09,2953,88,2451
 NA,"Cuba",21.521757,-77.781167,2020-08-10,3046,88,2460
 NA,"Cuba",21.521757,-77.781167,2020-08-11,3093,88,2472
 NA,"Cuba",21.521757,-77.781167,2020-08-12,3128,88,2504
+NA,"Cuba",21.521757,-77.781167,2020-08-13,3174,89,2525
 NA,"Cyprus",35.1264,33.4299,2020-01-22,0,0,0
 NA,"Cyprus",35.1264,33.4299,2020-01-23,0,0,0
 NA,"Cyprus",35.1264,33.4299,2020-01-24,0,0,0
@@ -25295,6 +25418,7 @@ NA,"Cyprus",35.1264,33.4299,2020-08-09,1242,19,870
 NA,"Cyprus",35.1264,33.4299,2020-08-10,1252,19,870
 NA,"Cyprus",35.1264,33.4299,2020-08-11,1277,20,870
 NA,"Cyprus",35.1264,33.4299,2020-08-12,1291,20,870
+NA,"Cyprus",35.1264,33.4299,2020-08-13,1305,20,870
 NA,"Czechia",49.8175,15.473,2020-01-22,0,0,0
 NA,"Czechia",49.8175,15.473,2020-01-23,0,0,0
 NA,"Czechia",49.8175,15.473,2020-01-24,0,0,0
@@ -25499,6 +25623,7 @@ NA,"Czechia",49.8175,15.473,2020-08-09,18353,390,12785
 NA,"Czechia",49.8175,15.473,2020-08-10,18494,390,12983
 NA,"Czechia",49.8175,15.473,2020-08-11,18783,391,13222
 NA,"Czechia",49.8175,15.473,2020-08-12,19075,391,13407
+NA,"Czechia",49.8175,15.473,2020-08-13,19401,391,13574
 NA,"Denmark",56.2639,9.5018,2020-01-22,0,0,0
 NA,"Denmark",56.2639,9.5018,2020-01-23,0,0,0
 NA,"Denmark",56.2639,9.5018,2020-01-24,0,0,0
@@ -25703,6 +25828,7 @@ NA,"Denmark",56.2639,9.5018,2020-08-09,14442,617,12840
 NA,"Denmark",56.2639,9.5018,2020-08-10,14815,620,12925
 NA,"Denmark",56.2639,9.5018,2020-08-11,14959,621,12988
 NA,"Denmark",56.2639,9.5018,2020-08-12,15070,621,13066
+NA,"Denmark",56.2639,9.5018,2020-08-13,15214,621,13131
 NA,"Diamond Princess",NA,NA,2020-01-22,0,0,0
 NA,"Diamond Princess",NA,NA,2020-01-23,0,0,0
 NA,"Diamond Princess",NA,NA,2020-01-24,0,0,0
@@ -25907,6 +26033,7 @@ NA,"Diamond Princess",NA,NA,2020-08-09,712,13,651
 NA,"Diamond Princess",NA,NA,2020-08-10,712,13,651
 NA,"Diamond Princess",NA,NA,2020-08-11,712,13,651
 NA,"Diamond Princess",NA,NA,2020-08-12,712,13,651
+NA,"Diamond Princess",NA,NA,2020-08-13,712,13,651
 NA,"Djibouti",11.8251,42.5903,2020-01-22,0,0,0
 NA,"Djibouti",11.8251,42.5903,2020-01-23,0,0,0
 NA,"Djibouti",11.8251,42.5903,2020-01-24,0,0,0
@@ -26111,6 +26238,7 @@ NA,"Djibouti",11.8251,42.5903,2020-08-09,5344,59,5106
 NA,"Djibouti",11.8251,42.5903,2020-08-10,5347,59,5120
 NA,"Djibouti",11.8251,42.5903,2020-08-11,5348,59,5133
 NA,"Djibouti",11.8251,42.5903,2020-08-12,5358,59,5150
+NA,"Djibouti",11.8251,42.5903,2020-08-13,5358,59,5167
 NA,"Dominica",15.415,-61.371,2020-01-22,0,0,0
 NA,"Dominica",15.415,-61.371,2020-01-23,0,0,0
 NA,"Dominica",15.415,-61.371,2020-01-24,0,0,0
@@ -26315,6 +26443,7 @@ NA,"Dominica",15.415,-61.371,2020-08-09,18,0,18
 NA,"Dominica",15.415,-61.371,2020-08-10,18,0,18
 NA,"Dominica",15.415,-61.371,2020-08-11,18,0,18
 NA,"Dominica",15.415,-61.371,2020-08-12,18,0,18
+NA,"Dominica",15.415,-61.371,2020-08-13,18,0,18
 NA,"Dominican Republic",18.7357,-70.1627,2020-01-22,0,0,0
 NA,"Dominican Republic",18.7357,-70.1627,2020-01-23,0,0,0
 NA,"Dominican Republic",18.7357,-70.1627,2020-01-24,0,0,0
@@ -26519,6 +26648,7 @@ NA,"Dominican Republic",18.7357,-70.1627,2020-08-09,79732,1309,43744
 NA,"Dominican Republic",18.7357,-70.1627,2020-08-10,80499,1328,44910
 NA,"Dominican Republic",18.7357,-70.1627,2020-08-11,81094,1346,45666
 NA,"Dominican Republic",18.7357,-70.1627,2020-08-12,82224,1371,47095
+NA,"Dominican Republic",18.7357,-70.1627,2020-08-13,83134,1393,47946
 NA,"Ecuador",-1.8312,-78.1834,2020-01-22,0,0,0
 NA,"Ecuador",-1.8312,-78.1834,2020-01-23,0,0,0
 NA,"Ecuador",-1.8312,-78.1834,2020-01-24,0,0,0
@@ -26723,6 +26853,7 @@ NA,"Ecuador",-1.8312,-78.1834,2020-08-09,94459,5922,78552
 NA,"Ecuador",-1.8312,-78.1834,2020-08-10,94701,5932,78608
 NA,"Ecuador",-1.8312,-78.1834,2020-08-11,95563,5951,78610
 NA,"Ecuador",-1.8312,-78.1834,2020-08-12,97110,5984,78887
+NA,"Ecuador",-1.8312,-78.1834,2020-08-13,98343,6010,78957
 NA,"Egypt",26.820553,30.802498,2020-01-22,0,0,0
 NA,"Egypt",26.820553,30.802498,2020-01-23,0,0,0
 NA,"Egypt",26.820553,30.802498,2020-01-24,0,0,0
@@ -26927,6 +27058,7 @@ NA,"Egypt",26.820553,30.802498,2020-08-09,95492,5009,52678
 NA,"Egypt",26.820553,30.802498,2020-08-10,95666,5035,53779
 NA,"Egypt",26.820553,30.802498,2020-08-11,95834,5059,54888
 NA,"Egypt",26.820553,30.802498,2020-08-12,95963,5085,55901
+NA,"Egypt",26.820553,30.802498,2020-08-13,96108,5107,56890
 NA,"El Salvador",13.7942,-88.8965,2020-01-22,0,0,0
 NA,"El Salvador",13.7942,-88.8965,2020-01-23,0,0,0
 NA,"El Salvador",13.7942,-88.8965,2020-01-24,0,0,0
@@ -27131,6 +27263,7 @@ NA,"El Salvador",13.7942,-88.8965,2020-08-09,20423,549,9626
 NA,"El Salvador",13.7942,-88.8965,2020-08-10,20872,563,9720
 NA,"El Salvador",13.7942,-88.8965,2020-08-11,21269,570,9875
 NA,"El Salvador",13.7942,-88.8965,2020-08-12,21644,577,10056
+NA,"El Salvador",13.7942,-88.8965,2020-08-13,21993,584,10254
 NA,"Equatorial Guinea",1.6508,10.2679,2020-01-22,0,0,0
 NA,"Equatorial Guinea",1.6508,10.2679,2020-01-23,0,0,0
 NA,"Equatorial Guinea",1.6508,10.2679,2020-01-24,0,0,0
@@ -27335,6 +27468,7 @@ NA,"Equatorial Guinea",1.6508,10.2679,2020-08-09,4821,83,2182
 NA,"Equatorial Guinea",1.6508,10.2679,2020-08-10,4821,83,2182
 NA,"Equatorial Guinea",1.6508,10.2679,2020-08-11,4821,83,2182
 NA,"Equatorial Guinea",1.6508,10.2679,2020-08-12,4821,83,2182
+NA,"Equatorial Guinea",1.6508,10.2679,2020-08-13,4821,83,2182
 NA,"Eritrea",15.1794,39.7823,2020-01-22,0,0,0
 NA,"Eritrea",15.1794,39.7823,2020-01-23,0,0,0
 NA,"Eritrea",15.1794,39.7823,2020-01-24,0,0,0
@@ -27539,6 +27673,7 @@ NA,"Eritrea",15.1794,39.7823,2020-08-09,285,0,245
 NA,"Eritrea",15.1794,39.7823,2020-08-10,285,0,248
 NA,"Eritrea",15.1794,39.7823,2020-08-11,285,0,248
 NA,"Eritrea",15.1794,39.7823,2020-08-12,285,0,248
+NA,"Eritrea",15.1794,39.7823,2020-08-13,285,0,248
 NA,"Estonia",58.5953,25.0136,2020-01-22,0,0,0
 NA,"Estonia",58.5953,25.0136,2020-01-23,0,0,0
 NA,"Estonia",58.5953,25.0136,2020-01-24,0,0,0
@@ -27743,6 +27878,7 @@ NA,"Estonia",58.5953,25.0136,2020-08-09,2152,63,1961
 NA,"Estonia",58.5953,25.0136,2020-08-10,2158,63,1962
 NA,"Estonia",58.5953,25.0136,2020-08-11,2167,63,1968
 NA,"Estonia",58.5953,25.0136,2020-08-12,2174,63,1975
+NA,"Estonia",58.5953,25.0136,2020-08-13,2174,63,1975
 NA,"Eswatini",-26.5225,31.4659,2020-01-22,0,0,0
 NA,"Eswatini",-26.5225,31.4659,2020-01-23,0,0,0
 NA,"Eswatini",-26.5225,31.4659,2020-01-24,0,0,0
@@ -27947,6 +28083,7 @@ NA,"Eswatini",-26.5225,31.4659,2020-08-09,3236,58,1607
 NA,"Eswatini",-26.5225,31.4659,2020-08-10,3309,61,1634
 NA,"Eswatini",-26.5225,31.4659,2020-08-11,3410,63,1720
 NA,"Eswatini",-26.5225,31.4659,2020-08-12,3525,63,1910
+NA,"Eswatini",-26.5225,31.4659,2020-08-13,3599,65,1991
 NA,"Ethiopia",9.145,40.4897,2020-01-22,0,0,0
 NA,"Ethiopia",9.145,40.4897,2020-01-23,0,0,0
 NA,"Ethiopia",9.145,40.4897,2020-01-24,0,0,0
@@ -28151,6 +28288,7 @@ NA,"Ethiopia",9.145,40.4897,2020-08-09,22818,407,10206
 NA,"Ethiopia",9.145,40.4897,2020-08-10,23591,420,10411
 NA,"Ethiopia",9.145,40.4897,2020-08-11,24175,440,10696
 NA,"Ethiopia",9.145,40.4897,2020-08-12,25118,463,11034
+NA,"Ethiopia",9.145,40.4897,2020-08-13,26204,479,11428
 NA,"Fiji",-17.7134,178.065,2020-01-22,0,0,0
 NA,"Fiji",-17.7134,178.065,2020-01-23,0,0,0
 NA,"Fiji",-17.7134,178.065,2020-01-24,0,0,0
@@ -28355,6 +28493,7 @@ NA,"Fiji",-17.7134,178.065,2020-08-09,27,1,18
 NA,"Fiji",-17.7134,178.065,2020-08-10,27,1,18
 NA,"Fiji",-17.7134,178.065,2020-08-11,27,1,18
 NA,"Fiji",-17.7134,178.065,2020-08-12,27,1,18
+NA,"Fiji",-17.7134,178.065,2020-08-13,28,1,20
 NA,"Finland",61.92411,25.748151,2020-01-22,0,0,0
 NA,"Finland",61.92411,25.748151,2020-01-23,0,0,0
 NA,"Finland",61.92411,25.748151,2020-01-24,0,0,0
@@ -28559,6 +28698,7 @@ NA,"Finland",61.92411,25.748151,2020-08-09,7584,331,6980
 NA,"Finland",61.92411,25.748151,2020-08-10,7601,333,6980
 NA,"Finland",61.92411,25.748151,2020-08-11,7623,333,6980
 NA,"Finland",61.92411,25.748151,2020-08-12,7642,333,7050
+NA,"Finland",61.92411,25.748151,2020-08-13,7683,333,7050
 NA,"France",46.2276,2.2137,2020-01-22,0,0,0
 NA,"France",46.2276,2.2137,2020-01-23,0,0,0
 NA,"France",46.2276,2.2137,2020-01-24,2,0,0
@@ -28763,6 +28903,7 @@ NA,"France",46.2276,2.2137,2020-08-09,222402,30202,71585
 NA,"France",46.2276,2.2137,2020-08-10,226384,30201,71537
 NA,"France",46.2276,2.2137,2020-08-11,226313,30201,71454
 NA,"France",46.2276,2.2137,2020-08-12,230874,30247,71906
+NA,"France",46.2276,2.2137,2020-08-13,230778,30263,71730
 NA,"Gabon",-0.8037,11.6094,2020-01-22,0,0,0
 NA,"Gabon",-0.8037,11.6094,2020-01-23,0,0,0
 NA,"Gabon",-0.8037,11.6094,2020-01-24,0,0,0
@@ -28967,6 +29108,7 @@ NA,"Gabon",-0.8037,11.6094,2020-08-09,7923,51,5704
 NA,"Gabon",-0.8037,11.6094,2020-08-10,8006,51,5823
 NA,"Gabon",-0.8037,11.6094,2020-08-11,8006,51,5823
 NA,"Gabon",-0.8037,11.6094,2020-08-12,8077,51,5920
+NA,"Gabon",-0.8037,11.6094,2020-08-13,8077,51,5920
 NA,"Gambia",13.4432,-15.3101,2020-01-22,0,0,0
 NA,"Gambia",13.4432,-15.3101,2020-01-23,0,0,0
 NA,"Gambia",13.4432,-15.3101,2020-01-24,0,0,0
@@ -29171,6 +29313,7 @@ NA,"Gambia",13.4432,-15.3101,2020-08-09,1235,23,221
 NA,"Gambia",13.4432,-15.3101,2020-08-10,1235,23,221
 NA,"Gambia",13.4432,-15.3101,2020-08-11,1346,32,227
 NA,"Gambia",13.4432,-15.3101,2020-08-12,1477,33,247
+NA,"Gambia",13.4432,-15.3101,2020-08-13,1556,43,267
 NA,"Georgia",42.3154,43.3569,2020-01-22,0,0,0
 NA,"Georgia",42.3154,43.3569,2020-01-23,0,0,0
 NA,"Georgia",42.3154,43.3569,2020-01-24,0,0,0
@@ -29375,6 +29518,7 @@ NA,"Georgia",42.3154,43.3569,2020-08-09,1225,17,1000
 NA,"Georgia",42.3154,43.3569,2020-08-10,1250,17,1010
 NA,"Georgia",42.3154,43.3569,2020-08-11,1264,17,1054
 NA,"Georgia",42.3154,43.3569,2020-08-12,1278,17,1058
+NA,"Georgia",42.3154,43.3569,2020-08-13,1283,17,1068
 NA,"Germany",51.165691,10.451526,2020-01-22,0,0,0
 NA,"Germany",51.165691,10.451526,2020-01-23,0,0,0
 NA,"Germany",51.165691,10.451526,2020-01-24,0,0,0
@@ -29579,6 +29723,7 @@ NA,"Germany",51.165691,10.451526,2020-08-09,217288,9202,196783
 NA,"Germany",51.165691,10.451526,2020-08-10,218508,9203,197382
 NA,"Germany",51.165691,10.451526,2020-08-11,219540,9208,198347
 NA,"Germany",51.165691,10.451526,2020-08-12,220859,9213,198991
+NA,"Germany",51.165691,10.451526,2020-08-13,222281,9217,199654
 NA,"Ghana",7.9465,-1.0232,2020-01-22,0,0,0
 NA,"Ghana",7.9465,-1.0232,2020-01-23,0,0,0
 NA,"Ghana",7.9465,-1.0232,2020-01-24,0,0,0
@@ -29783,6 +29928,7 @@ NA,"Ghana",7.9465,-1.0232,2020-08-09,41003,215,38330
 NA,"Ghana",7.9465,-1.0232,2020-08-10,41212,215,38727
 NA,"Ghana",7.9465,-1.0232,2020-08-11,41404,215,39055
 NA,"Ghana",7.9465,-1.0232,2020-08-12,41572,223,39320
+NA,"Ghana",7.9465,-1.0232,2020-08-13,41725,223,39495
 NA,"Greece",39.0742,21.8243,2020-01-22,0,0,0
 NA,"Greece",39.0742,21.8243,2020-01-23,0,0,0
 NA,"Greece",39.0742,21.8243,2020-01-24,0,0,0
@@ -29987,6 +30133,7 @@ NA,"Greece",39.0742,21.8243,2020-08-09,5623,212,1347
 NA,"Greece",39.0742,21.8243,2020-08-10,5749,213,1347
 NA,"Greece",39.0742,21.8243,2020-08-11,5942,214,1347
 NA,"Greece",39.0742,21.8243,2020-08-12,6177,216,1347
+NA,"Greece",39.0742,21.8243,2020-08-13,6381,221,1347
 NA,"Grenada",12.1165,-61.679,2020-01-22,0,0,0
 NA,"Grenada",12.1165,-61.679,2020-01-23,0,0,0
 NA,"Grenada",12.1165,-61.679,2020-01-24,0,0,0
@@ -30191,6 +30338,7 @@ NA,"Grenada",12.1165,-61.679,2020-08-09,24,0,23
 NA,"Grenada",12.1165,-61.679,2020-08-10,24,0,23
 NA,"Grenada",12.1165,-61.679,2020-08-11,24,0,23
 NA,"Grenada",12.1165,-61.679,2020-08-12,24,0,23
+NA,"Grenada",12.1165,-61.679,2020-08-13,24,0,23
 NA,"Guatemala",15.7835,-90.2308,2020-01-22,0,0,0
 NA,"Guatemala",15.7835,-90.2308,2020-01-23,0,0,0
 NA,"Guatemala",15.7835,-90.2308,2020-01-24,0,0,0
@@ -30395,6 +30543,7 @@ NA,"Guatemala",15.7835,-90.2308,2020-08-09,56605,2211,44598
 NA,"Guatemala",15.7835,-90.2308,2020-08-10,56987,2222,45589
 NA,"Guatemala",15.7835,-90.2308,2020-08-11,57966,2233,46442
 NA,"Guatemala",15.7835,-90.2308,2020-08-12,59089,2267,47394
+NA,"Guatemala",15.7835,-90.2308,2020-08-13,60284,2296,48305
 NA,"Guinea",9.9456,-9.6966,2020-01-22,0,0,0
 NA,"Guinea",9.9456,-9.6966,2020-01-23,0,0,0
 NA,"Guinea",9.9456,-9.6966,2020-01-24,0,0,0
@@ -30599,6 +30748,7 @@ NA,"Guinea",9.9456,-9.6966,2020-08-09,7930,50,6898
 NA,"Guinea",9.9456,-9.6966,2020-08-10,7930,50,6898
 NA,"Guinea",9.9456,-9.6966,2020-08-11,8018,50,7020
 NA,"Guinea",9.9456,-9.6966,2020-08-12,8116,50,7060
+NA,"Guinea",9.9456,-9.6966,2020-08-13,8198,50,7120
 NA,"Guinea-Bissau",11.8037,-15.1804,2020-01-22,0,0,0
 NA,"Guinea-Bissau",11.8037,-15.1804,2020-01-23,0,0,0
 NA,"Guinea-Bissau",11.8037,-15.1804,2020-01-24,0,0,0
@@ -30803,6 +30953,7 @@ NA,"Guinea-Bissau",11.8037,-15.1804,2020-08-09,2052,29,944
 NA,"Guinea-Bissau",11.8037,-15.1804,2020-08-10,2052,29,944
 NA,"Guinea-Bissau",11.8037,-15.1804,2020-08-11,2088,29,1015
 NA,"Guinea-Bissau",11.8037,-15.1804,2020-08-12,2088,29,1015
+NA,"Guinea-Bissau",11.8037,-15.1804,2020-08-13,2088,29,1015
 NA,"Guyana",4.860416,-58.93018,2020-01-22,0,0,0
 NA,"Guyana",4.860416,-58.93018,2020-01-23,0,0,0
 NA,"Guyana",4.860416,-58.93018,2020-01-24,0,0,0
@@ -31007,6 +31158,7 @@ NA,"Guyana",4.860416,-58.93018,2020-08-09,568,22,189
 NA,"Guyana",4.860416,-58.93018,2020-08-10,568,22,189
 NA,"Guyana",4.860416,-58.93018,2020-08-11,602,22,189
 NA,"Guyana",4.860416,-58.93018,2020-08-12,623,22,191
+NA,"Guyana",4.860416,-58.93018,2020-08-13,631,22,202
 NA,"Haiti",18.9712,-72.2852,2020-01-22,0,0,0
 NA,"Haiti",18.9712,-72.2852,2020-01-23,0,0,0
 NA,"Haiti",18.9712,-72.2852,2020-01-24,0,0,0
@@ -31211,6 +31363,7 @@ NA,"Haiti",18.9712,-72.2852,2020-08-09,7634,183,4982
 NA,"Haiti",18.9712,-72.2852,2020-08-10,7634,183,4982
 NA,"Haiti",18.9712,-72.2852,2020-08-11,7649,183,4982
 NA,"Haiti",18.9712,-72.2852,2020-08-12,7743,187,5123
+NA,"Haiti",18.9712,-72.2852,2020-08-13,7781,192,5123
 NA,"Holy See",41.9029,12.4534,2020-01-22,0,0,0
 NA,"Holy See",41.9029,12.4534,2020-01-23,0,0,0
 NA,"Holy See",41.9029,12.4534,2020-01-24,0,0,0
@@ -31415,6 +31568,7 @@ NA,"Holy See",41.9029,12.4534,2020-08-09,12,0,12
 NA,"Holy See",41.9029,12.4534,2020-08-10,12,0,12
 NA,"Holy See",41.9029,12.4534,2020-08-11,12,0,12
 NA,"Holy See",41.9029,12.4534,2020-08-12,12,0,12
+NA,"Holy See",41.9029,12.4534,2020-08-13,12,0,12
 NA,"Honduras",15.2,-86.2419,2020-01-22,0,0,0
 NA,"Honduras",15.2,-86.2419,2020-01-23,0,0,0
 NA,"Honduras",15.2,-86.2419,2020-01-24,0,0,0
@@ -31619,6 +31773,7 @@ NA,"Honduras",15.2,-86.2419,2020-08-09,47454,1495,6597
 NA,"Honduras",15.2,-86.2419,2020-08-10,47872,1506,6649
 NA,"Honduras",15.2,-86.2419,2020-08-11,48403,1515,6805
 NA,"Honduras",15.2,-86.2419,2020-08-12,48657,1533,6945
+NA,"Honduras",15.2,-86.2419,2020-08-13,49042,1542,7032
 NA,"Hungary",47.1625,19.5033,2020-01-22,0,0,0
 NA,"Hungary",47.1625,19.5033,2020-01-23,0,0,0
 NA,"Hungary",47.1625,19.5033,2020-01-24,0,0,0
@@ -31823,6 +31978,7 @@ NA,"Hungary",47.1625,19.5033,2020-08-09,4696,602,3499
 NA,"Hungary",47.1625,19.5033,2020-08-10,4731,605,3525
 NA,"Hungary",47.1625,19.5033,2020-08-11,4746,605,3527
 NA,"Hungary",47.1625,19.5033,2020-08-12,4768,605,3529
+NA,"Hungary",47.1625,19.5033,2020-08-13,4813,607,3561
 NA,"Iceland",64.9631,-19.0208,2020-01-22,0,0,0
 NA,"Iceland",64.9631,-19.0208,2020-01-23,0,0,0
 NA,"Iceland",64.9631,-19.0208,2020-01-24,0,0,0
@@ -32027,6 +32183,7 @@ NA,"Iceland",64.9631,-19.0208,2020-08-09,1958,10,1834
 NA,"Iceland",64.9631,-19.0208,2020-08-10,1962,10,1838
 NA,"Iceland",64.9631,-19.0208,2020-08-11,1968,10,1844
 NA,"Iceland",64.9631,-19.0208,2020-08-12,1972,10,1847
+NA,"Iceland",64.9631,-19.0208,2020-08-13,1976,10,1852
 NA,"India",20.593684,78.96288,2020-01-22,0,0,0
 NA,"India",20.593684,78.96288,2020-01-23,0,0,0
 NA,"India",20.593684,78.96288,2020-01-24,0,0,0
@@ -32231,6 +32388,7 @@ NA,"India",20.593684,78.96288,2020-08-09,2215074,44386,1535743
 NA,"India",20.593684,78.96288,2020-08-10,2268675,45257,1583489
 NA,"India",20.593684,78.96288,2020-08-11,2329638,46091,1639599
 NA,"India",20.593684,78.96288,2020-08-12,2396637,47033,1695982
+NA,"India",20.593684,78.96288,2020-08-13,2461190,48040,1751555
 NA,"Indonesia",-0.7893,113.9213,2020-01-22,0,0,0
 NA,"Indonesia",-0.7893,113.9213,2020-01-23,0,0,0
 NA,"Indonesia",-0.7893,113.9213,2020-01-24,0,0,0
@@ -32435,6 +32593,7 @@ NA,"Indonesia",-0.7893,113.9213,2020-08-09,125396,5723,80952
 NA,"Indonesia",-0.7893,113.9213,2020-08-10,127083,5765,82236
 NA,"Indonesia",-0.7893,113.9213,2020-08-11,128776,5824,83710
 NA,"Indonesia",-0.7893,113.9213,2020-08-12,130718,5903,85798
+NA,"Indonesia",-0.7893,113.9213,2020-08-13,132816,5968,87558
 NA,"Iran",32.427908,53.688046,2020-01-22,0,0,0
 NA,"Iran",32.427908,53.688046,2020-01-23,0,0,0
 NA,"Iran",32.427908,53.688046,2020-01-24,0,0,0
@@ -32639,6 +32798,7 @@ NA,"Iran",32.427908,53.688046,2020-08-09,326712,18427,284371
 NA,"Iran",32.427908,53.688046,2020-08-10,328844,18616,286642
 NA,"Iran",32.427908,53.688046,2020-08-11,331189,18800,288620
 NA,"Iran",32.427908,53.688046,2020-08-12,333699,18988,290244
+NA,"Iran",32.427908,53.688046,2020-08-13,336324,19162,292058
 NA,"Iraq",33.223191,43.679291,2020-01-22,0,0,0
 NA,"Iraq",33.223191,43.679291,2020-01-23,0,0,0
 NA,"Iraq",33.223191,43.679291,2020-01-24,0,0,0
@@ -32843,6 +33003,7 @@ NA,"Iraq",33.223191,43.679291,2020-08-09,150115,5392,107775
 NA,"Iraq",33.223191,43.679291,2020-08-10,153599,5464,109790
 NA,"Iraq",33.223191,43.679291,2020-08-11,156995,5531,112102
 NA,"Iraq",33.223191,43.679291,2020-08-12,160436,5588,114541
+NA,"Iraq",33.223191,43.679291,2020-08-13,164277,5641,117208
 NA,"Ireland",53.1424,-7.6921,2020-01-22,0,0,0
 NA,"Ireland",53.1424,-7.6921,2020-01-23,0,0,0
 NA,"Ireland",53.1424,-7.6921,2020-01-24,0,0,0
@@ -33047,6 +33208,7 @@ NA,"Ireland",53.1424,-7.6921,2020-08-09,26712,1772,23364
 NA,"Ireland",53.1424,-7.6921,2020-08-10,26768,1772,23364
 NA,"Ireland",53.1424,-7.6921,2020-08-11,26801,1773,23364
 NA,"Ireland",53.1424,-7.6921,2020-08-12,26838,1774,23364
+NA,"Ireland",53.1424,-7.6921,2020-08-13,26929,1774,23364
 NA,"Israel",31.046051,34.851612,2020-01-22,0,0,0
 NA,"Israel",31.046051,34.851612,2020-01-23,0,0,0
 NA,"Israel",31.046051,34.851612,2020-01-24,0,0,0
@@ -33251,6 +33413,7 @@ NA,"Israel",31.046051,34.851612,2020-08-09,83002,600,57533
 NA,"Israel",31.046051,34.851612,2020-08-10,84722,613,58998
 NA,"Israel",31.046051,34.851612,2020-08-11,86593,622,60080
 NA,"Israel",31.046051,34.851612,2020-08-12,88151,639,62109
+NA,"Israel",31.046051,34.851612,2020-08-13,89822,651,64746
 NA,"Italy",41.87194,12.56738,2020-01-22,0,0,0
 NA,"Italy",41.87194,12.56738,2020-01-23,0,0,0
 NA,"Italy",41.87194,12.56738,2020-01-24,0,0,0
@@ -33455,6 +33618,7 @@ NA,"Italy",41.87194,12.56738,2020-08-09,250566,35205,202098
 NA,"Italy",41.87194,12.56738,2020-08-10,250825,35209,202248
 NA,"Italy",41.87194,12.56738,2020-08-11,251237,35215,202461
 NA,"Italy",41.87194,12.56738,2020-08-12,251713,35225,202697
+NA,"Italy",41.87194,12.56738,2020-08-13,252235,35231,202923
 NA,"Jamaica",18.1096,-77.2975,2020-01-22,0,0,0
 NA,"Jamaica",18.1096,-77.2975,2020-01-23,0,0,0
 NA,"Jamaica",18.1096,-77.2975,2020-01-24,0,0,0
@@ -33659,6 +33823,7 @@ NA,"Jamaica",18.1096,-77.2975,2020-08-09,1023,14,745
 NA,"Jamaica",18.1096,-77.2975,2020-08-10,1031,14,745
 NA,"Jamaica",18.1096,-77.2975,2020-08-11,1047,14,753
 NA,"Jamaica",18.1096,-77.2975,2020-08-12,1065,14,753
+NA,"Jamaica",18.1096,-77.2975,2020-08-13,1071,14,754
 NA,"Japan",36.204824,138.252924,2020-01-22,2,0,0
 NA,"Japan",36.204824,138.252924,2020-01-23,2,0,0
 NA,"Japan",36.204824,138.252924,2020-01-24,2,0,0
@@ -33863,6 +34028,7 @@ NA,"Japan",36.204824,138.252924,2020-08-09,48782,1047,32867
 NA,"Japan",36.204824,138.252924,2020-08-10,49617,1052,33450
 NA,"Japan",36.204824,138.252924,2020-08-11,50302,1058,34136
 NA,"Japan",36.204824,138.252924,2020-08-12,51288,1066,34969
+NA,"Japan",36.204824,138.252924,2020-08-13,52471,1073,36191
 NA,"Jordan",31.24,36.51,2020-01-22,0,0,0
 NA,"Jordan",31.24,36.51,2020-01-23,0,0,0
 NA,"Jordan",31.24,36.51,2020-01-24,0,0,0
@@ -34067,6 +34233,7 @@ NA,"Jordan",31.24,36.51,2020-08-09,1252,11,1187
 NA,"Jordan",31.24,36.51,2020-08-10,1268,11,1187
 NA,"Jordan",31.24,36.51,2020-08-11,1283,11,1189
 NA,"Jordan",31.24,36.51,2020-08-12,1303,11,1215
+NA,"Jordan",31.24,36.51,2020-08-13,1320,11,1222
 NA,"Kazakhstan",48.0196,66.9237,2020-01-22,0,0,0
 NA,"Kazakhstan",48.0196,66.9237,2020-01-23,0,0,0
 NA,"Kazakhstan",48.0196,66.9237,2020-01-24,0,0,0
@@ -34271,6 +34438,7 @@ NA,"Kazakhstan",48.0196,66.9237,2020-08-09,99442,1058,72523
 NA,"Kazakhstan",48.0196,66.9237,2020-08-10,100164,1058,73702
 NA,"Kazakhstan",48.0196,66.9237,2020-08-11,100855,1269,74677
 NA,"Kazakhstan",48.0196,66.9237,2020-08-12,101372,1269,76756
+NA,"Kazakhstan",48.0196,66.9237,2020-08-13,101848,1269,76756
 NA,"Kenya",-0.0236,37.9062,2020-01-22,0,0,0
 NA,"Kenya",-0.0236,37.9062,2020-01-23,0,0,0
 NA,"Kenya",-0.0236,37.9062,2020-01-24,0,0,0
@@ -34475,6 +34643,7 @@ NA,"Kenya",-0.0236,37.9062,2020-08-09,26436,420,12961
 NA,"Kenya",-0.0236,37.9062,2020-08-10,26928,423,13495
 NA,"Kenya",-0.0236,37.9062,2020-08-11,27425,438,13867
 NA,"Kenya",-0.0236,37.9062,2020-08-12,28104,456,14610
+NA,"Kenya",-0.0236,37.9062,2020-08-13,28754,460,15100
 NA,"South Korea",35.907757,127.766922,2020-01-22,1,0,0
 NA,"South Korea",35.907757,127.766922,2020-01-23,1,0,0
 NA,"South Korea",35.907757,127.766922,2020-01-24,2,0,0
@@ -34679,6 +34848,7 @@ NA,"South Korea",35.907757,127.766922,2020-08-09,14626,305,13658
 NA,"South Korea",35.907757,127.766922,2020-08-10,14660,305,13729
 NA,"South Korea",35.907757,127.766922,2020-08-11,14714,305,13786
 NA,"South Korea",35.907757,127.766922,2020-08-12,14770,305,13817
+NA,"South Korea",35.907757,127.766922,2020-08-13,14873,305,13863
 NA,"Kosovo",42.602636,20.902977,2020-01-22,0,0,0
 NA,"Kosovo",42.602636,20.902977,2020-01-23,0,0,0
 NA,"Kosovo",42.602636,20.902977,2020-01-24,0,0,0
@@ -34883,6 +35053,7 @@ NA,"Kosovo",42.602636,20.902977,2020-08-09,9869,303,5480
 NA,"Kosovo",42.602636,20.902977,2020-08-10,10419,341,6058
 NA,"Kosovo",42.602636,20.902977,2020-08-11,10419,341,6058
 NA,"Kosovo",42.602636,20.902977,2020-08-12,10419,341,6058
+NA,"Kosovo",42.602636,20.902977,2020-08-13,10795,365,6411
 NA,"Kuwait",29.31166,47.481766,2020-01-22,0,0,0
 NA,"Kuwait",29.31166,47.481766,2020-01-23,0,0,0
 NA,"Kuwait",29.31166,47.481766,2020-01-24,0,0,0
@@ -35087,6 +35258,7 @@ NA,"Kuwait",29.31166,47.481766,2020-08-09,71713,478,63519
 NA,"Kuwait",29.31166,47.481766,2020-08-10,72400,482,64028
 NA,"Kuwait",29.31166,47.481766,2020-08-11,73068,486,64759
 NA,"Kuwait",29.31166,47.481766,2020-08-12,73785,489,65451
+NA,"Kuwait",29.31166,47.481766,2020-08-13,74486,489,66099
 NA,"Kyrgyzstan",41.20438,74.766098,2020-01-22,0,0,0
 NA,"Kyrgyzstan",41.20438,74.766098,2020-01-23,0,0,0
 NA,"Kyrgyzstan",41.20438,74.766098,2020-01-24,0,0,0
@@ -35291,6 +35463,7 @@ NA,"Kyrgyzstan",41.20438,74.766098,2020-08-09,39919,1468,31822
 NA,"Kyrgyzstan",41.20438,74.766098,2020-08-10,40085,1474,32126
 NA,"Kyrgyzstan",41.20438,74.766098,2020-08-11,40455,1478,32734
 NA,"Kyrgyzstan",41.20438,74.766098,2020-08-12,40759,1484,32997
+NA,"Kyrgyzstan",41.20438,74.766098,2020-08-13,41069,1487,33288
 NA,"Laos",19.85627,102.495496,2020-01-22,0,0,0
 NA,"Laos",19.85627,102.495496,2020-01-23,0,0,0
 NA,"Laos",19.85627,102.495496,2020-01-24,0,0,0
@@ -35495,6 +35668,7 @@ NA,"Laos",19.85627,102.495496,2020-08-09,20,0,19
 NA,"Laos",19.85627,102.495496,2020-08-10,20,0,19
 NA,"Laos",19.85627,102.495496,2020-08-11,20,0,19
 NA,"Laos",19.85627,102.495496,2020-08-12,20,0,19
+NA,"Laos",19.85627,102.495496,2020-08-13,20,0,19
 NA,"Latvia",56.8796,24.6032,2020-01-22,0,0,0
 NA,"Latvia",56.8796,24.6032,2020-01-23,0,0,0
 NA,"Latvia",56.8796,24.6032,2020-01-24,0,0,0
@@ -35699,6 +35873,7 @@ NA,"Latvia",56.8796,24.6032,2020-08-09,1290,32,1070
 NA,"Latvia",56.8796,24.6032,2020-08-10,1290,32,1070
 NA,"Latvia",56.8796,24.6032,2020-08-11,1293,32,1078
 NA,"Latvia",56.8796,24.6032,2020-08-12,1303,32,1078
+NA,"Latvia",56.8796,24.6032,2020-08-13,1307,32,1078
 NA,"Lebanon",33.8547,35.8623,2020-01-22,0,0,0
 NA,"Lebanon",33.8547,35.8623,2020-01-23,0,0,0
 NA,"Lebanon",33.8547,35.8623,2020-01-24,0,0,0
@@ -35903,6 +36078,7 @@ NA,"Lebanon",33.8547,35.8623,2020-08-09,6517,78,2127
 NA,"Lebanon",33.8547,35.8623,2020-08-10,6812,80,2290
 NA,"Lebanon",33.8547,35.8623,2020-08-11,7121,87,2377
 NA,"Lebanon",33.8547,35.8623,2020-08-12,7413,89,2407
+NA,"Lebanon",33.8547,35.8623,2020-08-13,7711,92,2496
 NA,"Lesotho",-29.61,28.2336,2020-01-22,0,0,0
 NA,"Lesotho",-29.61,28.2336,2020-01-23,0,0,0
 NA,"Lesotho",-29.61,28.2336,2020-01-24,0,0,0
@@ -36107,6 +36283,7 @@ NA,"Lesotho",-29.61,28.2336,2020-08-09,742,23,175
 NA,"Lesotho",-29.61,28.2336,2020-08-10,781,24,175
 NA,"Lesotho",-29.61,28.2336,2020-08-11,781,24,175
 NA,"Lesotho",-29.61,28.2336,2020-08-12,798,24,175
+NA,"Lesotho",-29.61,28.2336,2020-08-13,884,25,271
 NA,"Liberia",6.428055,-9.429499,2020-01-22,0,0,0
 NA,"Liberia",6.428055,-9.429499,2020-01-23,0,0,0
 NA,"Liberia",6.428055,-9.429499,2020-01-24,0,0,0
@@ -36311,6 +36488,7 @@ NA,"Liberia",6.428055,-9.429499,2020-08-09,1237,79,723
 NA,"Liberia",6.428055,-9.429499,2020-08-10,1240,79,725
 NA,"Liberia",6.428055,-9.429499,2020-08-11,1250,81,736
 NA,"Liberia",6.428055,-9.429499,2020-08-12,1252,82,738
+NA,"Liberia",6.428055,-9.429499,2020-08-13,1252,82,738
 NA,"Libya",26.3351,17.228331,2020-01-22,0,0,0
 NA,"Libya",26.3351,17.228331,2020-01-23,0,0,0
 NA,"Libya",26.3351,17.228331,2020-01-24,0,0,0
@@ -36515,6 +36693,7 @@ NA,"Libya",26.3351,17.228331,2020-08-09,5451,119,701
 NA,"Libya",26.3351,17.228331,2020-08-10,5929,125,724
 NA,"Libya",26.3351,17.228331,2020-08-11,6302,132,740
 NA,"Libya",26.3351,17.228331,2020-08-12,6611,132,778
+NA,"Libya",26.3351,17.228331,2020-08-13,7050,135,816
 NA,"Liechtenstein",47.14,9.55,2020-01-22,0,0,0
 NA,"Liechtenstein",47.14,9.55,2020-01-23,0,0,0
 NA,"Liechtenstein",47.14,9.55,2020-01-24,0,0,0
@@ -36719,6 +36898,7 @@ NA,"Liechtenstein",47.14,9.55,2020-08-09,89,1,85
 NA,"Liechtenstein",47.14,9.55,2020-08-10,89,1,85
 NA,"Liechtenstein",47.14,9.55,2020-08-11,89,1,87
 NA,"Liechtenstein",47.14,9.55,2020-08-12,90,1,87
+NA,"Liechtenstein",47.14,9.55,2020-08-13,90,1,87
 NA,"Lithuania",55.1694,23.8813,2020-01-22,0,0,0
 NA,"Lithuania",55.1694,23.8813,2020-01-23,0,0,0
 NA,"Lithuania",55.1694,23.8813,2020-01-24,0,0,0
@@ -36923,6 +37103,7 @@ NA,"Lithuania",55.1694,23.8813,2020-08-09,2252,81,1670
 NA,"Lithuania",55.1694,23.8813,2020-08-10,2265,81,1670
 NA,"Lithuania",55.1694,23.8813,2020-08-11,2283,81,1679
 NA,"Lithuania",55.1694,23.8813,2020-08-12,2309,81,1683
+NA,"Lithuania",55.1694,23.8813,2020-08-13,2330,81,1689
 NA,"Luxembourg",49.8153,6.1296,2020-01-22,0,0,0
 NA,"Luxembourg",49.8153,6.1296,2020-01-23,0,0,0
 NA,"Luxembourg",49.8153,6.1296,2020-01-24,0,0,0
@@ -37127,6 +37308,7 @@ NA,"Luxembourg",49.8153,6.1296,2020-08-09,7205,120,5848
 NA,"Luxembourg",49.8153,6.1296,2020-08-10,7216,121,6170
 NA,"Luxembourg",49.8153,6.1296,2020-08-11,7242,122,6222
 NA,"Luxembourg",49.8153,6.1296,2020-08-12,7300,122,6262
+NA,"Luxembourg",49.8153,6.1296,2020-08-13,7368,122,6414
 NA,"Madagascar",-18.766947,46.869107,2020-01-22,0,0,0
 NA,"Madagascar",-18.766947,46.869107,2020-01-23,0,0,0
 NA,"Madagascar",-18.766947,46.869107,2020-01-24,0,0,0
@@ -37331,6 +37513,7 @@ NA,"Madagascar",-18.766947,46.869107,2020-08-09,13086,148,10816
 NA,"Madagascar",-18.766947,46.869107,2020-08-10,13202,151,11011
 NA,"Madagascar",-18.766947,46.869107,2020-08-11,13317,152,11276
 NA,"Madagascar",-18.766947,46.869107,2020-08-12,13397,156,11529
+NA,"Madagascar",-18.766947,46.869107,2020-08-13,13522,162,11780
 NA,"Malawi",-13.2543,34.3015,2020-01-22,0,0,0
 NA,"Malawi",-13.2543,34.3015,2020-01-23,0,0,0
 NA,"Malawi",-13.2543,34.3015,2020-01-24,0,0,0
@@ -37535,6 +37718,7 @@ NA,"Malawi",-13.2543,34.3015,2020-08-09,4658,146,2375
 NA,"Malawi",-13.2543,34.3015,2020-08-10,4674,146,2430
 NA,"Malawi",-13.2543,34.3015,2020-08-11,4714,152,2477
 NA,"Malawi",-13.2543,34.3015,2020-08-12,4752,152,2529
+NA,"Malawi",-13.2543,34.3015,2020-08-13,4912,153,2550
 NA,"Malaysia",4.210484,101.975766,2020-01-22,0,0,0
 NA,"Malaysia",4.210484,101.975766,2020-01-23,0,0,0
 NA,"Malaysia",4.210484,101.975766,2020-01-24,0,0,0
@@ -37739,6 +37923,7 @@ NA,"Malaysia",4.210484,101.975766,2020-08-09,9083,125,8784
 NA,"Malaysia",4.210484,101.975766,2020-08-10,9094,125,8803
 NA,"Malaysia",4.210484,101.975766,2020-08-11,9103,125,8809
 NA,"Malaysia",4.210484,101.975766,2020-08-12,9114,125,8817
+NA,"Malaysia",4.210484,101.975766,2020-08-13,9129,125,8821
 NA,"Maldives",3.2028,73.2207,2020-01-22,0,0,0
 NA,"Maldives",3.2028,73.2207,2020-01-23,0,0,0
 NA,"Maldives",3.2028,73.2207,2020-01-24,0,0,0
@@ -37943,6 +38128,7 @@ NA,"Maldives",3.2028,73.2207,2020-08-09,5041,19,2804
 NA,"Maldives",3.2028,73.2207,2020-08-10,5157,19,2835
 NA,"Maldives",3.2028,73.2207,2020-08-11,5223,20,2849
 NA,"Maldives",3.2028,73.2207,2020-08-12,5366,21,2884
+NA,"Maldives",3.2028,73.2207,2020-08-13,5494,21,2920
 NA,"Mali",17.570692,-3.996166,2020-01-22,0,0,0
 NA,"Mali",17.570692,-3.996166,2020-01-23,0,0,0
 NA,"Mali",17.570692,-3.996166,2020-01-24,0,0,0
@@ -38147,6 +38333,7 @@ NA,"Mali",17.570692,-3.996166,2020-08-09,2567,125,1962
 NA,"Mali",17.570692,-3.996166,2020-08-10,2573,125,1969
 NA,"Mali",17.570692,-3.996166,2020-08-11,2577,125,1973
 NA,"Mali",17.570692,-3.996166,2020-08-12,2582,125,1977
+NA,"Mali",17.570692,-3.996166,2020-08-13,2597,125,1979
 NA,"Malta",35.9375,14.3754,2020-01-22,0,0,0
 NA,"Malta",35.9375,14.3754,2020-01-23,0,0,0
 NA,"Malta",35.9375,14.3754,2020-01-24,0,0,0
@@ -38351,6 +38538,7 @@ NA,"Malta",35.9375,14.3754,2020-08-09,1089,9,684
 NA,"Malta",35.9375,14.3754,2020-08-10,1112,9,688
 NA,"Malta",35.9375,14.3754,2020-08-11,1141,9,692
 NA,"Malta",35.9375,14.3754,2020-08-12,1190,9,695
+NA,"Malta",35.9375,14.3754,2020-08-13,1245,9,708
 NA,"Mauritania",21.0079,-10.9408,2020-01-22,0,0,0
 NA,"Mauritania",21.0079,-10.9408,2020-01-23,0,0,0
 NA,"Mauritania",21.0079,-10.9408,2020-01-24,0,0,0
@@ -38555,6 +38743,7 @@ NA,"Mauritania",21.0079,-10.9408,2020-08-09,6523,157,5527
 NA,"Mauritania",21.0079,-10.9408,2020-08-10,6555,157,5570
 NA,"Mauritania",21.0079,-10.9408,2020-08-11,6598,157,5704
 NA,"Mauritania",21.0079,-10.9408,2020-08-12,6622,157,5741
+NA,"Mauritania",21.0079,-10.9408,2020-08-13,6653,157,5843
 NA,"Mauritius",-20.348404,57.552152,2020-01-22,0,0,0
 NA,"Mauritius",-20.348404,57.552152,2020-01-23,0,0,0
 NA,"Mauritius",-20.348404,57.552152,2020-01-24,0,0,0
@@ -38759,6 +38948,7 @@ NA,"Mauritius",-20.348404,57.552152,2020-08-09,344,10,334
 NA,"Mauritius",-20.348404,57.552152,2020-08-10,344,10,334
 NA,"Mauritius",-20.348404,57.552152,2020-08-11,344,10,334
 NA,"Mauritius",-20.348404,57.552152,2020-08-12,344,10,334
+NA,"Mauritius",-20.348404,57.552152,2020-08-13,344,10,334
 NA,"Mexico",23.6345,-102.5528,2020-01-22,0,0,0
 NA,"Mexico",23.6345,-102.5528,2020-01-23,0,0,0
 NA,"Mexico",23.6345,-102.5528,2020-01-24,0,0,0
@@ -38963,6 +39153,7 @@ NA,"Mexico",23.6345,-102.5528,2020-08-09,480278,52298,384432
 NA,"Mexico",23.6345,-102.5528,2020-08-10,485836,53003,393160
 NA,"Mexico",23.6345,-102.5528,2020-08-11,492522,53929,397278
 NA,"Mexico",23.6345,-102.5528,2020-08-12,498380,54666,401182
+NA,"Mexico",23.6345,-102.5528,2020-08-13,505751,55293,406583
 NA,"Moldova",47.4116,28.3699,2020-01-22,0,0,0
 NA,"Moldova",47.4116,28.3699,2020-01-23,0,0,0
 NA,"Moldova",47.4116,28.3699,2020-01-24,0,0,0
@@ -39167,6 +39358,7 @@ NA,"Moldova",47.4116,28.3699,2020-08-09,27660,845,19300
 NA,"Moldova",47.4116,28.3699,2020-08-10,27841,850,19300
 NA,"Moldova",47.4116,28.3699,2020-08-11,28223,857,19740
 NA,"Moldova",47.4116,28.3699,2020-08-12,28697,863,19998
+NA,"Moldova",47.4116,28.3699,2020-08-13,29087,878,20276
 NA,"Monaco",43.7333,7.4167,2020-01-22,0,0,0
 NA,"Monaco",43.7333,7.4167,2020-01-23,0,0,0
 NA,"Monaco",43.7333,7.4167,2020-01-24,0,0,0
@@ -39371,6 +39563,7 @@ NA,"Monaco",43.7333,7.4167,2020-08-09,133,4,113
 NA,"Monaco",43.7333,7.4167,2020-08-10,133,4,113
 NA,"Monaco",43.7333,7.4167,2020-08-11,138,4,113
 NA,"Monaco",43.7333,7.4167,2020-08-12,141,4,114
+NA,"Monaco",43.7333,7.4167,2020-08-13,144,4,114
 NA,"Mongolia",46.8625,103.8467,2020-01-22,0,0,0
 NA,"Mongolia",46.8625,103.8467,2020-01-23,0,0,0
 NA,"Mongolia",46.8625,103.8467,2020-01-24,0,0,0
@@ -39575,6 +39768,7 @@ NA,"Mongolia",46.8625,103.8467,2020-08-09,293,0,263
 NA,"Mongolia",46.8625,103.8467,2020-08-10,293,0,263
 NA,"Mongolia",46.8625,103.8467,2020-08-11,293,0,269
 NA,"Mongolia",46.8625,103.8467,2020-08-12,297,0,269
+NA,"Mongolia",46.8625,103.8467,2020-08-13,297,0,269
 NA,"Montenegro",42.708678,19.37439,2020-01-22,0,0,0
 NA,"Montenegro",42.708678,19.37439,2020-01-23,0,0,0
 NA,"Montenegro",42.708678,19.37439,2020-01-24,0,0,0
@@ -39779,6 +39973,7 @@ NA,"Montenegro",42.708678,19.37439,2020-08-09,3618,64,2452
 NA,"Montenegro",42.708678,19.37439,2020-08-10,3696,68,2521
 NA,"Montenegro",42.708678,19.37439,2020-08-11,3748,71,2558
 NA,"Montenegro",42.708678,19.37439,2020-08-12,3813,73,2638
+NA,"Montenegro",42.708678,19.37439,2020-08-13,3857,73,2680
 NA,"Morocco",31.7917,-7.0926,2020-01-22,0,0,0
 NA,"Morocco",31.7917,-7.0926,2020-01-23,0,0,0
 NA,"Morocco",31.7917,-7.0926,2020-01-24,0,0,0
@@ -39983,6 +40178,7 @@ NA,"Morocco",31.7917,-7.0926,2020-08-09,33237,498,23347
 NA,"Morocco",31.7917,-7.0926,2020-08-10,34063,516,24524
 NA,"Morocco",31.7917,-7.0926,2020-08-11,35195,533,25385
 NA,"Morocco",31.7917,-7.0926,2020-08-12,36694,556,25677
+NA,"Morocco",31.7917,-7.0926,2020-08-13,37935,584,26687
 NA,"Mozambique",-18.665695,35.529562,2020-01-22,0,0,NA
 NA,"Mozambique",-18.665695,35.529562,2020-01-23,0,0,NA
 NA,"Mozambique",-18.665695,35.529562,2020-01-24,0,0,NA
@@ -40187,6 +40383,7 @@ NA,"Mozambique",-18.665695,35.529562,2020-08-09,2269,16,NA
 NA,"Mozambique",-18.665695,35.529562,2020-08-10,2411,16,NA
 NA,"Mozambique",-18.665695,35.529562,2020-08-11,2481,17,NA
 NA,"Mozambique",-18.665695,35.529562,2020-08-12,2559,19,NA
+NA,"Mozambique",-18.665695,35.529562,2020-08-13,2638,19,NA
 NA,"MS Zaandam",NA,NA,2020-01-22,0,0,0
 NA,"MS Zaandam",NA,NA,2020-01-23,0,0,0
 NA,"MS Zaandam",NA,NA,2020-01-24,0,0,0
@@ -40391,6 +40588,7 @@ NA,"MS Zaandam",NA,NA,2020-08-09,9,2,0
 NA,"MS Zaandam",NA,NA,2020-08-10,9,2,0
 NA,"MS Zaandam",NA,NA,2020-08-11,9,2,0
 NA,"MS Zaandam",NA,NA,2020-08-12,9,2,0
+NA,"MS Zaandam",NA,NA,2020-08-13,9,2,0
 NA,"Namibia",-22.9576,18.4904,2020-01-22,0,0,0
 NA,"Namibia",-22.9576,18.4904,2020-01-23,0,0,0
 NA,"Namibia",-22.9576,18.4904,2020-01-24,0,0,0
@@ -40595,6 +40793,7 @@ NA,"Namibia",-22.9576,18.4904,2020-08-09,2949,19,704
 NA,"Namibia",-22.9576,18.4904,2020-08-10,3101,19,715
 NA,"Namibia",-22.9576,18.4904,2020-08-11,3229,19,715
 NA,"Namibia",-22.9576,18.4904,2020-08-12,3406,22,835
+NA,"Namibia",-22.9576,18.4904,2020-08-13,3544,27,848
 NA,"Nepal",28.1667,84.25,2020-01-22,0,0,0
 NA,"Nepal",28.1667,84.25,2020-01-23,0,0,0
 NA,"Nepal",28.1667,84.25,2020-01-24,0,0,0
@@ -40799,6 +40998,7 @@ NA,"Nepal",28.1667,84.25,2020-08-09,22972,75,16353
 NA,"Nepal",28.1667,84.25,2020-08-10,23310,79,16493
 NA,"Nepal",28.1667,84.25,2020-08-11,23948,83,16664
 NA,"Nepal",28.1667,84.25,2020-08-12,24432,91,16728
+NA,"Nepal",28.1667,84.25,2020-08-13,24957,95,16837
 NA,"Netherlands",52.1326,5.2913,2020-01-22,0,0,0
 NA,"Netherlands",52.1326,5.2913,2020-01-23,0,0,0
 NA,"Netherlands",52.1326,5.2913,2020-01-24,0,0,0
@@ -41003,6 +41203,7 @@ NA,"Netherlands",52.1326,5.2913,2020-08-09,58564,6157,0
 NA,"Netherlands",52.1326,5.2913,2020-08-10,59194,6157,0
 NA,"Netherlands",52.1326,5.2913,2020-08-11,59424,6141,0
 NA,"Netherlands",52.1326,5.2913,2020-08-12,60627,6161,0
+NA,"Netherlands",52.1326,5.2913,2020-08-13,61204,6165,0
 NA,"New Zealand",-40.9006,174.886,2020-01-22,0,0,0
 NA,"New Zealand",-40.9006,174.886,2020-01-23,0,0,0
 NA,"New Zealand",-40.9006,174.886,2020-01-24,0,0,0
@@ -41207,6 +41408,7 @@ NA,"New Zealand",-40.9006,174.886,2020-08-09,1569,22,1526
 NA,"New Zealand",-40.9006,174.886,2020-08-10,1570,22,1526
 NA,"New Zealand",-40.9006,174.886,2020-08-11,1570,22,1526
 NA,"New Zealand",-40.9006,174.886,2020-08-12,1589,22,1531
+NA,"New Zealand",-40.9006,174.886,2020-08-13,1602,22,1531
 NA,"Nicaragua",12.865416,-85.207229,2020-01-22,0,0,0
 NA,"Nicaragua",12.865416,-85.207229,2020-01-23,0,0,0
 NA,"Nicaragua",12.865416,-85.207229,2020-01-24,0,0,0
@@ -41411,6 +41613,7 @@ NA,"Nicaragua",12.865416,-85.207229,2020-08-09,3902,123,2913
 NA,"Nicaragua",12.865416,-85.207229,2020-08-10,3902,123,2913
 NA,"Nicaragua",12.865416,-85.207229,2020-08-11,4115,128,2913
 NA,"Nicaragua",12.865416,-85.207229,2020-08-12,4115,128,2913
+NA,"Nicaragua",12.865416,-85.207229,2020-08-13,4115,128,2913
 NA,"Niger",17.607789,8.081666,2020-01-22,0,0,0
 NA,"Niger",17.607789,8.081666,2020-01-23,0,0,0
 NA,"Niger",17.607789,8.081666,2020-01-24,0,0,0
@@ -41615,6 +41818,7 @@ NA,"Niger",17.607789,8.081666,2020-08-09,1158,69,1057
 NA,"Niger",17.607789,8.081666,2020-08-10,1158,69,1062
 NA,"Niger",17.607789,8.081666,2020-08-11,1158,69,1065
 NA,"Niger",17.607789,8.081666,2020-08-12,1161,69,1075
+NA,"Niger",17.607789,8.081666,2020-08-13,1161,69,1075
 NA,"Nigeria",9.082,8.6753,2020-01-22,0,0,0
 NA,"Nigeria",9.082,8.6753,2020-01-23,0,0,0
 NA,"Nigeria",9.082,8.6753,2020-01-24,0,0,0
@@ -41819,6 +42023,7 @@ NA,"Nigeria",9.082,8.6753,2020-08-09,46577,945,33186
 NA,"Nigeria",9.082,8.6753,2020-08-10,46867,950,33346
 NA,"Nigeria",9.082,8.6753,2020-08-11,47290,956,33609
 NA,"Nigeria",9.082,8.6753,2020-08-12,47743,956,33943
+NA,"Nigeria",9.082,8.6753,2020-08-13,48116,966,34309
 NA,"North Macedonia",41.6086,21.7453,2020-01-22,0,0,0
 NA,"North Macedonia",41.6086,21.7453,2020-01-23,0,0,0
 NA,"North Macedonia",41.6086,21.7453,2020-01-24,0,0,0
@@ -42023,6 +42228,7 @@ NA,"North Macedonia",41.6086,21.7453,2020-08-09,11839,527,7664
 NA,"North Macedonia",41.6086,21.7453,2020-08-10,11942,528,8087
 NA,"North Macedonia",41.6086,21.7453,2020-08-11,12083,529,8248
 NA,"North Macedonia",41.6086,21.7453,2020-08-12,12217,530,8487
+NA,"North Macedonia",41.6086,21.7453,2020-08-13,12357,532,8662
 NA,"Norway",60.472,8.4689,2020-01-22,0,0,0
 NA,"Norway",60.472,8.4689,2020-01-23,0,0,0
 NA,"Norway",60.472,8.4689,2020-01-24,0,0,0
@@ -42227,6 +42433,7 @@ NA,"Norway",60.472,8.4689,2020-08-09,9638,256,8857
 NA,"Norway",60.472,8.4689,2020-08-10,9684,256,8857
 NA,"Norway",60.472,8.4689,2020-08-11,9751,256,8857
 NA,"Norway",60.472,8.4689,2020-08-12,9783,256,8857
+NA,"Norway",60.472,8.4689,2020-08-13,9851,257,8857
 NA,"Oman",21.512583,55.923255,2020-01-22,0,0,0
 NA,"Oman",21.512583,55.923255,2020-01-23,0,0,0
 NA,"Oman",21.512583,55.923255,2020-01-24,0,0,0
@@ -42431,6 +42638,7 @@ NA,"Oman",21.512583,55.923255,2020-08-09,81580,513,74691
 NA,"Oman",21.512583,55.923255,2020-08-10,81787,521,76124
 NA,"Oman",21.512583,55.923255,2020-08-11,82050,533,76720
 NA,"Oman",21.512583,55.923255,2020-08-12,82299,539,77072
+NA,"Oman",21.512583,55.923255,2020-08-13,82531,551,77278
 NA,"Pakistan",30.3753,69.3451,2020-01-22,0,0,0
 NA,"Pakistan",30.3753,69.3451,2020-01-23,0,0,0
 NA,"Pakistan",30.3753,69.3451,2020-01-24,0,0,0
@@ -42635,6 +42843,7 @@ NA,"Pakistan",30.3753,69.3451,2020-08-09,284121,6082,260248
 NA,"Pakistan",30.3753,69.3451,2020-08-10,284660,6097,260764
 NA,"Pakistan",30.3753,69.3451,2020-08-11,285191,6112,261246
 NA,"Pakistan",30.3753,69.3451,2020-08-12,285921,6129,263193
+NA,"Pakistan",30.3753,69.3451,2020-08-13,286674,6139,264060
 NA,"Panama",8.538,-80.7821,2020-01-22,0,0,0
 NA,"Panama",8.538,-80.7821,2020-01-23,0,0,0
 NA,"Panama",8.538,-80.7821,2020-01-24,0,0,0
@@ -42839,6 +43048,7 @@ NA,"Panama",8.538,-80.7821,2020-08-09,74492,1639,48748
 NA,"Panama",8.538,-80.7821,2020-08-10,75394,1664,49510
 NA,"Panama",8.538,-80.7821,2020-08-11,76464,1680,50665
 NA,"Panama",8.538,-80.7821,2020-08-12,77377,1703,51597
+NA,"Panama",8.538,-80.7821,2020-08-13,78446,1722,52210
 NA,"Papua New Guinea",-6.314993,143.95555,2020-01-22,0,0,0
 NA,"Papua New Guinea",-6.314993,143.95555,2020-01-23,0,0,0
 NA,"Papua New Guinea",-6.314993,143.95555,2020-01-24,0,0,0
@@ -43043,6 +43253,7 @@ NA,"Papua New Guinea",-6.314993,143.95555,2020-08-09,214,3,53
 NA,"Papua New Guinea",-6.314993,143.95555,2020-08-10,214,3,53
 NA,"Papua New Guinea",-6.314993,143.95555,2020-08-11,214,3,71
 NA,"Papua New Guinea",-6.314993,143.95555,2020-08-12,287,3,78
+NA,"Papua New Guinea",-6.314993,143.95555,2020-08-13,271,3,78
 NA,"Paraguay",-23.4425,-58.4438,2020-01-22,0,0,0
 NA,"Paraguay",-23.4425,-58.4438,2020-01-23,0,0,0
 NA,"Paraguay",-23.4425,-58.4438,2020-01-24,0,0,0
@@ -43247,6 +43458,7 @@ NA,"Paraguay",-23.4425,-58.4438,2020-08-09,6907,75,5222
 NA,"Paraguay",-23.4425,-58.4438,2020-08-10,7234,82,5276
 NA,"Paraguay",-23.4425,-58.4438,2020-08-11,7519,86,5326
 NA,"Paraguay",-23.4425,-58.4438,2020-08-12,8018,93,5384
+NA,"Paraguay",-23.4425,-58.4438,2020-08-13,8389,97,5516
 NA,"Peru",-9.19,-75.0152,2020-01-22,0,0,0
 NA,"Peru",-9.19,-75.0152,2020-01-23,0,0,0
 NA,"Peru",-9.19,-75.0152,2020-01-24,0,0,0
@@ -43451,6 +43663,7 @@ NA,"Peru",-9.19,-75.0152,2020-08-09,478024,21072,324020
 NA,"Peru",-9.19,-75.0152,2020-08-10,483133,21276,324020
 NA,"Peru",-9.19,-75.0152,2020-08-11,489680,21501,329404
 NA,"Peru",-9.19,-75.0152,2020-08-12,489680,21501,341938
+NA,"Peru",-9.19,-75.0152,2020-08-13,498555,21713,341938
 NA,"Philippines",12.879721,121.774017,2020-01-22,0,0,0
 NA,"Philippines",12.879721,121.774017,2020-01-23,0,0,0
 NA,"Philippines",12.879721,121.774017,2020-01-24,0,0,0
@@ -43655,6 +43868,7 @@ NA,"Philippines",12.879721,121.774017,2020-08-09,129913,2270,67673
 NA,"Philippines",12.879721,121.774017,2020-08-10,136638,2294,68159
 NA,"Philippines",12.879721,121.774017,2020-08-11,139538,2312,68432
 NA,"Philippines",12.879721,121.774017,2020-08-12,143749,2404,68997
+NA,"Philippines",12.879721,121.774017,2020-08-13,147526,2426,70387
 NA,"Poland",51.9194,19.1451,2020-01-22,0,0,0
 NA,"Poland",51.9194,19.1451,2020-01-23,0,0,0
 NA,"Poland",51.9194,19.1451,2020-01-24,0,0,0
@@ -43859,6 +44073,7 @@ NA,"Poland",51.9194,19.1451,2020-08-09,51791,1807,36691
 NA,"Poland",51.9194,19.1451,2020-08-10,52410,1809,36877
 NA,"Poland",51.9194,19.1451,2020-08-11,52961,1821,37150
 NA,"Poland",51.9194,19.1451,2020-08-12,53676,1830,37611
+NA,"Poland",51.9194,19.1451,2020-08-13,54487,1844,37961
 NA,"Portugal",39.3999,-8.2245,2020-01-22,0,0,0
 NA,"Portugal",39.3999,-8.2245,2020-01-23,0,0,0
 NA,"Portugal",39.3999,-8.2245,2020-01-24,0,0,0
@@ -44063,6 +44278,7 @@ NA,"Portugal",39.3999,-8.2245,2020-08-09,52668,1756,38511
 NA,"Portugal",39.3999,-8.2245,2020-08-10,52825,1759,38600
 NA,"Portugal",39.3999,-8.2245,2020-08-11,52945,1761,38760
 NA,"Portugal",39.3999,-8.2245,2020-08-12,53223,1764,38940
+NA,"Portugal",39.3999,-8.2245,2020-08-13,53548,1770,39177
 NA,"Qatar",25.3548,51.1839,2020-01-22,0,0,0
 NA,"Qatar",25.3548,51.1839,2020-01-23,0,0,0
 NA,"Qatar",25.3548,51.1839,2020-01-24,0,0,0
@@ -44267,6 +44483,7 @@ NA,"Qatar",25.3548,51.1839,2020-08-09,112947,184,109709
 NA,"Qatar",25.3548,51.1839,2020-08-10,113262,188,109993
 NA,"Qatar",25.3548,51.1839,2020-08-11,113646,188,110324
 NA,"Qatar",25.3548,51.1839,2020-08-12,113938,190,110627
+NA,"Qatar",25.3548,51.1839,2020-08-13,114281,190,110957
 NA,"Romania",45.9432,24.9668,2020-01-22,0,0,0
 NA,"Romania",45.9432,24.9668,2020-01-23,0,0,0
 NA,"Romania",45.9432,24.9668,2020-01-24,0,0,0
@@ -44471,6 +44688,7 @@ NA,"Romania",45.9432,24.9668,2020-08-09,61768,2700,30119
 NA,"Romania",45.9432,24.9668,2020-08-10,62547,2729,30311
 NA,"Romania",45.9432,24.9668,2020-08-11,63762,2764,30585
 NA,"Romania",45.9432,24.9668,2020-08-12,65177,2807,31048
+NA,"Romania",45.9432,24.9668,2020-08-13,66631,2860,31547
 NA,"Russia",61.52401,105.318756,2020-01-22,0,0,0
 NA,"Russia",61.52401,105.318756,2020-01-23,0,0,0
 NA,"Russia",61.52401,105.318756,2020-01-24,0,0,0
@@ -44675,6 +44893,7 @@ NA,"Russia",61.52401,105.318756,2020-08-09,885718,14903,692059
 NA,"Russia",61.52401,105.318756,2020-08-10,890799,14973,695317
 NA,"Russia",61.52401,105.318756,2020-08-11,895691,15103,701796
 NA,"Russia",61.52401,105.318756,2020-08-12,900745,15231,708900
+NA,"Russia",61.52401,105.318756,2020-08-13,905762,15353,714934
 NA,"Rwanda",-1.9403,29.8739,2020-01-22,0,0,0
 NA,"Rwanda",-1.9403,29.8739,2020-01-23,0,0,0
 NA,"Rwanda",-1.9403,29.8739,2020-01-24,0,0,0
@@ -44879,6 +45098,7 @@ NA,"Rwanda",-1.9403,29.8739,2020-08-09,2140,7,1346
 NA,"Rwanda",-1.9403,29.8739,2020-08-10,2152,7,1392
 NA,"Rwanda",-1.9403,29.8739,2020-08-11,2171,7,1478
 NA,"Rwanda",-1.9403,29.8739,2020-08-12,2189,8,1524
+NA,"Rwanda",-1.9403,29.8739,2020-08-13,2200,8,1558
 NA,"Saint Kitts and Nevis",17.357822,-62.782998,2020-01-22,0,0,0
 NA,"Saint Kitts and Nevis",17.357822,-62.782998,2020-01-23,0,0,0
 NA,"Saint Kitts and Nevis",17.357822,-62.782998,2020-01-24,0,0,0
@@ -45083,6 +45303,7 @@ NA,"Saint Kitts and Nevis",17.357822,-62.782998,2020-08-09,17,0,16
 NA,"Saint Kitts and Nevis",17.357822,-62.782998,2020-08-10,17,0,17
 NA,"Saint Kitts and Nevis",17.357822,-62.782998,2020-08-11,17,0,17
 NA,"Saint Kitts and Nevis",17.357822,-62.782998,2020-08-12,17,0,17
+NA,"Saint Kitts and Nevis",17.357822,-62.782998,2020-08-13,17,0,17
 NA,"Saint Lucia",13.9094,-60.9789,2020-01-22,0,0,0
 NA,"Saint Lucia",13.9094,-60.9789,2020-01-23,0,0,0
 NA,"Saint Lucia",13.9094,-60.9789,2020-01-24,0,0,0
@@ -45287,6 +45508,7 @@ NA,"Saint Lucia",13.9094,-60.9789,2020-08-09,25,0,24
 NA,"Saint Lucia",13.9094,-60.9789,2020-08-10,25,0,24
 NA,"Saint Lucia",13.9094,-60.9789,2020-08-11,25,0,25
 NA,"Saint Lucia",13.9094,-60.9789,2020-08-12,25,0,25
+NA,"Saint Lucia",13.9094,-60.9789,2020-08-13,25,0,25
 NA,"Saint Vincent and the Grenadines",12.9843,-61.2872,2020-01-22,0,0,0
 NA,"Saint Vincent and the Grenadines",12.9843,-61.2872,2020-01-23,0,0,0
 NA,"Saint Vincent and the Grenadines",12.9843,-61.2872,2020-01-24,0,0,0
@@ -45491,6 +45713,7 @@ NA,"Saint Vincent and the Grenadines",12.9843,-61.2872,2020-08-09,57,0,52
 NA,"Saint Vincent and the Grenadines",12.9843,-61.2872,2020-08-10,57,0,52
 NA,"Saint Vincent and the Grenadines",12.9843,-61.2872,2020-08-11,57,0,52
 NA,"Saint Vincent and the Grenadines",12.9843,-61.2872,2020-08-12,57,0,52
+NA,"Saint Vincent and the Grenadines",12.9843,-61.2872,2020-08-13,57,0,55
 NA,"San Marino",43.9424,12.4578,2020-01-22,0,0,0
 NA,"San Marino",43.9424,12.4578,2020-01-23,0,0,0
 NA,"San Marino",43.9424,12.4578,2020-01-24,0,0,0
@@ -45695,6 +45918,7 @@ NA,"San Marino",43.9424,12.4578,2020-08-09,699,42,657
 NA,"San Marino",43.9424,12.4578,2020-08-10,699,42,657
 NA,"San Marino",43.9424,12.4578,2020-08-11,699,42,657
 NA,"San Marino",43.9424,12.4578,2020-08-12,699,42,657
+NA,"San Marino",43.9424,12.4578,2020-08-13,699,42,657
 NA,"Sao Tome and Principe",0.1864,6.6131,2020-01-22,0,0,0
 NA,"Sao Tome and Principe",0.1864,6.6131,2020-01-23,0,0,0
 NA,"Sao Tome and Principe",0.1864,6.6131,2020-01-24,0,0,0
@@ -45899,6 +46123,7 @@ NA,"Sao Tome and Principe",0.1864,6.6131,2020-08-09,878,15,800
 NA,"Sao Tome and Principe",0.1864,6.6131,2020-08-10,878,15,800
 NA,"Sao Tome and Principe",0.1864,6.6131,2020-08-11,881,15,804
 NA,"Sao Tome and Principe",0.1864,6.6131,2020-08-12,882,15,807
+NA,"Sao Tome and Principe",0.1864,6.6131,2020-08-13,883,15,808
 NA,"Saudi Arabia",23.885942,45.079162,2020-01-22,0,0,0
 NA,"Saudi Arabia",23.885942,45.079162,2020-01-23,0,0,0
 NA,"Saudi Arabia",23.885942,45.079162,2020-01-24,0,0,0
@@ -46103,6 +46328,7 @@ NA,"Saudi Arabia",23.885942,45.079162,2020-08-09,288690,3167,252039
 NA,"Saudi Arabia",23.885942,45.079162,2020-08-10,289947,3199,253478
 NA,"Saudi Arabia",23.885942,45.079162,2020-08-11,291468,3233,255118
 NA,"Saudi Arabia",23.885942,45.079162,2020-08-12,293037,3269,257269
+NA,"Saudi Arabia",23.885942,45.079162,2020-08-13,294519,3303,260393
 NA,"Senegal",14.4974,-14.4524,2020-01-22,0,0,0
 NA,"Senegal",14.4974,-14.4524,2020-01-23,0,0,0
 NA,"Senegal",14.4974,-14.4524,2020-01-24,0,0,0
@@ -46307,6 +46533,7 @@ NA,"Senegal",14.4974,-14.4524,2020-08-09,11175,232,7352
 NA,"Senegal",14.4974,-14.4524,2020-08-10,11312,236,7390
 NA,"Senegal",14.4974,-14.4524,2020-08-11,11380,238,7449
 NA,"Senegal",14.4974,-14.4524,2020-08-12,11587,242,7523
+NA,"Senegal",14.4974,-14.4524,2020-08-13,11740,244,7572
 NA,"Serbia",44.0165,21.0059,2020-01-22,0,0,0
 NA,"Serbia",44.0165,21.0059,2020-01-23,0,0,0
 NA,"Serbia",44.0165,21.0059,2020-01-24,0,0,0
@@ -46511,6 +46738,7 @@ NA,"Serbia",44.0165,21.0059,2020-08-09,28099,641,0
 NA,"Serbia",44.0165,21.0059,2020-08-10,28262,646,0
 NA,"Serbia",44.0165,21.0059,2020-08-11,28497,652,0
 NA,"Serbia",44.0165,21.0059,2020-08-12,28751,658,0
+NA,"Serbia",44.0165,21.0059,2020-08-13,28998,661,0
 NA,"Seychelles",-4.6796,55.492,2020-01-22,0,0,0
 NA,"Seychelles",-4.6796,55.492,2020-01-23,0,0,0
 NA,"Seychelles",-4.6796,55.492,2020-01-24,0,0,0
@@ -46715,6 +46943,7 @@ NA,"Seychelles",-4.6796,55.492,2020-08-09,126,0,125
 NA,"Seychelles",-4.6796,55.492,2020-08-10,126,0,125
 NA,"Seychelles",-4.6796,55.492,2020-08-11,127,0,126
 NA,"Seychelles",-4.6796,55.492,2020-08-12,127,0,126
+NA,"Seychelles",-4.6796,55.492,2020-08-13,127,0,126
 NA,"Sierra Leone",8.460555,-11.779889,2020-01-22,0,0,0
 NA,"Sierra Leone",8.460555,-11.779889,2020-01-23,0,0,0
 NA,"Sierra Leone",8.460555,-11.779889,2020-01-24,0,0,0
@@ -46919,6 +47148,7 @@ NA,"Sierra Leone",8.460555,-11.779889,2020-08-09,1916,68,1445
 NA,"Sierra Leone",8.460555,-11.779889,2020-08-10,1917,69,1447
 NA,"Sierra Leone",8.460555,-11.779889,2020-08-11,1932,69,1478
 NA,"Sierra Leone",8.460555,-11.779889,2020-08-12,1937,69,1483
+NA,"Sierra Leone",8.460555,-11.779889,2020-08-13,1940,69,1496
 NA,"Singapore",1.2833,103.8333,2020-01-22,0,0,0
 NA,"Singapore",1.2833,103.8333,2020-01-23,1,0,0
 NA,"Singapore",1.2833,103.8333,2020-01-24,3,0,0
@@ -47123,6 +47353,7 @@ NA,"Singapore",1.2833,103.8333,2020-08-09,55104,27,48915
 NA,"Singapore",1.2833,103.8333,2020-08-10,55292,27,49609
 NA,"Singapore",1.2833,103.8333,2020-08-11,55353,27,50128
 NA,"Singapore",1.2833,103.8333,2020-08-12,55395,27,50520
+NA,"Singapore",1.2833,103.8333,2020-08-13,55497,27,50736
 NA,"Slovakia",48.669,19.699,2020-01-22,0,0,0
 NA,"Slovakia",48.669,19.699,2020-01-23,0,0,0
 NA,"Slovakia",48.669,19.699,2020-01-24,0,0,0
@@ -47327,6 +47558,7 @@ NA,"Slovakia",48.669,19.699,2020-08-09,2596,31,1864
 NA,"Slovakia",48.669,19.699,2020-08-10,2599,31,1866
 NA,"Slovakia",48.669,19.699,2020-08-11,2615,31,1874
 NA,"Slovakia",48.669,19.699,2020-08-12,2690,31,1884
+NA,"Slovakia",48.669,19.699,2020-08-13,2739,31,1939
 NA,"Slovenia",46.1512,14.9955,2020-01-22,0,0,0
 NA,"Slovenia",46.1512,14.9955,2020-01-23,0,0,0
 NA,"Slovenia",46.1512,14.9955,2020-01-24,0,0,0
@@ -47531,6 +47763,7 @@ NA,"Slovenia",46.1512,14.9955,2020-08-09,2249,127,1927
 NA,"Slovenia",46.1512,14.9955,2020-08-10,2255,128,1960
 NA,"Slovenia",46.1512,14.9955,2020-08-11,2272,129,1960
 NA,"Slovenia",46.1512,14.9955,2020-08-12,2303,129,1960
+NA,"Slovenia",46.1512,14.9955,2020-08-13,2332,129,1960
 NA,"Somalia",5.152149,46.199616,2020-01-22,0,0,0
 NA,"Somalia",5.152149,46.199616,2020-01-23,0,0,0
 NA,"Somalia",5.152149,46.199616,2020-01-24,0,0,0
@@ -47735,6 +47968,7 @@ NA,"Somalia",5.152149,46.199616,2020-08-09,3227,93,1728
 NA,"Somalia",5.152149,46.199616,2020-08-10,3227,93,1728
 NA,"Somalia",5.152149,46.199616,2020-08-11,3227,93,1728
 NA,"Somalia",5.152149,46.199616,2020-08-12,3227,93,1728
+NA,"Somalia",5.152149,46.199616,2020-08-13,3227,93,1728
 NA,"South Africa",-30.5595,22.9375,2020-01-22,0,0,0
 NA,"South Africa",-30.5595,22.9375,2020-01-23,0,0,0
 NA,"South Africa",-30.5595,22.9375,2020-01-24,0,0,0
@@ -47939,6 +48173,7 @@ NA,"South Africa",-30.5595,22.9375,2020-08-09,559859,10408,411474
 NA,"South Africa",-30.5595,22.9375,2020-08-10,563598,10621,417200
 NA,"South Africa",-30.5595,22.9375,2020-08-11,566109,10751,426125
 NA,"South Africa",-30.5595,22.9375,2020-08-12,568919,11010,432029
+NA,"South Africa",-30.5595,22.9375,2020-08-13,572865,11270,437617
 NA,"South Sudan",6.877,31.307,2020-01-22,0,0,0
 NA,"South Sudan",6.877,31.307,2020-01-23,0,0,0
 NA,"South Sudan",6.877,31.307,2020-01-24,0,0,0
@@ -48143,6 +48378,7 @@ NA,"South Sudan",6.877,31.307,2020-08-09,2470,47,1175
 NA,"South Sudan",6.877,31.307,2020-08-10,2470,47,1175
 NA,"South Sudan",6.877,31.307,2020-08-11,2472,47,1175
 NA,"South Sudan",6.877,31.307,2020-08-12,2477,47,1175
+NA,"South Sudan",6.877,31.307,2020-08-13,2478,47,1175
 NA,"Spain",40.463667,-3.74922,2020-01-22,0,0,0
 NA,"Spain",40.463667,-3.74922,2020-01-23,0,0,0
 NA,"Spain",40.463667,-3.74922,2020-01-24,0,0,0
@@ -48347,6 +48583,7 @@ NA,"Spain",40.463667,-3.74922,2020-08-09,314362,28503,150376
 NA,"Spain",40.463667,-3.74922,2020-08-10,322980,28576,150376
 NA,"Spain",40.463667,-3.74922,2020-08-11,326612,28581,150376
 NA,"Spain",40.463667,-3.74922,2020-08-12,329784,28579,150376
+NA,"Spain",40.463667,-3.74922,2020-08-13,337334,28605,150376
 NA,"Sri Lanka",7.873054,80.771797,2020-01-22,0,0,0
 NA,"Sri Lanka",7.873054,80.771797,2020-01-23,0,0,0
 NA,"Sri Lanka",7.873054,80.771797,2020-01-24,0,0,0
@@ -48551,6 +48788,7 @@ NA,"Sri Lanka",7.873054,80.771797,2020-08-09,2844,11,2579
 NA,"Sri Lanka",7.873054,80.771797,2020-08-10,2871,11,2593
 NA,"Sri Lanka",7.873054,80.771797,2020-08-11,2880,11,2622
 NA,"Sri Lanka",7.873054,80.771797,2020-08-12,2881,11,2638
+NA,"Sri Lanka",7.873054,80.771797,2020-08-13,2882,11,2646
 NA,"Sudan",12.8628,30.2176,2020-01-22,0,0,0
 NA,"Sudan",12.8628,30.2176,2020-01-23,0,0,0
 NA,"Sudan",12.8628,30.2176,2020-01-24,0,0,0
@@ -48755,6 +48993,7 @@ NA,"Sudan",12.8628,30.2176,2020-08-09,11956,781,6266
 NA,"Sudan",12.8628,30.2176,2020-08-10,11956,781,6266
 NA,"Sudan",12.8628,30.2176,2020-08-11,12033,786,6282
 NA,"Sudan",12.8628,30.2176,2020-08-12,12033,786,6282
+NA,"Sudan",12.8628,30.2176,2020-08-13,12115,792,6305
 NA,"Suriname",3.9193,-56.0278,2020-01-22,0,0,0
 NA,"Suriname",3.9193,-56.0278,2020-01-23,0,0,0
 NA,"Suriname",3.9193,-56.0278,2020-01-24,0,0,0
@@ -48959,6 +49198,7 @@ NA,"Suriname",3.9193,-56.0278,2020-08-09,2391,29,1635
 NA,"Suriname",3.9193,-56.0278,2020-08-10,2489,30,1674
 NA,"Suriname",3.9193,-56.0278,2020-08-11,2559,39,1712
 NA,"Suriname",3.9193,-56.0278,2020-08-12,2653,39,1789
+NA,"Suriname",3.9193,-56.0278,2020-08-13,2761,40,1830
 NA,"Sweden",60.128161,18.643501,2020-01-22,0,0,0
 NA,"Sweden",60.128161,18.643501,2020-01-23,0,0,0
 NA,"Sweden",60.128161,18.643501,2020-01-24,0,0,0
@@ -49163,6 +49403,7 @@ NA,"Sweden",60.128161,18.643501,2020-08-09,82323,5763,0
 NA,"Sweden",60.128161,18.643501,2020-08-10,82972,5766,0
 NA,"Sweden",60.128161,18.643501,2020-08-11,83126,5770,0
 NA,"Sweden",60.128161,18.643501,2020-08-12,83455,5774,0
+NA,"Sweden",60.128161,18.643501,2020-08-13,83852,5776,0
 NA,"Switzerland",46.8182,8.2275,2020-01-22,0,0,0
 NA,"Switzerland",46.8182,8.2275,2020-01-23,0,0,0
 NA,"Switzerland",46.8182,8.2275,2020-01-24,0,0,0
@@ -49367,6 +49608,7 @@ NA,"Switzerland",46.8182,8.2275,2020-08-09,36603,1986,32300
 NA,"Switzerland",46.8182,8.2275,2020-08-10,36708,1987,32400
 NA,"Switzerland",46.8182,8.2275,2020-08-11,36895,1990,32400
 NA,"Switzerland",46.8182,8.2275,2020-08-12,37169,1991,32700
+NA,"Switzerland",46.8182,8.2275,2020-08-13,37403,1991,32700
 NA,"Syria",34.802075,38.996815,2020-01-22,0,0,NA
 NA,"Syria",34.802075,38.996815,2020-01-23,0,0,NA
 NA,"Syria",34.802075,38.996815,2020-01-24,0,0,NA
@@ -49571,6 +49813,7 @@ NA,"Syria",34.802075,38.996815,2020-08-09,1188,52,NA
 NA,"Syria",34.802075,38.996815,2020-08-10,1255,52,NA
 NA,"Syria",34.802075,38.996815,2020-08-11,1327,53,NA
 NA,"Syria",34.802075,38.996815,2020-08-12,1327,53,NA
+NA,"Syria",34.802075,38.996815,2020-08-13,1432,55,NA
 NA,"Taiwan",23.7,121,2020-01-22,1,0,0
 NA,"Taiwan",23.7,121,2020-01-23,1,0,0
 NA,"Taiwan",23.7,121,2020-01-24,3,0,0
@@ -49775,6 +50018,7 @@ NA,"Taiwan",23.7,121,2020-08-09,477,7,441
 NA,"Taiwan",23.7,121,2020-08-10,477,7,441
 NA,"Taiwan",23.7,121,2020-08-11,480,7,443
 NA,"Taiwan",23.7,121,2020-08-12,481,7,450
+NA,"Taiwan",23.7,121,2020-08-13,481,7,450
 NA,"Tajikistan",38.861,71.2761,2020-01-22,0,0,0
 NA,"Tajikistan",38.861,71.2761,2020-01-23,0,0,0
 NA,"Tajikistan",38.861,71.2761,2020-01-24,0,0,0
@@ -49979,6 +50223,7 @@ NA,"Tajikistan",38.861,71.2761,2020-08-09,7745,62,6484
 NA,"Tajikistan",38.861,71.2761,2020-08-10,7827,62,6614
 NA,"Tajikistan",38.861,71.2761,2020-08-11,7871,63,6653
 NA,"Tajikistan",38.861,71.2761,2020-08-12,7912,63,6696
+NA,"Tajikistan",38.861,71.2761,2020-08-13,7950,63,6741
 NA,"Tanzania",-6.369028,34.888822,2020-01-22,0,0,0
 NA,"Tanzania",-6.369028,34.888822,2020-01-23,0,0,0
 NA,"Tanzania",-6.369028,34.888822,2020-01-24,0,0,0
@@ -50183,6 +50428,7 @@ NA,"Tanzania",-6.369028,34.888822,2020-08-09,509,21,183
 NA,"Tanzania",-6.369028,34.888822,2020-08-10,509,21,183
 NA,"Tanzania",-6.369028,34.888822,2020-08-11,509,21,183
 NA,"Tanzania",-6.369028,34.888822,2020-08-12,509,21,183
+NA,"Tanzania",-6.369028,34.888822,2020-08-13,509,21,183
 NA,"Thailand",15.870032,100.992541,2020-01-22,2,0,0
 NA,"Thailand",15.870032,100.992541,2020-01-23,3,0,0
 NA,"Thailand",15.870032,100.992541,2020-01-24,5,0,0
@@ -50387,6 +50633,7 @@ NA,"Thailand",15.870032,100.992541,2020-08-09,3351,58,3151
 NA,"Thailand",15.870032,100.992541,2020-08-10,3351,58,3160
 NA,"Thailand",15.870032,100.992541,2020-08-11,3351,58,3163
 NA,"Thailand",15.870032,100.992541,2020-08-12,3356,58,3169
+NA,"Thailand",15.870032,100.992541,2020-08-13,3359,58,3169
 NA,"Timor-Leste",-8.874217,125.727539,2020-01-22,0,0,NA
 NA,"Timor-Leste",-8.874217,125.727539,2020-01-23,0,0,NA
 NA,"Timor-Leste",-8.874217,125.727539,2020-01-24,0,0,NA
@@ -50591,6 +50838,7 @@ NA,"Timor-Leste",-8.874217,125.727539,2020-08-09,25,0,NA
 NA,"Timor-Leste",-8.874217,125.727539,2020-08-10,25,0,NA
 NA,"Timor-Leste",-8.874217,125.727539,2020-08-11,25,0,NA
 NA,"Timor-Leste",-8.874217,125.727539,2020-08-12,25,0,NA
+NA,"Timor-Leste",-8.874217,125.727539,2020-08-13,25,0,NA
 NA,"Togo",8.6195,0.8248,2020-01-22,0,0,0
 NA,"Togo",8.6195,0.8248,2020-01-23,0,0,0
 NA,"Togo",8.6195,0.8248,2020-01-24,0,0,0
@@ -50795,6 +51043,7 @@ NA,"Togo",8.6195,0.8248,2020-08-09,1060,23,729
 NA,"Togo",8.6195,0.8248,2020-08-10,1067,25,729
 NA,"Togo",8.6195,0.8248,2020-08-11,1070,26,752
 NA,"Togo",8.6195,0.8248,2020-08-12,1092,26,782
+NA,"Togo",8.6195,0.8248,2020-08-13,1104,26,791
 NA,"Trinidad and Tobago",10.6918,-61.2225,2020-01-22,0,0,0
 NA,"Trinidad and Tobago",10.6918,-61.2225,2020-01-23,0,0,0
 NA,"Trinidad and Tobago",10.6918,-61.2225,2020-01-24,0,0,0
@@ -50999,6 +51248,7 @@ NA,"Trinidad and Tobago",10.6918,-61.2225,2020-08-09,279,8,135
 NA,"Trinidad and Tobago",10.6918,-61.2225,2020-08-10,281,8,138
 NA,"Trinidad and Tobago",10.6918,-61.2225,2020-08-11,300,8,139
 NA,"Trinidad and Tobago",10.6918,-61.2225,2020-08-12,326,8,139
+NA,"Trinidad and Tobago",10.6918,-61.2225,2020-08-13,404,8,139
 NA,"Tunisia",33.886917,9.537499,2020-01-22,0,0,0
 NA,"Tunisia",33.886917,9.537499,2020-01-23,0,0,0
 NA,"Tunisia",33.886917,9.537499,2020-01-24,0,0,0
@@ -51203,6 +51453,7 @@ NA,"Tunisia",33.886917,9.537499,2020-08-09,1697,51,1263
 NA,"Tunisia",33.886917,9.537499,2020-08-10,1717,51,1265
 NA,"Tunisia",33.886917,9.537499,2020-08-11,1738,52,1272
 NA,"Tunisia",33.886917,9.537499,2020-08-12,1780,52,1278
+NA,"Tunisia",33.886917,9.537499,2020-08-13,1847,53,1302
 NA,"Turkey",38.9637,35.2433,2020-01-22,0,0,0
 NA,"Turkey",38.9637,35.2433,2020-01-23,0,0,0
 NA,"Turkey",38.9637,35.2433,2020-01-24,0,0,0
@@ -51407,6 +51658,7 @@ NA,"Turkey",38.9637,35.2433,2020-08-09,240804,5844,223759
 NA,"Turkey",38.9637,35.2433,2020-08-10,241997,5858,224970
 NA,"Turkey",38.9637,35.2433,2020-08-11,243180,5873,226155
 NA,"Turkey",38.9637,35.2433,2020-08-12,244392,5891,227089
+NA,"Turkey",38.9637,35.2433,2020-08-13,245635,5912,228057
 NA,"Uganda",1.373333,32.290275,2020-01-22,0,0,0
 NA,"Uganda",1.373333,32.290275,2020-01-23,0,0,0
 NA,"Uganda",1.373333,32.290275,2020-01-24,0,0,0
@@ -51611,6 +51863,7 @@ NA,"Uganda",1.373333,32.290275,2020-08-09,1283,7,1115
 NA,"Uganda",1.373333,32.290275,2020-08-10,1297,9,1137
 NA,"Uganda",1.373333,32.290275,2020-08-11,1313,9,1138
 NA,"Uganda",1.373333,32.290275,2020-08-12,1332,9,1139
+NA,"Uganda",1.373333,32.290275,2020-08-13,1353,11,1141
 NA,"Ukraine",48.3794,31.1656,2020-01-22,0,0,0
 NA,"Ukraine",48.3794,31.1656,2020-01-23,0,0,0
 NA,"Ukraine",48.3794,31.1656,2020-01-24,0,0,0
@@ -51815,6 +52068,7 @@ NA,"Ukraine",48.3794,31.1656,2020-08-09,82767,1925,45335
 NA,"Ukraine",48.3794,31.1656,2020-08-10,83812,1950,45723
 NA,"Ukraine",48.3794,31.1656,2020-08-11,85023,1979,46313
 NA,"Ukraine",48.3794,31.1656,2020-08-12,86504,1999,47084
+NA,"Ukraine",48.3794,31.1656,2020-08-13,88136,2023,47678
 NA,"United Arab Emirates",23.424076,53.847818,2020-01-22,0,0,0
 NA,"United Arab Emirates",23.424076,53.847818,2020-01-23,0,0,0
 NA,"United Arab Emirates",23.424076,53.847818,2020-01-24,0,0,0
@@ -52019,6 +52273,7 @@ NA,"United Arab Emirates",23.424076,53.847818,2020-08-09,62525,357,56568
 NA,"United Arab Emirates",23.424076,53.847818,2020-08-10,62704,357,56766
 NA,"United Arab Emirates",23.424076,53.847818,2020-08-11,62966,358,56961
 NA,"United Arab Emirates",23.424076,53.847818,2020-08-12,63212,358,57193
+NA,"United Arab Emirates",23.424076,53.847818,2020-08-13,63489,358,57372
 NA,"United Kingdom",55.3781,-3.436,2020-01-22,0,0,0
 NA,"United Kingdom",55.3781,-3.436,2020-01-23,0,0,0
 NA,"United Kingdom",55.3781,-3.436,2020-01-24,0,0,0
@@ -52223,6 +52478,7 @@ NA,"United Kingdom",55.3781,-3.436,2020-08-09,310825,46574,0
 NA,"United Kingdom",55.3781,-3.436,2020-08-10,311641,46526,0
 NA,"United Kingdom",55.3781,-3.436,2020-08-11,312789,46629,0
 NA,"United Kingdom",55.3781,-3.436,2020-08-12,313798,46706,0
+NA,"United Kingdom",55.3781,-3.436,2020-08-13,313798,46706,0
 NA,"Uruguay",-32.5228,-55.7658,2020-01-22,0,0,0
 NA,"Uruguay",-32.5228,-55.7658,2020-01-23,0,0,0
 NA,"Uruguay",-32.5228,-55.7658,2020-01-24,0,0,0
@@ -52427,6 +52683,7 @@ NA,"Uruguay",-32.5228,-55.7658,2020-08-09,1353,37,1125
 NA,"Uruguay",-32.5228,-55.7658,2020-08-10,1364,37,1146
 NA,"Uruguay",-32.5228,-55.7658,2020-08-11,1385,37,1157
 NA,"Uruguay",-32.5228,-55.7658,2020-08-12,1393,37,1163
+NA,"Uruguay",-32.5228,-55.7658,2020-08-13,1409,37,1180
 NA,"United States",40,-100,2020-01-22,1,0,0
 NA,"United States",40,-100,2020-01-23,1,0,0
 NA,"United States",40,-100,2020-01-24,2,0,0
@@ -52630,7 +52887,8 @@ NA,"United States",40,-100,2020-08-08,4997929,162423,1643118
 NA,"United States",40,-100,2020-08-09,5044864,162938,1656864
 NA,"United States",40,-100,2020-08-10,5094400,163463,1670755
 NA,"United States",40,-100,2020-08-11,5141208,164527,1714960
-NA,"United States",40,-100,2020-08-12,5197118,166026,1753760
+NA,"United States",40,-100,2020-08-12,5197411,166034,1753760
+NA,"United States",40,-100,2020-08-13,5248854,167110,1774648
 NA,"Uzbekistan",41.377491,64.585262,2020-01-22,0,0,0
 NA,"Uzbekistan",41.377491,64.585262,2020-01-23,0,0,0
 NA,"Uzbekistan",41.377491,64.585262,2020-01-24,0,0,0
@@ -52835,6 +53093,7 @@ NA,"Uzbekistan",41.377491,64.585262,2020-08-09,30609,194,22042
 NA,"Uzbekistan",41.377491,64.585262,2020-08-10,31304,200,22992
 NA,"Uzbekistan",41.377491,64.585262,2020-08-11,31747,204,23704
 NA,"Uzbekistan",41.377491,64.585262,2020-08-12,32654,211,25659
+NA,"Uzbekistan",41.377491,64.585262,2020-08-13,33323,216,27213
 NA,"Venezuela",6.4238,-66.5897,2020-01-22,0,0,0
 NA,"Venezuela",6.4238,-66.5897,2020-01-23,0,0,0
 NA,"Venezuela",6.4238,-66.5897,2020-01-24,0,0,0
@@ -53039,6 +53298,7 @@ NA,"Venezuela",6.4238,-66.5897,2020-08-09,25805,223,13356
 NA,"Venezuela",6.4238,-66.5897,2020-08-10,26800,229,16930
 NA,"Venezuela",6.4238,-66.5897,2020-08-11,27938,238,19706
 NA,"Venezuela",6.4238,-66.5897,2020-08-12,29088,247,21042
+NA,"Venezuela",6.4238,-66.5897,2020-08-13,30369,259,21385
 NA,"Vietnam",14.058324,108.277199,2020-01-22,0,0,0
 NA,"Vietnam",14.058324,108.277199,2020-01-23,2,0,0
 NA,"Vietnam",14.058324,108.277199,2020-01-24,2,0,0
@@ -53243,6 +53503,7 @@ NA,"Vietnam",14.058324,108.277199,2020-08-09,841,13,395
 NA,"Vietnam",14.058324,108.277199,2020-08-10,847,15,399
 NA,"Vietnam",14.058324,108.277199,2020-08-11,866,16,451
 NA,"Vietnam",14.058324,108.277199,2020-08-12,883,18,409
+NA,"Vietnam",14.058324,108.277199,2020-08-13,911,21,425
 NA,"West Bank and Gaza",31.9522,35.2332,2020-01-22,0,0,0
 NA,"West Bank and Gaza",31.9522,35.2332,2020-01-23,0,0,0
 NA,"West Bank and Gaza",31.9522,35.2332,2020-01-24,0,0,0
@@ -53447,6 +53708,7 @@ NA,"West Bank and Gaza",31.9522,35.2332,2020-08-09,14208,97,7945
 NA,"West Bank and Gaza",31.9522,35.2332,2020-08-10,14510,100,8045
 NA,"West Bank and Gaza",31.9522,35.2332,2020-08-11,14875,104,8181
 NA,"West Bank and Gaza",31.9522,35.2332,2020-08-12,15184,105,8369
+NA,"West Bank and Gaza",31.9522,35.2332,2020-08-13,15491,106,9186
 NA,"Western Sahara",24.2155,-12.8858,2020-01-22,0,0,0
 NA,"Western Sahara",24.2155,-12.8858,2020-01-23,0,0,0
 NA,"Western Sahara",24.2155,-12.8858,2020-01-24,0,0,0
@@ -53651,6 +53913,7 @@ NA,"Western Sahara",24.2155,-12.8858,2020-08-09,10,1,8
 NA,"Western Sahara",24.2155,-12.8858,2020-08-10,10,1,8
 NA,"Western Sahara",24.2155,-12.8858,2020-08-11,10,1,8
 NA,"Western Sahara",24.2155,-12.8858,2020-08-12,10,1,8
+NA,"Western Sahara",24.2155,-12.8858,2020-08-13,10,1,8
 NA,"Yemen",15.552727,48.516388,2020-01-22,0,0,0
 NA,"Yemen",15.552727,48.516388,2020-01-23,0,0,0
 NA,"Yemen",15.552727,48.516388,2020-01-24,0,0,0
@@ -53855,6 +54118,7 @@ NA,"Yemen",15.552727,48.516388,2020-08-09,1804,515,913
 NA,"Yemen",15.552727,48.516388,2020-08-10,1832,518,915
 NA,"Yemen",15.552727,48.516388,2020-08-11,1831,523,915
 NA,"Yemen",15.552727,48.516388,2020-08-12,1841,528,937
+NA,"Yemen",15.552727,48.516388,2020-08-13,1847,528,949
 NA,"Zambia",-13.133897,27.849332,2020-01-22,0,0,0
 NA,"Zambia",-13.133897,27.849332,2020-01-23,0,0,0
 NA,"Zambia",-13.133897,27.849332,2020-01-24,0,0,0
@@ -54059,6 +54323,7 @@ NA,"Zambia",-13.133897,27.849332,2020-08-09,8085,235,6698
 NA,"Zambia",-13.133897,27.849332,2020-08-10,8210,241,6802
 NA,"Zambia",-13.133897,27.849332,2020-08-11,8275,241,7004
 NA,"Zambia",-13.133897,27.849332,2020-08-12,8501,246,7233
+NA,"Zambia",-13.133897,27.849332,2020-08-13,8663,246,7401
 NA,"Zimbabwe",-19.015438,29.154857,2020-01-22,0,0,0
 NA,"Zimbabwe",-19.015438,29.154857,2020-01-23,0,0,0
 NA,"Zimbabwe",-19.015438,29.154857,2020-01-24,0,0,0
@@ -54263,3 +54528,4 @@ NA,"Zimbabwe",-19.015438,29.154857,2020-08-09,4649,104,1437
 NA,"Zimbabwe",-19.015438,29.154857,2020-08-10,4748,104,1524
 NA,"Zimbabwe",-19.015438,29.154857,2020-08-11,4818,104,1524
 NA,"Zimbabwe",-19.015438,29.154857,2020-08-12,4893,122,1620
+NA,"Zimbabwe",-19.015438,29.154857,2020-08-13,4990,128,1927
