@@ -23,8 +23,8 @@ us_state_abb <- c("AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","I
 us_state_names <- c( "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut","Delaware","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa","Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan","Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada","New Hampshire","New Jersey","New Mexico","New York","North Carolina","North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island","South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont","Virginia","Washington","West Virginia","Wisconsin","Wyoming")
 
 # Clean provincial names.
-dirty_prov_names <- c("Toronto, ON", "London, ON", "Montreal, QC", "Calgary, Alberta", "Edmonton, Alberta", "United States Virgin Islands", "Virgin Islands, U.S.", "QC", "ON", "Chicago", "Hong Kong SAR", "Macau SAR")
-clean_prov_names <- c("Ontario","Ontario","Quebec","Alberta","Alberta","Virgin Islands","Virgin Islands", "Quebec", "Ontario", "Illinois", "Hong Kong", "Macau")
+dirty_prov_names <- c("Toronto, ON", "London, ON", "Montreal, QC", "Calgary, Alberta", "Edmonton, Alberta", "United States Virgin Islands", "Virgin Islands, U.S.", "QC", "ON", "Chicago", "Hong Kong SAR", "Macau SAR", "Ohioiggins")
+clean_prov_names <- c("Ontario","Ontario","Quebec","Alberta","Alberta","Virgin Islands","Virgin Islands", "Quebec", "Ontario", "Illinois", "Hong Kong", "Macau", "OHiggins")
 
 # Clean Admin2 names.
 dirty_admin_names <- c("Yolo County", "Williamson County", "Do<f1>a Ana", "\\<Bristol Bay plus Lake Peninsula\\>")
