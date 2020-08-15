@@ -117,6 +117,7 @@ CSSE_DailyReports$Province_State <- clean_jhu_names(us_state_abb, us_state_names
 CSSE_DailyReports$Province_State <- clean_jhu_names(dirty_prov_names, clean_prov_names, CSSE_DailyReports$Province_State)
 CSSE_DailyReports$Admin2 <- clean_jhu_names(dirty_admin_names, clean_admin_names, CSSE_DailyReports$Admin2)
 CSSE_DailyReports$Country_Region[CSSE_DailyReports$Country_Region == "Taiwan*"] <- "Taiwan"
+CSSE_DailyReports$Admin2 <- clean_jhu_names(dirty_general_names, clean_general_names, CSSE_DailyReports$Admin2)
 
 # Create a new `Combined_Key` to correct for inconsistencies and match values with the cleaned Lookup Table. 
 CSSE_DailyReports$Combined_Key <- paste(CSSE_DailyReports$Admin2, CSSE_DailyReports$Province_State, CSSE_DailyReports$Country_Region, sep=", ")
