@@ -1,5 +1,5 @@
 "Date_Published","FIPS","Admin2","Province_State","Country_Region","Last_Update","Latitude","Longitude","Confirmed","Deaths","Recovered","Active","Combined_Key"
-"03-22-2020","36061","New York City","New York","United States",2020-03-22 23:45:00,40.7672726,-73.97152637,9654,63,0,9591,"New York City, New York, United States"
+"03-22-2020",NA,"New York City","New York","United States",2020-03-22 23:45:00,NA,NA,9654,63,0,9591,"New York City, New York, United States"
 "03-22-2020","36059","Nassau","New York","United States",2020-03-22 23:45:00,40.74066522,-73.58941873,1900,4,0,1896,"Nassau, New York, United States"
 "03-22-2020","36119","Westchester","New York","United States",2020-03-22 23:45:00,41.16278376,-73.75741653,1873,0,0,1873,"Westchester, New York, United States"
 "03-22-2020","36103","Suffolk","New York","United States",2020-03-22 23:45:00,40.88320119,-72.8012172,1034,9,0,1025,"Suffolk, New York, United States"
