@@ -200,15 +200,15 @@ CSSE_DailyReports_Master <- tibble::rowid_to_column(CSSE_DailyReports_Master, "I
 # Arrange variable names to reflect a similar order to other JHU CSSE data.
 CSSE_DailyReports_Master <- subset(CSSE_DailyReports_Master, select=c("ID", "Date_Published", "UID", "iso2", "iso3", "code3", "FIPS", "Admin2", "Province_State", "Country_Region", "Last_Update","Latitude", "Longitude", "Confirmed", "Deaths", "Recovered", "Active", "Population"))
 
+# Save master as .Rdata file.
+save(CSSE_DailyReports_Master, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports.Rdata")
+
 # Split csv file. Starting on September 1st, 2020.
 # Note: By default, GitHub does not allow users to upload files larger than 100MB. The master file csv is therefore split to ensure ongoing updates.
 CSSE_DailyReports_Master2 <- CSSE_DailyReports_Master %>% 
   subset(Date_Published >= "09-01-2020")
 CSSE_DailyReports_Master <- CSSE_DailyReports_Master %>% 
   subset(Date_Published < "09-01-2020")
-
-# Save master as .Rdata file.
-save(CSSE_DailyReports_Master, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports.Rdata")
 
 # Save as multiple csv files.
 write.csv(CSSE_DailyReports_Master, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports.csv", row.names = FALSE)
