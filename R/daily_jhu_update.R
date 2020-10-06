@@ -194,12 +194,25 @@ CSSE_DailyReports_Master$code3 <- Lookup_Table$code3[match(CSSE_DailyReports_Mas
 # Add population statistics from Lookup Table.
 CSSE_DailyReports_Master$Population <- Lookup_Table$Population[match(CSSE_DailyReports_Master$Combined_Key, Lookup_Table$Combined_Key)]
 
-# Arrange variable names to reflect a similar order to other JHU CSSE data.
-CSSE_DailyReports_Master <- subset(CSSE_DailyReports_Master, select=c("Date_Published", "UID", "iso2", "iso3", "code3", "FIPS", "Admin2", "Province_State", "Country_Region", "Last_Update","Latitude", "Longitude", "Confirmed", "Deaths", "Recovered", "Active", "Population"))
+# Concatenating data results in duplicate UID values. Add unique ID (i.e., row number) to master file.
+CSSE_DailyReports_Master <- tibble::rowid_to_column(CSSE_DailyReports_Master, "ID")
 
-# Save master file.
+# Arrange variable names to reflect a similar order to other JHU CSSE data.
+CSSE_DailyReports_Master <- subset(CSSE_DailyReports_Master, select=c("ID", "Date_Published", "UID", "iso2", "iso3", "code3", "FIPS", "Admin2", "Province_State", "Country_Region", "Last_Update","Latitude", "Longitude", "Confirmed", "Deaths", "Recovered", "Active", "Population"))
+
+# Split csv file. Starting on September 1st, 2020.
+# Note: By default, GitHub does not allow users to upload files larger than 100MB. The master file csv is therefore split to ensure ongoing updates.
+CSSE_DailyReports_Master2 <- CSSE_DailyReports_Master %>% 
+  subset(Date_Published >= "09-01-2020")
+CSSE_DailyReports_Master <- CSSE_DailyReports_Master %>% 
+  subset(Date_Published < "09-01-2020")
+
+# Save master as .Rdata file.
 save(CSSE_DailyReports_Master, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports.Rdata")
+
+# Save as multiple csv files.
 write.csv(CSSE_DailyReports_Master, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports.csv", row.names = FALSE)
+write.csv(CSSE_DailyReports_Master2, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports2.csv", row.names = FALSE)
 
 # ___ end global daily reports  ____
 
