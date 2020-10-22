@@ -27,8 +27,8 @@ dirty_prov_names <- c("Toronto, ON", "London, ON", "Montreal, QC", "Calgary, Alb
 clean_prov_names <- c("Ontario","Ontario","Quebec","Alberta","Alberta","Virgin Islands","Virgin Islands", "Quebec", "Ontario", "Illinois", "Hong Kong", "Macau", "OHiggins")
 
 # Clean Admin2 names.
-dirty_admin_names <- c("Yolo County", "Williamson County", "Do<f1>a Ana", "\\<Bristol Bay plus Lake Peninsula\\>", "New York City", "New York County", "Queens County")
-clean_admin_names <- c("Yolo", "Williamson", "Dona Ana", "Bristol Bay and Lake and Peninsula", "New York", "New York", "Queens") 
+dirty_admin_names <- c("Yolo County", "Williamson County", "Do<f1>a Ana",  "New York City", "New York County", "Queens County")
+clean_admin_names <- c("Yolo", "Williamson", "Dona Ana", "New York", "New York", "Queens") 
 
 # General exceptions.
 dirty_general_names <- c("Bristol Bay")
