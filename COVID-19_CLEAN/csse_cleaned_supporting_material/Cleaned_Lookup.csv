@@ -321,6 +321,7 @@
 462,"MV","MDV",462,NA,NA,NA,"Maldives",3.2028,73.2207,"Maldives",540542
 466,"ML","MLI",466,NA,NA,NA,"Mali",17.570692,-3.996166,"Mali",20250834
 470,"MT","MLT",470,NA,NA,NA,"Malta",35.9375,14.3754,"Malta",441539
+584,"MH","MHL",584,NA,NA,NA,"Marshall Islands",7.1315,171.1845,"Marshall Islands",58413
 478,"MR","MRT",478,NA,NA,NA,"Mauritania",21.0079,-10.9408,"Mauritania",4649660
 480,"MU","MUS",480,NA,NA,NA,"Mauritius",-20.348404,57.552152,"Mauritius",1271767
 484,"MX","MEX",484,NA,NA,NA,"Mexico",23.6345,-102.5528,"Mexico",127792286
@@ -1105,7 +1106,7 @@
 84002240,"US","USA",840,"02240","Southeast Fairbanks","Alaska","United States",63.87692095,-143.2127643,"Southeast Fairbanks, Alaska, United States",6893
 84002261,"US","USA",840,"02261","Valdez-Cordova","Alaska","United States",61.47502768,-144.7126799,"Valdez-Cordova, Alaska, United States",9202
 84002275,"US","USA",840,"02275","Wrangell","Alaska","United States",56.3202004,-132.0583731,"Wrangell, Alaska, United States",2502
-84002282,"US","USA",840,"02282","Yakutat","Alaska","United States",59.8909808,-140.3601451,"Yakutat, Alaska, United States",579
+84002282,"US","USA",840,"02282","Yakutat plus Hoonah-Angoon","Alaska","United States",59.8909808,-140.3601451,"Yakutat plus Hoonah-Angoon, Alaska, United States",2727
 84002290,"US","USA",840,"02290","Yukon-Koyukuk","Alaska","United States",65.50815459,-151.3907387,"Yukon-Koyukuk, Alaska, United States",5230
 84004001,"US","USA",840,"04001","Apache","Arizona","United States",35.39465006,-109.4892383,"Apache, Arizona, United States",71887
 84004003,"US","USA",840,"04003","Cochise","Arizona","United States",31.87934684,-109.7516088,"Cochise, Arizona, United States",125922
