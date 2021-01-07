@@ -82,15 +82,23 @@ write.csv(Lookup_Table, file = "~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN
 files <- list.files(path="~/GitHub/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports", pattern="*.csv", full.names = TRUE)
 CSSE_DailyReports <- lapply(files, custom_read_csv) 
 
+files2021 <- list.files(path="~/GitHub/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports", pattern="*2021.csv", full.names = TRUE)
+CSSE_DailyReports2021 <- lapply(files2021, custom_read_csv) 
+
 # Subset more recent reports starting on March 18, 2020. This improves run time by avoiding having to re-clean messy data from before this date. Older reports may need to be cleaned manually if JHU commit retroactive updates. 
 CSSE_DailyReports <- CSSE_DailyReports[88:length(CSSE_DailyReports)]  
 
 # Encode new variables as a character for data wrangling. 
 CSSE_DailyReports <- lapply(CSSE_DailyReports, function(CSSE_DailyReports) mutate_at(CSSE_DailyReports, .vars = 1, as.character)) 
 CSSE_DailyReports <- lapply(CSSE_DailyReports, function(CSSE_DailyReports) mutate_at(CSSE_DailyReports, .vars = 2, as.character))
+CSSE_DailyReports2021 <- lapply(CSSE_DailyReports2021, function(CSSE_DailyReports2021) mutate_at(CSSE_DailyReports2021, .vars = 1, as.character)) 
+CSSE_DailyReports2021 <- lapply(CSSE_DailyReports2021, function(CSSE_DailyReports2021) mutate_at(CSSE_DailyReports2021, .vars = 2, as.character))
 
 # Concatenate CSV files into a single data frame.
 CSSE_DailyReports <- CSSE_DailyReports %>%  
+  bind_rows()
+
+CSSE_DailyReports2021 <- CSSE_DailyReports2021 %>%  
   bind_rows()
 
 # Enforce a YYYY-MM-DD HH:MM:SS (24 hour format, in UTC) POSIXct format. Most errors from JHU can be addressed by modifying `format`.
@@ -101,6 +109,20 @@ CSSE_DailyReports$Last_Update <- as.POSIXct(CSSE_DailyReports$Last_Update, forma
 CSSE_DailyReports <- CSSE_DailyReports %>% 
   rename(Latitude=Lat,
          Longitude=Long_)
+
+CSSE_DailyReports2021 <- CSSE_DailyReports2021 %>% 
+  rename(Latitude=Lat,
+         Longitude=Long_)
+
+# Ensure that columns are in a consistent order. Some variables (e.g., `Incidence_rate`, `Case-fatality_Ratio`) are excluded as JHU has inconsistently uploaded them in the past. Users are able to calculate these variables themselves using the data available to them. 
+CSSE_DailyReports <- CSSE_DailyReports %>% 
+  subset(select=c( "Date_Published", "FIPS", "Admin2", "Province_State", "Country_Region", "Last_Update", "Latitude", "Longitude", "Confirmed", "Deaths", "Recovered", "Active", "Combined_Key"))
+
+CSSE_DailyReports2021 <- CSSE_DailyReports2021 %>% 
+  subset(select=c( "Date_Published", "FIPS", "Admin2", "Province_State", "Country_Region", "Last_Update", "Latitude", "Longitude", "Confirmed", "Deaths", "Recovered", "Active", "Combined_Key"))
+
+# Use rbind() to concatenate reports.
+CSSE_DailyReports <- rbind(CSSE_DailyReports, CSSE_DailyReports2021)
 
 # Sanity check. The number of cases for any given row cannot be less than 0. Negative values are returned as missing values.
 CSSE_DailyReports$Confirmed <-  ifelse(CSSE_DailyReports$Confirmed >= 0, CSSE_DailyReports$Confirmed, NA)
@@ -128,9 +150,9 @@ CSSE_DailyReports$FIPS <- Lookup_Table$FIPS[match(CSSE_DailyReports$Combined_Key
 CSSE_DailyReports$Latitude <- Lookup_Table$Latitude[match(CSSE_DailyReports$Combined_Key, Lookup_Table$Combined_Key)]
 CSSE_DailyReports$Longitude <- Lookup_Table$Longitude[match(CSSE_DailyReports$Combined_Key, Lookup_Table$Combined_Key)]
 
-# Ensure that columns are in a consistent order. This task also prevents mistakenly uploaded variables from being included (e.g., `Incidence_rate`, `Case-fatality_Ratio`).
-CSSE_DailyReports <- CSSE_DailyReports %>% 
-  subset(select=c( "Date_Published", "FIPS", "Admin2", "Province_State", "Country_Region", "Last_Update", "Latitude", "Longitude", "Confirmed", "Deaths", "Recovered", "Active", "Combined_Key"))
+# Ensure that columns are in a consistent order. Some variables (e.g., `Incidence_rate`, `Case-fatality_Ratio`) are excluded as JHU has inconsistently uploaded them in the past. Users are able to calculate these variables themselves using the data available to them. 
+# CSSE_DailyReports <- CSSE_DailyReports %>% 
+#   subset(select=c( "Date_Published", "FIPS", "Admin2", "Province_State", "Country_Region", "Last_Update", "Latitude", "Longitude", "Confirmed", "Deaths", "Recovered", "Active", "Combined_Key"))
 
 # Geographical locations are treated as factors rather than character strings. Keeps encoding consistent with Lookup Table.
 CSSE_DailyReports$Admin2 <- as.factor(CSSE_DailyReports$Admin2)
@@ -162,7 +184,7 @@ CSSE_DailyReports <- lapply(CSSE_DailyReports, function(x) x[,2:ncol(x), drop = 
 # Ensure character encoding. 
 CSSE_DailyReports <- lapply(CSSE_DailyReports, function(CSSE_DailyReports) mutate_at(CSSE_DailyReports, .vars = 2, as.character))
 
-# Concatenate CSV files into a single data frame. 
+# Concatenate .csv files into a single data frame. 
 CSSE_DailyReports <- CSSE_DailyReports %>%  
   bind_rows()
 
@@ -174,10 +196,10 @@ CSSE_DailyReports$Longitude <- Lookup_Table$Longitude[match(CSSE_DailyReports$Co
 # setwd() to csse_covid_19_daily_reports_cleaned.
 setwd("~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_daily_reports_cleaned")
 
-# Write CSV files. Split dataframe by Date_Published.
+# Write .csv files. Split dataframe by Date_Published.
 daily_dfs_cleaned <- split(CSSE_DailyReports, list(CSSE_DailyReports$Date_Published))
 
-# Write a separate CSV for each date. 
+# Write a separate .csv for each date. 
 for (Date_Published in names(daily_dfs_cleaned)) {
   write.csv(daily_dfs_cleaned[[Date_Published]], paste0(Date_Published, ".csv"), row.names = FALSE)
 }
@@ -428,7 +450,7 @@ save(CSSE_US_TimeSeries, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/
 
 # Split data on August 1st, 2020.
 CSSE_US_TimeSeries2 <- CSSE_US_TimeSeries %>% 
-      subset(Date >= "2020-08-01")
+  subset(Date >= "2020-08-01")
 CSSE_US_TimeSeries <- CSSE_US_TimeSeries %>% 
   subset(Date < "2020-08-01")
 
