@@ -93,6 +93,8 @@ CSSE_DailyReports <- lapply(CSSE_DailyReports, function(CSSE_DailyReports) mutat
 CSSE_DailyReports <- lapply(CSSE_DailyReports, function(CSSE_DailyReports) mutate_at(CSSE_DailyReports, .vars = 2, as.character))
 CSSE_DailyReports2021 <- lapply(CSSE_DailyReports2021, function(CSSE_DailyReports2021) mutate_at(CSSE_DailyReports2021, .vars = 1, as.character)) 
 CSSE_DailyReports2021 <- lapply(CSSE_DailyReports2021, function(CSSE_DailyReports2021) mutate_at(CSSE_DailyReports2021, .vars = 2, as.character))
+CSSE_DailyReports2021 <- lapply(CSSE_DailyReports2021, function(CSSE_DailyReports2021) mutate_at(CSSE_DailyReports2021, .vars = 14, as.character))
+CSSE_DailyReports2021 <- lapply(CSSE_DailyReports2021, function(CSSE_DailyReports2021) mutate_at(CSSE_DailyReports2021, .vars = 15, as.character))
 
 # Concatenate CSV files into a single data frame.
 CSSE_DailyReports <- CSSE_DailyReports %>%  
