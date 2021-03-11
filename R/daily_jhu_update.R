@@ -86,7 +86,7 @@ files2021 <- list.files(path="~/GitHub/COVID-19/csse_covid_19_data/csse_covid_19
 CSSE_DailyReports2021 <- lapply(files2021, custom_read_csv) 
 
 # Subset more recent reports starting on March 18, 2020. This improves run time by avoiding having to re-clean messy data from before this date. Older reports may need to be cleaned manually if JHU commit retroactive updates. 
-CSSE_DailyReports <- CSSE_DailyReports[145:length(CSSE_DailyReports)]  
+CSSE_DailyReports <- CSSE_DailyReports[180:length(CSSE_DailyReports)]  
 
 # Encode new variables as a character for data wrangling. 
 CSSE_DailyReports <- lapply(CSSE_DailyReports, function(CSSE_DailyReports) mutate_at(CSSE_DailyReports, .vars = 1, as.character)) 
