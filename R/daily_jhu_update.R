@@ -227,16 +227,20 @@ CSSE_DailyReports_Master <- subset(CSSE_DailyReports_Master, select=c("ID", "Dat
 # Save master as .Rdata file.
 save(CSSE_DailyReports_Master, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports.Rdata")
 
-# Split csv file. Starting on September 1st, 2020.
-# Note: By default, GitHub does not allow users to upload files larger than 100MB. The master file csv is therefore split to ensure ongoing updates.
+# Split csv files. To upload master csv files to GitHub. By default, GitHub does not allow users to upload files larger than 100MB. The master file csv is therefore split to ensure ongoing updates.
+CSSE_DailyReports_Master$Date_Published <- as.Date(CSSE_DailyReports_Master$Date_Published, "%m-%d-%Y")
+
+CSSE_DailyReports_Master3 <- CSSE_DailyReports_Master %>% 
+  subset(Date_Published >= "2021-01-01")
 CSSE_DailyReports_Master2 <- CSSE_DailyReports_Master %>% 
-  subset(Date_Published >= "09-01-2020")
+  subset(Date_Published < "2021-01-01" & Date_Published >= "2020-09-01")
 CSSE_DailyReports_Master <- CSSE_DailyReports_Master %>% 
-  subset(Date_Published < "09-01-2020")
+  subset(Date_Published < "2020-09-01")
 
 # Save as multiple csv files.
 write.csv(CSSE_DailyReports_Master, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports.csv", row.names = FALSE)
 write.csv(CSSE_DailyReports_Master2, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports2.csv", row.names = FALSE)
+write.csv(CSSE_DailyReports_Master3, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_DailyReports3.csv", row.names = FALSE)
 
 # ___ end global daily reports  ____
 
@@ -450,15 +454,20 @@ CSSE_US_TimeSeries$Deaths <- ifelse(CSSE_US_TimeSeries$Deaths >= 0, CSSE_US_Time
 # Save Rdata file.
 save(CSSE_US_TimeSeries, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_clean_data/CSSE_US_TimeSeries.Rdata")
 
-# Split data on August 1st, 2020.
+# Split into multiple csv. Files larger than 100MB cannot be pushed to GitHub.
+CSSE_US_TimeSeries$Date <- as.Date(CSSE_US_TimeSeries$Date, "%m-%d-%Y")
+
+CSSE_US_TimeSeries3 <- CSSE_US_TimeSeries %>% 
+  subset(Date >= "2020-12-01")
 CSSE_US_TimeSeries2 <- CSSE_US_TimeSeries %>% 
-  subset(Date >= "2020-08-01")
+  subset(Date < "2020-12-01" & Date >= "2020-06-01")
 CSSE_US_TimeSeries <- CSSE_US_TimeSeries %>% 
-  subset(Date < "2020-08-01")
+  subset(Date < "2020-06-01")
 
 # Save as multiple csv files.
 write.csv(CSSE_US_TimeSeries, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_time_series_cleaned/time_series_covid19_tidy_US.csv", row.names = FALSE)
 write.csv(CSSE_US_TimeSeries2, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_time_series_cleaned/time_series_covid19_tidy_US2.csv", row.names = FALSE)
+write.csv(CSSE_US_TimeSeries3, file="~/GitHub/COVID-19-CLEANED-JHUCSSE/COVID-19_CLEAN/csse_covid_19_time_series_cleaned/time_series_covid19_tidy_US3.csv", row.names = FALSE)
 
 # Remove all objects and restart the R session. All data at this point will be saved to subfolders in the root directory. The data are organized according to JHU's scheme.
 rm(list=ls())
