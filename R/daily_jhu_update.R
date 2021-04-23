@@ -13,7 +13,7 @@
 # Packages and Functions ----
 
 # Load required packages (or install if necessary).
-if(!require(pacman)) install.packages("pacman")
+if(!require(pacman, quietly = TRUE)) install.packages("pacman")
 pacman::p_load(tidyverse, stringi)
 
 # Load custom functions for this project (See covid_functions.R).
